@@ -8,17 +8,41 @@ export default {
   theme: {
     extend: {
       colors: {
+        // Aromanian wine/maroon - deeper, less bright
+        aromanian: {
+          50: '#faf5f5',
+          100: '#f5eaea',
+          200: '#ebd4d4',
+          300: '#dbb3b3',
+          400: '#c48888',
+          500: '#a85f5f',
+          600: '#8b4545',
+          700: '#733838',
+          800: '#5f3030',
+          900: '#4d2828',
+          950: '#2a1414',
+        },
+        // Keep primary as alias
         primary: {
-          50: '#f0f9ff',
-          100: '#e0f2fe',
-          200: '#bae6fd',
-          300: '#7dd3fc',
-          400: '#38bdf8',
-          500: '#0ea5e9',
-          600: '#0284c7',
-          700: '#0369a1',
-          800: '#075985',
-          900: '#0c4a6e',
+          50: '#faf5f5',
+          100: '#f5eaea',
+          200: '#ebd4d4',
+          300: '#dbb3b3',
+          400: '#c48888',
+          500: '#a85f5f',
+          600: '#8b4545',
+          700: '#733838',
+          800: '#5f3030',
+          900: '#4d2828',
+          950: '#2a1414',
+        },
+        // Off-white / cream colors
+        cream: {
+          50: '#fefdfb',
+          100: '#fdf9f3',
+          200: '#faf3e8',
+          300: '#f5ead8',
+          400: '#eddcc0',
         },
       },
     },

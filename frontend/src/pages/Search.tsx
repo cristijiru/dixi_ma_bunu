@@ -50,19 +50,19 @@ export default function Search() {
           {isLoading ? (
             <div className="space-y-4">
               {Array.from({ length: 5 }, (_, i) => (
-                <div key={i} className="bg-white rounded-lg p-4 animate-pulse">
-                  <div className="h-6 bg-gray-200 rounded w-1/4 mb-2" />
-                  <div className="h-4 bg-gray-200 rounded w-1/2" />
+                <div key={i} className="bg-cream-50 dark:bg-neutral-900 rounded-lg p-4 animate-pulse border border-aromanian-100 dark:border-neutral-800">
+                  <div className="h-6 bg-aromanian-100 dark:bg-neutral-800 rounded w-1/4 mb-2" />
+                  <div className="h-4 bg-aromanian-100 dark:bg-neutral-800 rounded w-1/2" />
                 </div>
               ))}
             </div>
           ) : error ? (
-            <div className="text-center py-8 text-red-600">
+            <div className="text-center py-8 text-aromanian-600 dark:text-aromanian-400">
               An error occurred while searching. Please try again.
             </div>
           ) : results && results.length > 0 ? (
             <>
-              <p className="text-gray-600 mb-4">
+              <p className="text-gray-600 dark:text-neutral-400 mb-4">
                 Found {results.length} result{results.length !== 1 ? 's' : ''} for "{query}"
               </p>
               <div className="space-y-4">
@@ -70,10 +70,10 @@ export default function Search() {
                   <div key={result.entry.id} className="relative">
                     <WordCard entry={result.entry} compact />
                     <span className={`absolute top-2 right-2 text-xs px-2 py-1 rounded ${
-                      result.match_type === 'exact' ? 'bg-green-100 text-green-700' :
-                      result.match_type === 'prefix' ? 'bg-blue-100 text-blue-700' :
-                      result.match_type === 'contains' ? 'bg-yellow-100 text-yellow-700' :
-                      'bg-gray-100 text-gray-700'
+                      result.match_type === 'exact' ? 'bg-aromanian-100 text-aromanian-700 dark:bg-aromanian-900/50 dark:text-aromanian-300' :
+                      result.match_type === 'prefix' ? 'bg-aromanian-50 text-aromanian-600 dark:bg-neutral-800 dark:text-aromanian-400' :
+                      result.match_type === 'contains' ? 'bg-cream-200 text-gray-700 dark:bg-neutral-800 dark:text-neutral-300' :
+                      'bg-cream-100 text-gray-600 dark:bg-neutral-900 dark:text-neutral-400'
                     }`}>
                       {result.match_type}
                     </span>
@@ -82,7 +82,7 @@ export default function Search() {
               </div>
             </>
           ) : (
-            <div className="text-center py-8 text-gray-600">
+            <div className="text-center py-8 text-gray-600 dark:text-neutral-400">
               No results found for "{query}". Try a different search term.
             </div>
           )}
@@ -107,13 +107,13 @@ function RecentSearches({ onSelect }: { onSelect: (query: string) => void }) {
 
   return (
     <section>
-      <h2 className="text-lg font-semibold text-gray-700 mb-4">Recent Searches</h2>
+      <h2 className="text-lg font-semibold text-aromanian-700 dark:text-aromanian-400 mb-4">Recent Searches</h2>
       <div className="flex flex-wrap gap-2">
         {recent.map(query => (
           <button
             key={query}
             onClick={() => onSelect(query)}
-            className="px-4 py-2 bg-white border border-gray-200 rounded-full hover:border-primary-400 hover:bg-primary-50 transition"
+            className="px-4 py-2 bg-cream-50 dark:bg-neutral-900 border border-aromanian-200 dark:border-neutral-700 rounded-full hover:border-aromanian-400 dark:hover:border-aromanian-500 hover:bg-aromanian-50 dark:hover:bg-neutral-800 text-aromanian-700 dark:text-aromanian-400 transition"
           >
             {query}
           </button>

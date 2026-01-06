@@ -105,29 +105,29 @@ export default function SearchBar({ initialQuery = '', autoFocus = false, onSear
           onKeyDown={handleKeyDown}
           placeholder="Search for a word..."
           autoFocus={autoFocus}
-          className="w-full px-6 py-4 text-lg border-2 border-gray-300 dark:border-gray-600 rounded-full focus:outline-none focus:border-primary-500 focus:ring-2 focus:ring-primary-200 dark:focus:ring-primary-800 bg-white dark:bg-gray-800 dark:text-white transition"
+          className="w-full px-6 py-4 text-lg border-2 border-aromanian-200 dark:border-neutral-700 rounded-full focus:outline-none focus:border-aromanian-500 dark:focus:border-aromanian-500 focus:ring-2 focus:ring-aromanian-100 dark:focus:ring-aromanian-900 bg-cream-50 dark:bg-neutral-900 dark:text-white transition"
         />
         <button
           type="submit"
-          className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-2 bg-primary-600 text-white rounded-full hover:bg-primary-700 transition"
+          className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-2 bg-aromanian-600 text-white rounded-full hover:bg-aromanian-700 transition"
         >
           Search
         </button>
       </div>
 
       {showSuggestions && suggestions.length > 0 && (
-        <ul className="absolute z-10 w-full mt-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg max-h-60 overflow-auto">
+        <ul className="absolute z-10 w-full mt-2 bg-cream-50 dark:bg-neutral-900 border border-aromanian-200 dark:border-neutral-700 rounded-lg shadow-lg max-h-60 overflow-auto">
           {suggestions.map((suggestion, index) => (
             <li
               key={suggestion.headword}
               onClick={() => handleSuggestionClick(suggestion)}
               className={`px-4 py-2 cursor-pointer flex justify-between ${
-                index === selectedIndex ? 'bg-primary-100 dark:bg-primary-900' : 'hover:bg-gray-100 dark:hover:bg-gray-700'
+                index === selectedIndex ? 'bg-aromanian-50 dark:bg-neutral-800' : 'hover:bg-aromanian-50 dark:hover:bg-neutral-800'
               }`}
             >
               <span className="font-medium">{suggestion.headword}</span>
               {suggestion.part_of_speech && (
-                <span className="text-sm text-gray-500 dark:text-gray-400 italic">{suggestion.part_of_speech}</span>
+                <span className="text-sm text-gray-500 dark:text-neutral-400 italic">{suggestion.part_of_speech}</span>
               )}
             </li>
           ))}
