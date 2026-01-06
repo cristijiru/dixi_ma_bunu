@@ -1,0 +1,76 @@
+import { useQuery } from '@tanstack/react-query'
+import SearchBar from '../components/SearchBar'
+import WordCard from '../components/WordCard'
+import LetterNav from '../components/LetterNav'
+import { getRandomWord, getStats } from '../api/client'
+
+export default function Home() {
+  const { data: wordOfDay, isLoading: loadingWord } = useQuery({
+    queryKey: ['wordOfDay'],
+    queryFn: getRandomWord,
+    staleTime: 1000 * 60 * 60, // 1 hour
+  })
+
+  const { data: stats } = useQuery({
+    queryKey: ['stats'],
+    queryFn: getStats,
+  })
+
+  return (
+    <div className="space-y-12">
+      <section className="text-center py-8">
+        <h1 className="text-4xl font-bold text-gray-800 mb-4">
+          Aromanian Dictionary
+        </h1>
+        <p className="text-gray-600 mb-8 max-w-xl mx-auto">
+          Explore the rich vocabulary of the Aromanian language with translations
+          in Romanian, English, and French.
+        </p>
+        <SearchBar autoFocus />
+      </section>
+
+      <section>
+        <h2 className="text-xl font-semibold text-gray-700 mb-4 text-center">
+          Browse by Letter
+        </h2>
+        <LetterNav />
+      </section>
+
+      <section className="max-w-2xl mx-auto">
+        <h2 className="text-xl font-semibold text-gray-700 mb-4">
+          Word of the Day
+        </h2>
+        {loadingWord ? (
+          <div className="bg-white rounded-xl shadow-md p-6 animate-pulse">
+            <div className="h-8 bg-gray-200 rounded w-1/3 mb-4" />
+            <div className="h-4 bg-gray-200 rounded w-2/3" />
+          </div>
+        ) : wordOfDay ? (
+          <WordCard entry={wordOfDay} />
+        ) : null}
+      </section>
+
+      {stats && (
+        <section className="text-center py-8 bg-gray-100 rounded-xl">
+          <h2 className="text-xl font-semibold text-gray-700 mb-4">
+            Dictionary Statistics
+          </h2>
+          <div className="flex justify-center gap-8">
+            <div>
+              <p className="text-3xl font-bold text-primary-600">
+                {stats.total_entries.toLocaleString()}
+              </p>
+              <p className="text-sm text-gray-600">Total Entries</p>
+            </div>
+            <div>
+              <p className="text-3xl font-bold text-primary-600">
+                {stats.entries_by_letter.length}
+              </p>
+              <p className="text-sm text-gray-600">Letters</p>
+            </div>
+          </div>
+        </section>
+      )}
+    </div>
+  )
+}
