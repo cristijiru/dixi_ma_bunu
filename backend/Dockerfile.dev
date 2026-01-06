@@ -1,10 +1,13 @@
-FROM rust:1.83-slim-bookworm
+FROM rust:1.85-slim-bookworm
 
 WORKDIR /app
 
 # Install build dependencies, cargo-watch, and PostgreSQL client
 RUN apt-get update && apt-get install -y pkg-config libssl-dev postgresql-client && rm -rf /var/lib/apt/lists/*
-RUN cargo install cargo-watch
+RUN cargo install cargo-watch --locked
+
+# Copy Cargo files for dependency resolution
+COPY Cargo.toml Cargo.lock ./
 
 # Copy entrypoint script
 COPY entrypoint.dev.sh /usr/local/bin/entrypoint.sh

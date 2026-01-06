@@ -10,7 +10,7 @@ echo "Database is ready!"
 
 # Build the import binary first
 echo "Building import binary..."
-cargo build --bin import 2>/dev/null || true
+cargo build --locked --bin import 2>/dev/null || true
 
 # Check if data needs to be imported
 ENTRY_COUNT=$(psql "$DATABASE_URL" -t -c "SELECT COUNT(*) FROM entries;" 2>/dev/null || echo "0")
@@ -21,7 +21,7 @@ if [ "$ENTRY_COUNT" = "0" ] || [ -z "$ENTRY_COUNT" ]; then
 
   if [ -f "/data/dictionary.jsonl" ]; then
     echo "Found dictionary.jsonl, importing data..."
-    cargo run --bin import -- /data/dictionary.jsonl
+    cargo run --locked --bin import -- /data/dictionary.jsonl
     echo "Import complete!"
   else
     echo "No data file found at /data/dictionary.jsonl, skipping import."
@@ -31,4 +31,4 @@ else
 fi
 
 echo "Starting dev server with hot reload..."
-exec cargo watch -x run
+exec cargo watch -x "run --locked"
