@@ -1,0 +1,955 @@
+{
+  "metadata": {
+    "source": "dixionline.net",
+    "source_url": "https://www.dixionline.net",
+    "scraped_at": "2026-01-06T09:32:22.053603Z",
+    "total_entries": 86,
+    "description": "Aromanian/Vlach dictionary with translations to Romanian, English, and French"
+  },
+  "entries": [
+    {
+      "headword": "a1",
+      "definition": "{ro: la, a, ca pentru, etc.}",
+      "translation_ro": "la, a, ca pentru, etc.",
+      "translation_en": "at, as, etc.",
+      "translation_fr": "au, à l’, à la, aux, etc.",
+      "examples": [
+        "sã ncljinarã a (la) cicioari",
+        "filigenj tri a beari yin",
+        "chinsirã si s-ducã a (tri) beari",
+        "hai, niveastã, a (la) primnari",
+        "s-duc a (la, s-facã) zbor",
+        "ãlj bati a (ca) vearã",
+        "anjurzeashti a (ca) primuvearã",
+        "bãtea a (ca) yiu",
+        "nu bãtea dip a (ca) yiu",
+        "anjurzeashti a (ca) om"
+      ],
+      "expressions": [
+        "pãnã s-cadã mpadi di-avursiri)"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "a2",
+      "part_of_speech": "articul",
+      "examples": [
+        "un oclju a meu, ocljilj a mei",
+        "perlu a luplui, doi peri a cãnilui",
+        "unã casã a voastrã, casili a voastri",
+        "trei erghi a loclui, erghili a loclui",
+        "dintsãlj a luchilor, capitili a boilor",
+        "lilicea a Pindului",
+        "shi tu formili al, ali, (a-lù, a-li) tu zboarã ca: ocljul al cal, ocljilj al cal",
+        "unglja al cal, ungljili al cal",
+        "dintili ali eapã, dintsãlj ali eapã",
+        "narea ali eapã, nãrili ali eapã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "a3",
+      "definition": "{ro: mă!, măi!, bă!, hei!, fă!; haide, etc.}",
+      "translation_ro": "mă!, măi!, bă!, hei!, fă!; haide, etc.",
+      "translation_en": "heigh!, hey, you!, say!, look here!, etc.; let’s go!, etc.",
+      "translation_fr": "hé!, hola!, etc.; allons, etc.",
+      "examples": [
+        "am tsi dzãtsi, a! (bre!) om?",
+        "a (bre!) om, nu fã siri",
+        "voi, a! (vre!) muntsã",
+        "a, voi sots, a, voi mãrats",
+        "a lea, nji nchisii",
+        "a (aidi), nã featã, trã surtseali (multi ori s-leagã cu lea, vea, tra s-facã zboarãli a-lea/alea, a-vea/avea, etc.)"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "a4",
+      "definition": "{ro: forma scurtă de la particula “va” cu care se face viitorul}",
+      "translation_ro": "forma scurtă de la particula “va” cu care se face viitorul",
+      "translation_en": "short form of the particle “va” used to make the future",
+      "translation_fr": "forme courte de la particule “va” qui sert à former le futur",
+      "examples": [
+        "eu cu mortu-a s-mi mãrit",
+        "nu-a s-avdã-a lui fluearã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "aaaa1",
+      "translation_ro": "rom",
+      "translation_en": "e1",
+      "translation_fr": "f1",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "abagi",
+      "part_of_speech": "sm",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abagirii/abagirie",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abagiu",
+      "translation_ro": "abagiu - comerciant de aba",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abagiu",
+      "part_of_speech": "sm",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abanozi",
+      "translation_ro": "abanos",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abanozi",
+      "part_of_speech": "sm",
+      "definition": "{ro: abanos}",
+      "translation_ro": "abanos",
+      "translation_en": "ebony",
+      "translation_fr": "ébène",
+      "examples": [
+        "bãstuni di abanozi"
+      ],
+      "related_terms": [
+        "banozi"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abat",
+      "definition": "{ro: abate, da la o parte, face loc}",
+      "translation_ro": "abate, da la o parte, face loc",
+      "translation_en": "make place, distance himself, divert, deviate",
+      "translation_fr": "(se) rabattre, (s’)écarter, faire place, dévier",
+      "examples": [
+        "picurarlu abati (li dutsi altã parti) oili",
+        "picurarlu s-"
+      ],
+      "related_terms": [
+        "abatiri/abatire"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abatiri/abatire",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abatu",
+      "translation_ro": "abate, v",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abâ",
+      "translation_ro": "aba - stofă groasă",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abã",
+      "pronunciation": "a-bắ",
+      "part_of_speech": "sm",
+      "definition": "{ro: aba}",
+      "translation_ro": "aba",
+      "translation_en": "frieze, rough homespun, rough material (of wool)",
+      "translation_fr": "aba, bure, drap",
+      "related_terms": [
+        "abagi",
+        "abagi-rii/abagirie"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abãnos",
+      "pronunciation": "a-bã-nósŭ",
+      "part_of_speech": "sm",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abãteari/abãteare",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "abãtut",
+      "pronunciation": "a-bã-tútŭ",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "acamã",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "acasã",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "acoalã1",
+      "pronunciation": "a-cóljĭ",
+      "definition": "{ro: coală de hîrtie}",
+      "translation_ro": "coală de hîrtie",
+      "translation_en": "sheet of paper",
+      "translation_fr": "feuille de papier",
+      "examples": [
+        "lja vãrã ndauã acolj apoea shi s-astuchi tuti guvili"
+      ],
+      "related_terms": [
+        "coalã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "acoalã2",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "acrinã",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "aculsescu",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "aculsiri/aculsire",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "aculsit",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "aculã",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "adoara1",
+      "pronunciation": "a-dŭá-ra",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "adoara2",
+      "pronunciation": "a-dŭá-ra",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "adoarã1",
+      "definition": "{ro: zori de zi, spre ora două noaptea}",
+      "translation_ro": "zori de zi, spre ora două noaptea",
+      "translation_en": "at dawn, about 2 o’clock at night",
+      "translation_fr": "pointe du jour, à l’aube, vers deux heures du matin",
+      "examples": [
+        "di-adoarã, shtii, cãndu lja s-creapã dzua",
+        "lunjineadzã pãn di-adoarã",
+        "pãnã cãtrã di-adoarã (tu cripata-a dzuãljei), ne cipit di om i di prici nu s-vidzu",
+        "pãnã di-adoarã yipturli eara curati shi aleapti dupã simintsã"
+      ],
+      "related_terms": [
+        "deadoarã",
+        "adoar",
+        "dadoar",
+        "deadoar"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "adoarã2",
+      "definition": "{ro: a doua oară}",
+      "translation_ro": "a doua oară",
+      "translation_en": "the second time",
+      "translation_fr": "la deuxième fois",
+      "examples": [
+        "featsirã numtã mari di-adoarã (andaua oarã)",
+        "nu putu s-u-aflã adoarã (andoaua oarã) calea",
+        "nu-ashtiptarã dzãcã adoara"
+      ],
+      "related_terms": [
+        "deadoarã",
+        "deadoar",
+        "adoar",
+        "adoaura",
+        "dadoar"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "adoaura",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "adzã",
+      "definition": "{ro: azi}",
+      "translation_ro": "azi",
+      "translation_en": "today",
+      "translation_fr": "aujourd’hui",
+      "examples": [
+        "gioacã adzã, gioacã mãni",
+        "nu eara ca featili shi nveastili di adzã"
+      ],
+      "related_terms": [
+        "asãndz",
+        "astãzã",
+        "astãndzã",
+        "adz",
+        "astãz",
+        "astãdz",
+        "asãndzã",
+        "az",
+        "astãndz",
+        "azã",
+        "andzã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "afendi",
+      "pronunciation": "a-fin-díljĭ",
+      "part_of_speech": "sm",
+      "definition": "{ro: tată; preot}",
+      "translation_ro": "tată; preot",
+      "translation_en": "father; priest",
+      "translation_fr": "père; prêtre",
+      "examples": [
+        "ghini dzãtsea mana, ore afendi",
+        "afendi (tata) nu yini adz"
+      ],
+      "related_terms": [
+        "afendilji/afendilje",
+        "afindico",
+        "afindilji/afindilje",
+        "afendu"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "aflu",
+      "pronunciation": "a-fláĭ",
+      "definition": "{ro: afla; găsi; descoperi; întâlni; naşte}",
+      "translation_ro": "afla; găsi; descoperi; întâlni; naşte",
+      "translation_en": "find; discover; learn; meet; be born",
+      "translation_fr": "trouver; découvrir; apprendre; rencontrer; naître",
+      "examples": [
+        "mi-aflam (earam) tu gãrdinã cãndu vinjish",
+        "acumpãrai aestã lugurii tra si s-aflã (s-hibã, s-u am) n casã",
+        "aflai unã fluearã bunã",
+        "avea aflatã nã leshi shi nu shtea cum s-u mpartã",
+        "cãtã iu s-aflã (easti, cadi) hoara-a voastrã?",
+        "diunãoarã mi-aflai (s-tihisi s-mi ved) anvãrligat di tuti pãrtsãli",
+        "di-auã pãnã n cuprii nu aflji (ugrãdiseshti, dai di) un ca el",
+        "mi duc s-aflu (ugrãdisescu) caljlji",
+        "aflai (nvitsai) unã hãbari bunã",
+        "aflai cã fudzish"
+      ],
+      "expressions": [
+        "1: mi aflu (tu-un loc) = escu, hiu (tu-un loc"
+      ],
+      "related_terms": [
+        "aflari/aflare",
+        "aflat"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "afoarã1",
+      "pronunciation": "casã, filichii, sfinduchi, gepi, etc.",
+      "definition": "{ro: afară; separat}",
+      "translation_ro": "afară; separat",
+      "translation_en": "outside, in the mountains, etc.; separately",
+      "translation_fr": "dehors, dans les montagnes, etc.; séparement",
+      "examples": [
+        "altsã cuscri shed afoarã",
+        "om criscut tu bumbacuri nu poati s-facã afoarã (tu muntsã)",
+        "nu avea altu afoarã di nãs"
+      ],
+      "expressions": [
+        "1: altu afoarã di nãs (di-un lucru, idei, etc.) = tsi easti altu di nãs"
+      ],
+      "related_terms": [
+        "dinafoarã",
+        "nafoarã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a1"
+    },
+    {
+      "headword": "afoarã2",
+      "pronunciation": "lãngoari",
+      "definition": "{ro: un fel de tifos}",
+      "translation_ro": "un fel de tifos",
+      "translation_en": "a variety of typhus",
+      "translation_fr": "une sorte de typhus",
+      "examples": [
+        "easti agudit di afoarã (fig: tifus, njatsã, buitsã)"
+      ],
+      "related_terms": [
+        "nafoarã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "ageaba",
+      "translation_ro": "oare?",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "ageaba",
+      "definition": "{ro: oare, nu cumva}",
+      "translation_ro": "oare, nu cumva",
+      "translation_en": "really",
+      "translation_fr": "est-ce que)",
+      "examples": [
+        "ageaba (nacã), va treacã? (va treacã tsiva...?)"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "agonja",
+      "definition": "{ro: curând, repede}",
+      "translation_ro": "curând, repede",
+      "translation_en": "soon, fast",
+      "translation_fr": "bientôt, vite",
+      "examples": [
+        "s-alinã agonja, agonja",
+        "agonja dupã avucat"
+      ],
+      "related_terms": [
+        "agunjisiri/agunjisire",
+        "agunja",
+        "agunjisescu",
+        "gonja",
+        "agunjisit",
+        "agunjii/agunjie"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "alabaci",
+      "definition": "{ro: copilandru, băieţandru, adolescent}",
+      "translation_ro": "copilandru, băieţandru, adolescent",
+      "translation_en": "urchin, youngster, adolescent",
+      "translation_fr": "gamin, marmouset, adolescent",
+      "examples": [
+        "alabaci (ficiurac, hilandru) cum sh-eara"
+      ],
+      "related_terms": [
+        "talabaci"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "alabaciu",
+      "translation_ro": "copilandru",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "alas",
+      "pronunciation": "a-lã-sáĭ",
+      "definition": "{ro: lăsa, renunţa}",
+      "translation_ro": "lăsa, renunţa",
+      "translation_en": "let, renounce",
+      "translation_fr": "laisser, renoncer",
+      "examples": [
+        "alasã-l sh-nu-l cãrtea",
+        "alasã-l s-yinã s-nj-agiutã",
+        "ni lo, ni alãsã",
+        "mi-alãsai (trapshu mãna) di beari",
+        "furlji lu-alãsarã (l-sãlghirã) sclavlu",
+        "ma nu lu-alasã (nu-l sãlãgheashti, nu-lj da cali) s-fugã",
+        "lu-alãsai sh-nu voi s-lu ved",
+        "lai Suliman, alasã-ti (tradzi mãna)",
+        "nãs alãsã sãnãtati"
+      ],
+      "expressions": [
+        "1: lj-alas zbor = ãlj dzãc, ãlj dimãndu"
+      ],
+      "related_terms": [
+        "alãsat"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "alatus",
+      "pronunciation": "a-lá-thusĭ",
+      "definition": "{ro: greşeală, eroare; vină}",
+      "translation_ro": "greşeală, eroare; vină",
+      "translation_en": "mistake, error, fault",
+      "translation_fr": "faute, erreur",
+      "examples": [
+        "alatus s-nu fãtseam"
+      ],
+      "related_terms": [
+        "alãtipsiri/alãtipsire",
+        "latus",
+        "alat",
+        "lãtipsescu",
+        "alãtipsescu",
+        "alãtipsit",
+        "lãtipsit"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "albã2",
+      "pronunciation": "tsi s-lja multu lishor di la un la altu",
+      "definition": "{ro: pojar, vărsat}",
+      "translation_ro": "pojar, vărsat",
+      "translation_en": "smallpox",
+      "translation_fr": "petite verole",
+      "examples": [
+        "lãndzidzã di alba di prucuyitsã",
+        "alba va s-u treacã",
+        "alba (multseadza) deadi tu oi"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a2"
+    },
+    {
+      "headword": "aleg1",
+      "pronunciation": "a-lép-shĭu",
+      "definition": "{ro: alege; (se) diferenţia}",
+      "translation_ro": "alege; (se) diferenţia",
+      "translation_en": "select; elect; distinguish",
+      "translation_fr": "choisir; élire; (se) distinguer, (se) différencier",
+      "examples": [
+        "cum aledz, acshi culedz",
+        "cãti-aleapsim (lom ca ma bunili), li hãrzim",
+        "alepshu (u loai cã mi-arisi",
+        "icã dghivãsii) unã carti",
+        "aushlu s-aleapsi"
+      ],
+      "expressions": [
+        "1: mi-aleg (di altsã) = mi-aspun ahoryea di-alantsã (altã soi, ma bunlu, ma mushatlu, ma cumintili, etc.)"
+      ],
+      "related_terms": [
+        "aleptu"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "alumtã",
+      "pronunciation": "a-lúm-ti",
+      "definition": "{ro: luptă, bătălie}",
+      "translation_ro": "luptă, bătălie",
+      "translation_en": "combat, fight",
+      "translation_fr": "combat, lutte",
+      "examples": [
+        "la-alumtã turtsilj s-duc cu harauã",
+        "cari-i cama bun tu-alumtã",
+        "Vuscopulea eara partidz shi eara alumtã mari",
+        "sh-nãs s-amisticã tu atsea alumtã"
+      ],
+      "expressions": [
+        "1: mi-alumtu dzua sh-noaptea = lucredz dzuã sh-noapti, tut chirolu, nu-astãmãtsescu dip"
+      ],
+      "related_terms": [
+        "lumptã",
+        "lumtã",
+        "luptã",
+        "alumtu",
+        "alumtatic",
+        "aluptã",
+        "ljuftã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "alãchescu",
+      "pronunciation": "a-lã-chíĭ",
+      "definition": "{ro: lipi}",
+      "translation_ro": "lipi",
+      "translation_en": "glue",
+      "translation_fr": "coller",
+      "examples": [
+        "baliga alãcheashti",
+        "s-avea alãchitã di fundu-lj unã flurii",
+        "ocljilj ãlj s-alãchirã"
+      ],
+      "expressions": [
+        "1: mi-alãchescu n cor = intru n cor"
+      ],
+      "related_terms": [
+        "alãchiri/alãchire",
+        "alãchit"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "amurã3",
+      "pronunciation": "a-mú-ri",
+      "definition": "{ro: mură, rânza boului, stomahul rumegătoarelor}",
+      "translation_ro": "mură, rânza boului, stomahul rumegătoarelor",
+      "translation_en": "stomach of ruminants",
+      "translation_fr": "estomac des ruminants",
+      "examples": [
+        "fripshu amura di la oaea tsi-u tãljem deadun"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "amurã4",
+      "pronunciation": "a-mú-ri",
+      "definition": "{ro: ac de păr}",
+      "translation_ro": "ac de păr",
+      "translation_en": "hair-pin",
+      "translation_fr": "épingle à cheveux",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "anâbârescu",
+      "translation_ro": "trezi, v",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "arabatii",
+      "translation_ro": "cocioabă",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "arauã3",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "arcatŭ",
+      "translation_ro": "aruncat, abandonat",
+      "translation_en": "throwed away",
+      "translation_fr": "jeté; abandonné",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "armirã",
+      "pronunciation": "ar-mí-ri",
+      "definition": "{ro: saramură}",
+      "translation_ro": "saramură",
+      "translation_en": "brine",
+      "translation_fr": "saumure",
+      "related_terms": [
+        "armozmu",
+        "armã"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "armã3",
+      "pronunciation": "?",
+      "definition": "{ro: lapte acru de putină}",
+      "translation_ro": "lapte acru de putină",
+      "translation_en": "kind of curdled milk",
+      "translation_fr": "sorte de lait-caillé",
+      "examples": [
+        "picurarlu n-adusi armã di la cãshari"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "armã4",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "arnealã3",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "arnescu",
+      "pronunciation": "ar-níĭ",
+      "definition": "{ro: mătura}",
+      "translation_ro": "mătura",
+      "translation_en": "sweep",
+      "translation_fr": "balayer",
+      "examples": [
+        "peturi pisti peturi pãnã n tser, si li-arneshti cu meturi tut nu cher, ma cãndu yini atsel fãrã trup, pri tuti li mãcã ca un lup (angucitoari: vimtul sh-niorlji)",
+        "avlia nu s-arneashti",
+        "li-arni cãljurli ca di pri palmã"
+      ],
+      "expressions": [
+        "1: arnescu ca di pri palmã = arnescu multu ghini di nu-alas tsiva"
+      ],
+      "related_terms": [
+        "nearniri/nearnire",
+        "arniri",
+        "arnit",
+        "nearnit"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "aroabâ",
+      "translation_ro": "con de molid",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "aryãsitŭ",
+      "translation_ro": "tăbăcit (despre piei); iritat, nerăbdător",
+      "translation_en": "tanned; hardened; impatient, irritated",
+      "translation_fr": "tanné; irrité",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "arãbã",
+      "part_of_speech": "sm",
+      "definition": "{ro: haraba}",
+      "translation_ro": "haraba",
+      "translation_en": "wagon, cart",
+      "translation_fr": "chariot",
+      "expressions": [
+        "1: turcul lu-acatsã ljepurlu cu arãbãlu = cu diplumãtsii [zborlu yini di-aclo cã turcul easti arãvdãtor, ashtiptãndalui preanarga-anarga si s-facã lucrul tsi-l va nãs]"
+      ],
+      "related_terms": [
+        "arãbãgi"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abagi"
+    },
+    {
+      "headword": "arãbãgi",
+      "part_of_speech": "sm",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abagi"
+    },
+    {
+      "headword": "arãu2",
+      "pronunciation": "a-rá-ŭã",
+      "definition": "{ro: rău, crud, câinos, ticălos; viguros}",
+      "translation_ro": "rău, crud, câinos, ticălos; viguros",
+      "translation_en": "bad, wicked, evil, cruel; strong, vigorous",
+      "translation_fr": "mauvais, méchant, cruel, affreux; vigoureux",
+      "examples": [
+        "muljarea aestã easti arauã (tihilai)",
+        "yeatrul ãnj deadi yitrii arali (uruti)",
+        "cã-i fricã sh-lumea-arauã (slabã)",
+        "va-nj ts-aflji moartea-arauã",
+        "arauã (vãrtoasã) mbãirari fatsi catãrca"
+      ],
+      "expressions": [
+        "2: ti bag arãu = spun la chivernisi (i altã lumi) lucri tsi-ai faptã shi nu vrei si sã shtibã"
+      ],
+      "related_terms": [
+        "arãeatsã",
+        "rãu",
+        "arãu"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "ba3",
+      "pronunciation": "ba",
+      "definition": "{ro: a!}",
+      "translation_ro": "a!",
+      "translation_en": "nonsense!; pooh!; rubbish!; you don’t say so!",
+      "translation_fr": "bah!; tiens!; hélas!",
+      "examples": [
+        "ba (avdzã)! dzãsi nãsã, canda mini vream s-fac tut feati?"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "babageanŭ",
+      "translation_ro": "solid; brav",
+      "translation_en": "strong, well-built (person)",
+      "translation_fr": "bien bâti; brave",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "balã3",
+      "pronunciation": "bá-li",
+      "definition": "{ro: talpă la încălţăminte, pingea}",
+      "translation_ro": "talpă la încălţăminte, pingea",
+      "translation_en": "sole (of shoe)",
+      "translation_fr": "semelle",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "balã4",
+      "pronunciation": "bá-li",
+      "definition": "{ro: minge}",
+      "translation_ro": "minge",
+      "translation_en": "ball; sphere",
+      "translation_fr": "balle, boule, corps ronds",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "banozi",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abanozi"
+    },
+    {
+      "headword": "batã3",
+      "pronunciation": "bắtsĭ",
+      "definition": "{ro: pată}",
+      "translation_ro": "pată",
+      "translation_en": "stain, spot, speck",
+      "translation_fr": "tache",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "bãbãescu, bubuescu",
+      "translation_ro": "a se cutremura, a se îngrozi",
+      "translation_en": "to shudder (with horror)",
+      "translation_fr": "frémir d'horeur",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "bãbãitŭ",
+      "translation_ro": "îngrozit",
+      "translation_en": "shoked, disgusted",
+      "translation_fr": "horifié; écoeuré",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "caceacu+A3758",
+      "translation_ro": "fugit",
+      "source": "Dictsiunar Armãn-Romãn",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a3"
+    },
+    {
+      "headword": "canã4",
+      "pronunciation": "cắnjĭ",
+      "definition": "{ro: carafă; cană}",
+      "translation_ro": "carafă; cană",
+      "translation_en": "pitcher, jug; drinking cup",
+      "translation_fr": "carafe; tasse (de métal)",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "chicutari2/chicutare",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "chicutat2",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "chicutedz2",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "chicutã4",
+      "pronunciation": "chí-cu-ti",
+      "definition": "{ro: apoplexie, epilepsie}",
+      "translation_ro": "apoplexie, epilepsie",
+      "translation_en": "apoplexy, stroke, epilepsy",
+      "translation_fr": "apoplexie, paralysie, épilepsie",
+      "examples": [
+        "di iu ti-aflã laea chicutã (dãmblãlu)?",
+        "ãlj cãdzu chicutã (apuplixii) mari",
+        "si-lj cadã chicutã (dãmlai) greauã",
+        "chicuta (dãmblãlu) s-ti-agudeascã!",
+        "chicuta (dãmblãlu) pi loc s-ti-aseascã",
+        "lu-acsi chicuta (apuplixia) sh-muri",
+        "chicutã!"
+      ],
+      "expressions": [
+        "s-lu lja draclu!) nãs la mini s-mindueashti? § picã2 (pí-cã) sf fãrã pl – (unã cu chicutã4) ex: a lor nu lã cadi picã (apuplixii, dãmblã)"
+      ],
+      "related_terms": [
+        "nchicutat",
+        "nchicutari/nchicutare",
+        "picã",
+        "nchicutedz"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "ciumã4",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=a4"
+    },
+    {
+      "headword": "cãbati",
+      "translation_ro": "abatere; vină",
+      "translation_en": "guilt, fault, blame",
+      "translation_fr": "faute; culpe",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "cãbãtlí, cãbãtloanji",
+      "translation_ro": "vinovat",
+      "translation_en": "guilty",
+      "translation_fr": "fautif; culpable",
+      "etymology": "Context: u vedŭ cãbãtloanji / I consider her guilty Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "u vedŭ cãbãtloanji / I consider her guilty Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "cãsãbã",
+      "translation_ro": "oraş",
+      "translation_en": "city; town",
+      "translation_fr": "ville",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "hãbári",
+      "translation_ro": "ştire, veste",
+      "translation_en": "news",
+      "translation_fr": "nouvelle",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "hãbãrseari",
+      "translation_ro": "respect",
+      "translation_en": "respect, honour",
+      "translation_fr": "respect",
+      "etymology": "Context: Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "context": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source": "Dictsiunarlu ti cathi dzuuâ - Mariana Bara 2024",
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abã"
+    },
+    {
+      "headword": "mulgu",
+      "pronunciation": "múl-shĭu",
+      "definition": "{ro: mulge}",
+      "translation_ro": "mulge",
+      "translation_en": "milk",
+      "translation_fr": "traire",
+      "examples": [
+        "muldzi cãprili",
+        "oara iu muldzea (lãptuea) oili",
+        "par"
+      ],
+      "expressions": [
+        "1: l-mulgu = lu-arãd, l-dispolj"
+      ],
+      "related_terms": [
+        "mulgãtor",
+        "mulsu",
+        "muldzeari/muldzeare",
+        "muldziri/muldzire"
+      ],
+      "source_url": "https://www.dixionline.net/index.php?inputWord=abagi"
+    }
+  ]
+}
