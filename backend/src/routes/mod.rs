@@ -170,3 +170,8 @@ pub fn configure(cfg: &mut web::ServiceConfig) {
         .service(stats)
         .service(health);
 }
+
+/// Configure only health endpoint (for testing)
+pub fn configure_health_only(cfg: &mut web::ServiceConfig) {
+    cfg.service(health);
+}
