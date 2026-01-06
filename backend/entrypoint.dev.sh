@@ -31,4 +31,4 @@ else
 fi
 
 echo "Starting dev server with hot reload..."
-exec cargo watch -x "run --locked"
+exec cargo watch -x "run --locked --bin dixi-backend"
