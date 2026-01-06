@@ -16,7 +16,7 @@ export default function LetterNav({ activeLetter }: LetterNavProps) {
     return (
       <div className="flex flex-wrap gap-2 justify-center">
         {Array.from({ length: 26 }, (_, i) => (
-          <div key={i} className="w-10 h-10 bg-gray-200 rounded animate-pulse" />
+          <div key={i} className="w-10 h-10 bg-gray-200 dark:bg-gray-700 rounded animate-pulse" />
         ))}
       </div>
     )
@@ -31,7 +31,7 @@ export default function LetterNav({ activeLetter }: LetterNavProps) {
           className={`w-10 h-10 flex items-center justify-center rounded font-medium transition ${
             activeLetter === letter
               ? 'bg-primary-600 text-white'
-              : 'bg-white border border-gray-300 hover:border-primary-400 hover:bg-primary-50'
+              : 'bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 hover:border-primary-400 hover:bg-primary-50 dark:hover:bg-gray-700'
           }`}
           title={`${count} entries`}
         >

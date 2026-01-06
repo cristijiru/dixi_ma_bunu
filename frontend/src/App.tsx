@@ -17,7 +17,7 @@ function App() {
           <Route path="/browse/:letter" element={<Browse />} />
         </Routes>
       </main>
-      <footer className="bg-gray-100 py-4 text-center text-sm text-gray-600">
+      <footer className="bg-gray-100 dark:bg-gray-800 py-4 text-center text-sm text-gray-600 dark:text-gray-400">
         <p>Dixi Ma Bunu - Aromanian Dictionary</p>
         <p className="text-xs mt-1">Data from dixionline.net</p>
       </footer>
