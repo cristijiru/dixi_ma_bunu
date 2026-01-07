@@ -78,6 +78,24 @@ def parse_search_results(html: str, query_word: str) -> list[DictionaryEntry]:
     return entries
 
 
+def is_test_entry(headword: str, translations: dict) -> bool:
+    """Check if an entry appears to be test data."""
+    # Check for obvious test headwords
+    if headword and re.match(r'^[a-z]{4,}\d+$', headword.lower()):
+        # Pattern like "aaaa1", "test1", etc.
+        test_patterns = ['aaaa', 'bbbb', 'cccc', 'test', 'asdf']
+        if any(headword.lower().startswith(p) for p in test_patterns):
+            return True
+
+    # Check for obvious test translations
+    test_translations = {'rom', 'e1', 'f1', 'test', 'xxx'}
+    for val in translations.values():
+        if val and val.lower() in test_translations:
+            return True
+
+    return False
+
+
 def parse_article(article: Tag, source_query: str) -> DictionaryEntry | None:
     """Parse a single article element into a DictionaryEntry."""
     try:
@@ -142,6 +160,15 @@ def parse_article(article: Tag, source_query: str) -> DictionaryEntry | None:
                 fr_text = fr_span.get_text()
                 if not fr_text.startswith('{'):
                     entry.translation_fr = clean_text(fr_text)
+
+        # Check if this is test data and skip it
+        translations = {
+            'ro': entry.translation_ro,
+            'en': entry.translation_en,
+            'fr': entry.translation_fr
+        }
+        if is_test_entry(headword, translations):
+            return None
 
         # Extract etymology
         et_match = re.search(r'Et:\s*([^<\n]+)', p_text)
@@ -227,9 +254,13 @@ def parse_article(article: Tag, source_query: str) -> DictionaryEntry | None:
             entry.related_terms = list(set(related))[:20]  # Dedupe and limit
 
         # Extract definition (main Aromanian text before translations)
+        # Note: highlight_arm span often contains {ro:...} which is redundant
         arm_span = p.find('span', class_='highlight_arm')
         if arm_span:
-            entry.definition = clean_text(arm_span.get_text())
+            def_text = clean_text(arm_span.get_text())
+            # Skip if it's just the Romanian translation in curly braces
+            if def_text and not def_text.startswith('{ro:'):
+                entry.definition = def_text
 
         # Extract expressions (expr: markers)
         expr_spans = p.find_all('span', class_='highlight_ex')
