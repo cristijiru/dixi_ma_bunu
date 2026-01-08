@@ -11,6 +11,8 @@ class MergeReviewer:
 
     def __init__(self, data_dir: str = "../data"):
         self.data_dir = Path(data_dir)
+        self.raw_dir = self.data_dir / "raw"
+        self.processing_dir = self.data_dir / "processing"
         self.candidates: list[dict] = []
         self.entries_by_headword: dict[str, list[dict]] = {}
         self.decisions: dict = {"manual": []}
@@ -18,14 +20,14 @@ class MergeReviewer:
 
     def load_candidates(self, filename: str = "merge_candidates.json"):
         """Load merge candidates."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
         with open(filepath, 'r', encoding='utf-8') as f:
             self.candidates = json.load(f)
         print(f"Loaded {len(self.candidates)} candidates for review")
 
     def load_entries(self, filename: str = "dictionary.jsonl"):
         """Load entries and index by headword."""
-        filepath = self.data_dir / filename
+        filepath = self.raw_dir / filename
         self.entries_by_headword = {}
         with open(filepath, 'r', encoding='utf-8') as f:
             for line in f:
@@ -39,7 +41,7 @@ class MergeReviewer:
 
     def load_existing_decisions(self, filename: str = "merge_decisions.json"):
         """Load existing decisions to resume."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
         if filepath.exists():
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -62,7 +64,7 @@ class MergeReviewer:
 
     def save_decisions(self, filename: str = "merge_decisions.json"):
         """Save decisions to file."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(self.decisions, f, ensure_ascii=False, indent=2)
 

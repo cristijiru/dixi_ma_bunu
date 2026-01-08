@@ -28,6 +28,9 @@ class DictionaryMerger:
 
     def __init__(self, data_dir: str = "../data"):
         self.data_dir = Path(data_dir)
+        self.raw_dir = self.data_dir / "raw"
+        self.merged_dir = self.data_dir / "merged"
+        self.processing_dir = self.data_dir / "processing"
         self.entries: list[dict] = []
         self.merged_words: list[MergedWord] = []
         self.merge_decisions: dict = {"auto": [], "manual": []}
@@ -35,7 +38,7 @@ class DictionaryMerger:
 
     def load_entries(self, filename: str = "dictionary.jsonl"):
         """Load entries from JSONL file."""
-        filepath = self.data_dir / filename
+        filepath = self.raw_dir / filename
         self.entries = []
         with open(filepath, 'r', encoding='utf-8') as f:
             for line in f:
@@ -174,7 +177,7 @@ class DictionaryMerger:
 
     def save_review_candidates(self, filename: str = "merge_candidates.json"):
         """Save candidates needing review."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
 
         # Simplify for review (don't include full entry data)
         simplified = []
@@ -193,14 +196,14 @@ class DictionaryMerger:
 
     def save_merge_decisions(self, filename: str = "merge_decisions.json"):
         """Save all merge decisions (auto + manual)."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(self.merge_decisions, f, ensure_ascii=False, indent=2)
         print(f"Saved merge decisions to {filepath}")
 
     def export_merged(self, filename: str = "dictionary_merged.jsonl"):
         """Export merged words to JSONL."""
-        filepath = self.data_dir / filename
+        filepath = self.merged_dir / filename
         with open(filepath, 'w', encoding='utf-8') as f:
             for word in self.merged_words:
                 f.write(word.to_json() + '\n')

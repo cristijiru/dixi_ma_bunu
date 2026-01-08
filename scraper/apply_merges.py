@@ -27,13 +27,16 @@ class MergeApplier:
 
     def __init__(self, data_dir: str = "../data"):
         self.data_dir = Path(data_dir)
+        self.raw_dir = self.data_dir / "raw"
+        self.merged_dir = self.data_dir / "merged"
+        self.processing_dir = self.data_dir / "processing"
         self.entries: list[dict] = []
         self.decisions: dict = {}
         self.merged_words: list[MergedWord] = []
 
     def load_entries(self, filename: str = "dictionary.jsonl"):
         """Load all dictionary entries."""
-        filepath = self.data_dir / filename
+        filepath = self.raw_dir / filename
         self.entries = []
         with open(filepath, 'r', encoding='utf-8') as f:
             for line in f:
@@ -43,7 +46,7 @@ class MergeApplier:
 
     def load_decisions(self, filename: str = "merge_decisions.json"):
         """Load merge decisions."""
-        filepath = self.data_dir / filename
+        filepath = self.processing_dir / filename
         if filepath.exists():
             with open(filepath, 'r', encoding='utf-8') as f:
                 self.decisions = json.load(f)
@@ -163,7 +166,7 @@ class MergeApplier:
 
     def export_jsonl(self, filename: str = "dictionary_merged.jsonl"):
         """Export merged words to JSONL."""
-        filepath = self.data_dir / filename
+        filepath = self.merged_dir / filename
         with open(filepath, 'w', encoding='utf-8') as f:
             for word in self.merged_words:
                 f.write(word.to_json() + '\n')
@@ -171,7 +174,7 @@ class MergeApplier:
 
     def export_json(self, filename: str = "dictionary_merged.json"):
         """Export merged words to JSON with metadata."""
-        filepath = self.data_dir / filename
+        filepath = self.merged_dir / filename
 
         metadata = {
             "source": "dixionline.net",
@@ -191,6 +194,14 @@ class MergeApplier:
             json.dump(output, f, ensure_ascii=False, indent=2)
 
         print(f"Exported to {filepath}")
+
+    def export_final(self, filename: str = "aromanian_dictionary.jsonl"):
+        """Export final dictionary to data root for easy access."""
+        filepath = self.data_dir / filename
+        with open(filepath, 'w', encoding='utf-8') as f:
+            for word in self.merged_words:
+                f.write(word.to_json() + '\n')
+        print(f"Exported final dictionary to {filepath}")
 
     def print_stats(self):
         """Print statistics about the merged dataset."""
@@ -221,6 +232,7 @@ def main():
     applier.apply_merges()
     applier.export_jsonl()
     applier.export_json()
+    applier.export_final()
     applier.print_stats()
 
 
