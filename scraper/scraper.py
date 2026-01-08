@@ -35,8 +35,8 @@ from exporter import DictionaryExporter
 
 # Configuration
 BASE_URL = "https://www.dixionline.net"
-REQUEST_DELAY_MIN = 1.0  # Minimum delay between requests (seconds)
-REQUEST_DELAY_MAX = 2.0  # Maximum delay (for politeness)
+REQUEST_DELAY_MIN = 0.1  # Minimum delay between requests (seconds)
+REQUEST_DELAY_MAX = 0.3  # Maximum delay
 TIMEOUT = 30.0
 MAX_CONCURRENT = 1  # Keep it at 1 for politeness
 CHECKPOINT_FILE = "../data/checkpoint.json"

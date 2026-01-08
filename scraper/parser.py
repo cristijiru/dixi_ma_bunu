@@ -253,14 +253,30 @@ def parse_article(article: Tag, source_query: str) -> DictionaryEntry | None:
         if related:
             entry.related_terms = list(set(related))[:20]  # Dedupe and limit
 
-        # Extract definition (main Aromanian text before translations)
-        # Note: highlight_arm span often contains {ro:...} which is redundant
-        arm_span = p.find('span', class_='highlight_arm')
-        if arm_span:
-            def_text = clean_text(arm_span.get_text())
-            # Skip if it's just the Romanian translation in curly braces
-            if def_text and not def_text.startswith('{ro:'):
-                entry.definition = def_text
+        # Extract definition (main Aromanian text after " – " and before translations)
+        # The definition appears as plain text between inflection info and {ro:}/{en:}/{fr:} markers
+        # Pattern: "headword (pron) sf inflections – DEFINITION HERE {ro: translation}"
+        dash_match = re.search(r'\s–\s(.+?)(?:\s*\{(?:ro|en|fr):|$)', p_text, re.DOTALL)
+        if dash_match:
+            def_text = clean_text(dash_match.group(1))
+            # Clean up: remove trailing related terms after semicolon if they look like word lists
+            if def_text:
+                # Check if there's meaningful definition text (not just "vedz tu X" references)
+                if not re.match(r'^vedz\s+tu\s+', def_text, re.IGNORECASE):
+                    # Remove trailing examples (ex:...) if captured
+                    def_text = re.split(r'\s*ex:', def_text, flags=re.IGNORECASE)[0]
+                    def_text = clean_text(def_text)
+                    if def_text and len(def_text) > 3:
+                        entry.definition = def_text
+
+        # Fallback: check highlight_arm span if no definition found
+        if not entry.definition:
+            arm_span = p.find('span', class_='highlight_arm')
+            if arm_span:
+                def_text = clean_text(arm_span.get_text())
+                # Skip if it's just the Romanian translation in curly braces
+                if def_text and not def_text.startswith('{ro:'):
+                    entry.definition = def_text
 
         # Extract expressions (expr: markers)
         expr_spans = p.find_all('span', class_='highlight_ex')

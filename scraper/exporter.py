@@ -8,7 +8,11 @@ from models import DictionaryEntry
 
 
 class DictionaryExporter:
-    """Exports dictionary entries to JSON, JSONL, and CSV formats."""
+    """Exports dictionary entries to JSON, JSONL, and CSV formats.
+
+    Exports directly to data/ for use by the backend.
+    No merging step - preserves all fields including definition.
+    """
 
     def __init__(self, output_dir: str = "../data"):
         self.output_dir = Path(output_dir)
