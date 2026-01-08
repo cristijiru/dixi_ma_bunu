@@ -55,10 +55,11 @@ class MergeApplier:
             self.decisions = {"auto": [], "manual": []}
 
     def normalize_diacritics(self, word: str) -> str:
-        """Normalize â/ã/ă variants."""
+        """Normalize safe variants (â/ã/ă, dh/d)."""
         w = word.lower()
         w = w.replace('ã', 'â')
         w = w.replace('ă', 'â')
+        w = w.replace('dh', 'd')
         return w
 
     def build_merge_map(self) -> dict[str, str]:

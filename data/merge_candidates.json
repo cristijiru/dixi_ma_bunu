@@ -36,16 +36,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "acrida",
-    "headwords": [
-      "acridhâ",
-      "acridhã",
-      "acridã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "aculutii/aculutie",
     "headwords": [
       "aculuthii/aculuthie",
@@ -102,42 +92,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "adeca",
-    "headwords": [
-      "adeca",
-      "adheca"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adic",
-    "headwords": [
-      "adhic",
-      "adic"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adica",
-    "headwords": [
-      "adhica",
-      "adica"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adikii/adikie",
-    "headwords": [
-      "adhichii/adhichie",
-      "adichii/adichie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "adikipsescu",
     "headwords": [
       "adhichipsescu",
@@ -146,259 +100,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "adikipsiri/adikipsire",
-    "headwords": [
-      "adhichipsiri/adhichipsire",
-      "adichipsiri/adichipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adikipsit",
-    "headwords": [
-      "adhichipsit",
-      "adichipsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adikisescu",
-    "headwords": [
-      "adhichisescu",
-      "adichisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adikisiri/adikisire",
-    "headwords": [
-      "adhichisiri/adhichisire",
-      "adichisiri/adichisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adikisit",
-    "headwords": [
-      "adhichisit",
-      "adichisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adii/adie",
-    "headwords": [
-      "adhii/adhie",
-      "adii/adie"
-    ],
-    "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adimtu",
-    "headwords": [
-      "adhimtu",
-      "adimtu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adinat",
-    "headwords": [
-      "adhinat",
-      "adinat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adinaton",
-    "headwords": [
-      "adhinaton",
-      "adinaton"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adinatsescu",
-    "headwords": [
-      "adhinâtsescu",
-      "adhinãtsescu",
-      "adinãtsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adinamii/adinamie",
-    "headwords": [
-      "adhinãmii/adhinãmie",
-      "adinãmii/adinãmie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adinatsiri/adinatsire",
-    "headwords": [
-      "adhinãtsiri/adhinãtsire",
-      "adinãtsiri/adinãtsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adinatsit",
-    "headwords": [
-      "adhinãtsit",
-      "adinãtsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adio",
-    "headwords": [
-      "adhio",
-      "adio"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adixescu",
-    "headwords": [
-      "adhixescu",
-      "adixescu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adixiri/adixire",
-    "headwords": [
-      "adhixiri/adhixire",
-      "adixiri/adixire"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adixit",
-    "headwords": [
-      "adhixit",
-      "adixit"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adul",
-    "headwords": [
-      "adhul",
-      "adul"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aduliftu",
-    "headwords": [
-      "adhuliftu",
-      "aduliftu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adyeaforit",
-    "headwords": [
-      "adhyeaforit",
-      "adyeaforit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adyeafur",
-    "headwords": [
-      "adhyeafur",
-      "adyeafur"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adyeafurisescu",
-    "headwords": [
-      "adhyeafurisescu",
-      "adyeafurisescu"
-    ],
-    "similarity": 0.9655172413793104,
-    "entry_count": 3
-  },
-  {
-    "normalized": "adyeafurisii/adyeafurisie",
-    "headwords": [
-      "adhyeafurisii/adhyeafurisie",
-      "adyeafurisii/adyeafurisie"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adyeafurisiri/adyeafurisire",
-    "headwords": [
-      "adhyeafurisiri/adhyeafurisire",
-      "adyeafurisiri/adyeafurisire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adyeafurisit",
-    "headwords": [
-      "adhyeafurisit",
-      "adyeafurisit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adyisescu",
-    "headwords": [
-      "adhyisescu",
-      "adyisescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 4
-  },
-  {
-    "normalized": "adyisiri/adyisire",
-    "headwords": [
-      "adhyisiri/adyisire",
-      "adyisiri/adyisire"
-    ],
-    "similarity": 0.9714285714285714,
-    "entry_count": 2
-  },
-  {
-    "normalized": "adyisit",
-    "headwords": [
-      "adhyisit",
-      "adyisit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "adoara1",
@@ -454,16 +155,6 @@
     ],
     "similarity": 0.9285714285714286,
     "entry_count": 2
-  },
-  {
-    "normalized": "aflada",
-    "headwords": [
-      "afladhâ",
-      "afladhã",
-      "afladã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "agalea",
@@ -1555,25 +1246,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "aidoni/aidone",
-    "headwords": [
-      "aidhoni/aidhone",
-      "aidoni/aidone"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aidona",
-    "headwords": [
-      "aidhonâ",
-      "aidhonã",
-      "aidonã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "al",
     "headwords": [
       "al",
@@ -1600,26 +1272,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "alisida",
-    "headwords": [
-      "alisidhâ",
-      "alisidhã",
-      "alisidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "alsida",
-    "headwords": [
-      "alsidhâ",
-      "alsidhã",
-      "alsidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "alumakios",
@@ -1657,16 +1309,6 @@
     ],
     "similarity": 0.9473684210526315,
     "entry_count": 2
-  },
-  {
-    "normalized": "amada",
-    "headwords": [
-      "amadhâ",
-      "amadhã",
-      "amadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "amalama",
@@ -1803,42 +1445,6 @@
     ],
     "similarity": 0.9,
     "entry_count": 2
-  },
-  {
-    "normalized": "ambodyiu",
-    "headwords": [
-      "ambodhyiu",
-      "ambodyiu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "ambudyisescu",
-    "headwords": [
-      "ambudhyisescu",
-      "ambudyisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 4
-  },
-  {
-    "normalized": "ambudyisiri/ambudyisire",
-    "headwords": [
-      "ambudhyisiri/ambudyisire",
-      "ambudyisiri/ambudyisire"
-    ],
-    "similarity": 0.9787234042553191,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ambudyisit",
-    "headwords": [
-      "ambudhyisit",
-      "ambudyisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
   },
   {
     "normalized": "ambulisescu",
@@ -2168,33 +1774,6 @@
       "anânghios"
     ],
     "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "anapud",
-    "headwords": [
-      "anapud",
-      "anapudh"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "anapuda",
-    "headwords": [
-      "anapuda",
-      "anapudha"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "anapudearic",
-    "headwords": [
-      "anapudearic",
-      "anapudhearic"
-    ],
-    "similarity": 0.9565217391304348,
     "entry_count": 2
   },
   {
@@ -3127,33 +2706,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "angida1",
-    "headwords": [
-      "anghidhã1",
-      "anghidã1"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "angida2",
-    "headwords": [
-      "anghidhã2",
-      "anghidã2"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "angiuda",
-    "headwords": [
-      "anghiudhã",
-      "anghiudã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "anglit1",
     "headwords": [
       "angljit1",
@@ -3428,15 +2980,6 @@
     ],
     "similarity": 0.9411764705882353,
     "entry_count": 2
-  },
-  {
-    "normalized": "anodin",
-    "headwords": [
-      "anodhin",
-      "anodin"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
   },
   {
     "normalized": "anticagi",
@@ -3846,75 +3389,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "apadikii/apadikie",
-    "headwords": [
-      "apadhichii/apadhichie",
-      "apadichii/apadichie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
     "normalized": "apar",
     "headwords": [
       "apar",
       "apãr"
     ],
     "similarity": 0.75,
-    "entry_count": 2
-  },
-  {
-    "normalized": "apidyiu",
-    "headwords": [
-      "apidhyiu",
-      "apidyiu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aplada",
-    "headwords": [
-      "apladhã",
-      "apladã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "apodixescu",
-    "headwords": [
-      "apodhixescu",
-      "apodixescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "apodixi/apodixe",
-    "headwords": [
-      "apodhixi/apodhixe",
-      "apodixi/apodixe"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "apodixiri/apodixire",
-    "headwords": [
-      "apodhixiri/apodhixire",
-      "apodixiri/apodixire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "apodixit",
-    "headwords": [
-      "apodhixit",
-      "apodixit"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -3925,33 +3405,6 @@
     ],
     "similarity": 0.9090909090909091,
     "entry_count": 3
-  },
-  {
-    "normalized": "apudixescu",
-    "headwords": [
-      "apudhixescu",
-      "apudixescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "apudixiri/apudixire",
-    "headwords": [
-      "apudhixiri/apudhixire",
-      "apudixiri/apudixire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "apudixit",
-    "headwords": [
-      "apudhixit",
-      "apudixit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "aparnisescu",
@@ -4055,15 +3508,6 @@
       "arauâ"
     ],
     "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ardatsina",
-    "headwords": [
-      "ardhãtsinã",
-      "ardãtsinã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -4194,24 +3638,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "arida1",
-    "headwords": [
-      "aridhã1",
-      "aridã1"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arida2",
-    "headwords": [
-      "aridhã2",
-      "aridã2"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "arigan",
     "headwords": [
       "arigan",
@@ -4267,49 +3693,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "aroida",
-    "headwords": [
-      "aroidhâ",
-      "aroidhã",
-      "aroidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "arpag",
     "headwords": [
       "arpag",
       "arpagh"
     ],
     "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arudic",
-    "headwords": [
-      "arudhic",
-      "arudic"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arudicari/arudicare",
-    "headwords": [
-      "arudhicari/arudhicare",
-      "arudicari/arudicare"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arudicat",
-    "headwords": [
-      "arudhicat",
-      "arudicat"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -4320,45 +3709,6 @@
     ],
     "similarity": 0.9375,
     "entry_count": 2
-  },
-  {
-    "normalized": "aruideaua",
-    "headwords": [
-      "aruideauã",
-      "aruidheauâ",
-      "aruidheauã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "aruideu",
-    "headwords": [
-      "aruideu",
-      "aruidheu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyipsit",
-    "headwords": [
-      "arâdhyipsit",
-      "arãdhyipsit",
-      "arãdyipsit"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "aradatsina",
-    "headwords": [
-      "arâdâtsinâ",
-      "arãdhãtsinã",
-      "arãdãtsinã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "aranescu",
@@ -4377,177 +3727,6 @@
       "arãkescu"
     ],
     "similarity": 0.8235294117647058,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradar",
-    "headwords": [
-      "arãdar",
-      "arãdhar"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyipsescu",
-    "headwords": [
-      "arãdhyipsescu",
-      "arãdyipsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyipsiri/aradyipsire",
-    "headwords": [
-      "arãdhyipsiri/arãdhyipsire",
-      "arãdyipsiri/arãdyipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyisescu",
-    "headwords": [
-      "arãdhyisescu",
-      "arãdyisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyisiri/aradyisire",
-    "headwords": [
-      "arãdhyisiri/arãdhyisire",
-      "arãdyisiri/arãdyisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradyisit",
-    "headwords": [
-      "arãdhyisit",
-      "arãdyisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsescu1",
-    "headwords": [
-      "arãdhãpsescu1",
-      "arãdãpsescu1"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsescu2",
-    "headwords": [
-      "arãdhãpsescu2",
-      "arãdãpsescu2"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsiri1/aradapsire",
-    "headwords": [
-      "arãdhãpsiri1/arãdhãpsire",
-      "arãdãpsiri1/arãdãpsire"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsiri2/aradapsire",
-    "headwords": [
-      "arãdhãpsiri2/arãdhãpsire",
-      "arãdãpsiri2/arãdãpsire"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsit1",
-    "headwords": [
-      "arãdhãpsit1",
-      "arãdãpsit1"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradapsit2",
-    "headwords": [
-      "arãdhãpsit2",
-      "arãdãpsit2"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradariki/aradarike",
-    "headwords": [
-      "arãdhãrichi/arãdhãriche",
-      "arãdãrichi/arãdãriche"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasescu1",
-    "headwords": [
-      "arãdhãsescu1",
-      "arãdãsescu1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasescu2",
-    "headwords": [
-      "arãdhãsescu2",
-      "arãdãsescu2"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasiri1/aradasire",
-    "headwords": [
-      "arãdhãsiri1/arãdhãsire",
-      "arãdãsiri1/arãdãsire"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasiri2/aradasire",
-    "headwords": [
-      "arãdhãsiri2/arãdhãsire",
-      "arãdãsiri2/arãdãsire"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasit1",
-    "headwords": [
-      "arãdhãsit1",
-      "arãdãsit1"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aradasit2",
-    "headwords": [
-      "arãdhãsit2",
-      "arãdãsit2"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -4656,15 +3835,6 @@
       "asigurlichi/asigurliche"
     ],
     "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "asmada",
-    "headwords": [
-      "asmadhã",
-      "asmadã"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -4844,42 +4014,6 @@
     "entry_count": 6
   },
   {
-    "normalized": "avdilat",
-    "headwords": [
-      "avdhiljat",
-      "avdiljat"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "avdiliteashti1/avdiliteashte",
-    "headwords": [
-      "avdhiljiteashti1/avdhiljiteashte",
-      "avdiljiteashti1/avdiljiteashte"
-    ],
-    "similarity": 0.967741935483871,
-    "entry_count": 2
-  },
-  {
-    "normalized": "avdiliteashti2/avdiliteashte",
-    "headwords": [
-      "avdhiljiteashti2/avdhiljiteashte",
-      "avdiljiteashti2/avdiljiteashte"
-    ],
-    "similarity": 0.967741935483871,
-    "entry_count": 2
-  },
-  {
-    "normalized": "avdilitescu",
-    "headwords": [
-      "avdhiljitescu",
-      "avdiljitescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
     "normalized": "avgustu",
     "headwords": [
       "Avghustu",
@@ -4916,15 +4050,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ayeadima",
-    "headwords": [
-      "ayeadhimã",
-      "ayeadimã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "ayiu-triada",
     "headwords": [
       "Ayiu-Thriadha",
@@ -4932,16 +4057,6 @@
     ],
     "similarity": 0.9166666666666666,
     "entry_count": 2
-  },
-  {
-    "normalized": "ayiudima",
-    "headwords": [
-      "ayiudhimâ",
-      "ayiudhimã",
-      "ayiudimã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "ayizmaciun",
@@ -5106,42 +4221,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "birdipsescu",
-    "headwords": [
-      "birdhipsescu",
-      "birdipsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
-    "normalized": "birdipsiri/birdipsire",
-    "headwords": [
-      "birdhipsiri/birdipsire",
-      "birdipsiri/birdipsire"
-    ],
-    "similarity": 0.9767441860465116,
-    "entry_count": 2
-  },
-  {
-    "normalized": "birdipsit",
-    "headwords": [
-      "birdhipsit",
-      "birdipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "birdush",
-    "headwords": [
-      "birdhush",
-      "birdush"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "bragana",
     "headwords": [
       "braganã",
@@ -5296,16 +4375,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "burda",
-    "headwords": [
-      "burdhâ",
-      "burdhã",
-      "burdã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "burdulac",
     "headwords": [
       "burdulac",
@@ -5333,16 +4402,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "burlida",
-    "headwords": [
-      "burlidhâ",
-      "burlidhã",
-      "burlidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "bustangi",
     "headwords": [
       "bustangi",
@@ -5361,31 +4420,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "bardecica",
-    "headwords": [
-      "bârdecicâ",
-      "bãrdecicã",
-      "bãrdhecicã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "batahcilaki",
     "headwords": [
       "bâtâhcilâki",
       "bãtãhcilãchi"
     ],
     "similarity": 0.6086956521739131,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bardush",
-    "headwords": [
-      "bãrdhush",
-      "bãrdush"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -5413,16 +4453,6 @@
       "cã"
     ],
     "similarity": 0.5,
-    "entry_count": 3
-  },
-  {
-    "normalized": "cadena",
-    "headwords": [
-      "cadenã",
-      "cadhenâ",
-      "cadhenã"
-    ],
-    "similarity": null,
     "entry_count": 3
   },
   {
@@ -5726,15 +4756,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "calupodi/calupode",
-    "headwords": [
-      "calupodhi/calupodhe",
-      "calupodi/calupode"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "calar",
     "headwords": [
       "calãr",
@@ -5971,15 +4992,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cardam",
-    "headwords": [
-      "cardam",
-      "cardham"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "carpulog",
     "headwords": [
       "carpulog",
@@ -6185,15 +5197,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "catsid",
-    "headwords": [
-      "catsid",
-      "catsidh"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "catsida",
     "headwords": [
       "catsidhã",
@@ -6324,15 +5327,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "kendima",
-    "headwords": [
-      "chendhimã",
-      "chendimã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "kendra",
     "headwords": [
       "chendrã",
@@ -6411,24 +5405,6 @@
       "kimitiriu"
     ],
     "similarity": 0.8421052631578947,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kindima",
-    "headwords": [
-      "chindhimã",
-      "chindimã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kindin",
-    "headwords": [
-      "chindhin",
-      "chindin"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -6528,60 +5504,6 @@
       "kirauã"
     ],
     "similarity": 0.7692307692307693,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kirdasescu",
-    "headwords": [
-      "chirdhãsescu",
-      "chirdãsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kirdasiri/kirdasire",
-    "headwords": [
-      "chirdhãsiri/chirdhãsire",
-      "chirdãsiri/chirdãsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kirdasit",
-    "headwords": [
-      "chirdhãsit",
-      "chirdãsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kirimida",
-    "headwords": [
-      "chirimidhã",
-      "chirimidã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kiramidar",
-    "headwords": [
-      "chirãmidar",
-      "chirãmidhar"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kiramida",
-    "headwords": [
-      "chirãmidhã",
-      "chirãmidã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -6704,24 +5626,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cirdaki/cirdake",
-    "headwords": [
-      "cirdachi/cirdache",
-      "cirdhachi/cirdhache"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cirinida",
-    "headwords": [
-      "cirinjidhã",
-      "cirinjidã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "cirnida",
     "headwords": [
       "cirnidã",
@@ -6795,42 +5699,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ciurnidar",
-    "headwords": [
-      "ciurnjidar",
-      "ciurnjidhar"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ciurnida",
-    "headwords": [
-      "ciurnjidhã",
-      "ciurnjidã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ciurnidarii",
-    "headwords": [
-      "ciurnjidhãrii",
-      "ciurnjidãrii"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ciurunida",
-    "headwords": [
-      "ciurunjidhã",
-      "ciurunjidã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "clapa",
     "headwords": [
       "clapâ",
@@ -6867,113 +5735,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "clidupinac",
-    "headwords": [
-      "clidhupinac",
-      "clidupinac"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "clidusi/cliduse",
-    "headwords": [
-      "clidhusi/clidhuse",
-      "clidusi/cliduse"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "climbuci",
     "headwords": [
       "climbuci",
       "cljimbuci"
     ],
     "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "climatsida",
-    "headwords": [
-      "climâtsidhâ",
-      "climãtsidhã",
-      "climãtsidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "cladipsescu",
-    "headwords": [
-      "clâdhipsescu",
-      "clãdhipsescu",
-      "clãdipsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "cladiftir",
-    "headwords": [
-      "clãdhiftir",
-      "clãdiftir"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cladipsiri/cladipsire",
-    "headwords": [
-      "clãdhipsiri/clãdhipsire",
-      "clãdipsiri/clãdipsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cladipsit",
-    "headwords": [
-      "clãdhipsit",
-      "clãdipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "coarda1",
-    "headwords": [
-      "coardhã1",
-      "coardã1"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "coarda2",
-    "headwords": [
-      "coardhã2",
-      "coardã2"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "coarda3",
-    "headwords": [
-      "coardhã3",
-      "coardã3"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "coarda4",
-    "headwords": [
-      "coardhã4",
-      "coardã4"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -7030,25 +5797,6 @@
     ],
     "similarity": 0.8571428571428571,
     "entry_count": 2
-  },
-  {
-    "normalized": "crucudil",
-    "headwords": [
-      "crucudhil",
-      "crucudil"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cucuda",
-    "headwords": [
-      "cucudhã",
-      "cucudâ",
-      "cucudã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "cufkisescu",
@@ -7160,24 +5908,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cumedii/cumedie",
-    "headwords": [
-      "cumedhii/cumedhie",
-      "cumedii/cumedie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cumidii/cumidie",
-    "headwords": [
-      "cumidhii/cumidhie",
-      "cumidii/cumidie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "cumatisescu",
     "headwords": [
       "cumâthisescu",
@@ -7206,172 +5936,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cunupida",
-    "headwords": [
-      "cunupidhâ",
-      "cunupidhã",
-      "cunupidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "curdeaua, curdeli",
-    "headwords": [
-      "curdeauâ, curdeli",
-      "curdheauâ, curdheli"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdeaua",
-    "headwords": [
-      "curdeauã",
-      "curdheauã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdeli/curdele",
-    "headwords": [
-      "curdelji/curdelje",
-      "curdhelji/curdhelje"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdela",
-    "headwords": [
-      "curdelã",
-      "curdhelã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdilaki/curdilake",
-    "headwords": [
-      "curdhilachi/curdhilache",
-      "curdilachi/curdilache"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdilar",
-    "headwords": [
-      "curdhilar",
-      "curdilar"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdila",
-    "headwords": [
-      "curdhilã",
-      "curdhilă",
-      "curdilã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "curdisescu",
-    "headwords": [
-      "curdhisescu",
-      "curdisescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "curdisiri/curdisire",
-    "headwords": [
-      "curdhisiri/curdhisire",
-      "curdisiri/curdisire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdisit",
-    "headwords": [
-      "curdhisit",
-      "curdisit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdoni/curdone",
-    "headwords": [
-      "curdhoni/curdone",
-      "curdoni/curdone"
-    ],
-    "similarity": 0.967741935483871,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdusescu",
-    "headwords": [
-      "curdhusescu",
-      "curdusescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "curdusiri/curdusire",
-    "headwords": [
-      "curdhusiri/curdhusire",
-      "curdusiri/curdusire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curdusit",
-    "headwords": [
-      "curdhusit",
-      "curdusit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curduvani/curduvane",
-    "headwords": [
-      "curdhuvani/curdhuvane",
-      "curduvani/curduvane"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "curmida",
-    "headwords": [
-      "curmidhâ",
-      "curmidhã",
-      "curmidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "curnida",
-    "headwords": [
-      "curnidhâ",
-      "curnidhã",
-      "curnidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "cuveli/cuvele",
     "headwords": [
       "cuveli/cuvele",
@@ -7379,26 +5943,6 @@
     ],
     "similarity": 0.9285714285714286,
     "entry_count": 2
-  },
-  {
-    "normalized": "cuvurda",
-    "headwords": [
-      "cuvurdhã",
-      "cuvurdhă",
-      "cuvurdã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "cuvarda",
-    "headwords": [
-      "cuvârdă",
-      "cuvãrdhã",
-      "cuvãrdã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "cakiusescu",
@@ -7415,16 +5959,6 @@
       "câlathâ",
       "cãlathã",
       "cãlatã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "calipoda",
-    "headwords": [
-      "câlipodâ",
-      "cãlipodhã",
-      "cãlipodã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -7524,26 +6058,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "caravida",
-    "headwords": [
-      "cârâvidhâ",
-      "cãrãvidhã",
-      "cãrãvidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "casida",
-    "headwords": [
-      "câsidhâ",
-      "cãsidhã",
-      "cãsidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "catarasescu",
     "headwords": [
       "câthârâsescu",
@@ -7573,26 +6087,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "catadicatsescu",
-    "headwords": [
-      "câtâdhicâtsescu",
-      "cãtãdhicãtsescu",
-      "cãtãdicãtsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "catadixescu",
-    "headwords": [
-      "câtâdixescu",
-      "cãtãdhixescu",
-      "cãtãdixescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "cavgagi",
     "headwords": [
       "câvgâgi",
@@ -7609,15 +6103,6 @@
       "cãvrãmã"
     ],
     "similarity": 0.5714285714285714,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cacardac",
-    "headwords": [
-      "cãcãrdac",
-      "cãcãrdhac"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -7891,15 +6376,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "calapodi/calapode",
-    "headwords": [
-      "cãlãpodhi/cãlãpodhe",
-      "cãlãpodi/cãlãpode"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "calatar",
     "headwords": [
       "cãlãtar",
@@ -7915,15 +6391,6 @@
       "cãlãtici/cãlãtice"
     ],
     "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caperda",
-    "headwords": [
-      "cãperdhã",
-      "cãperdã"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -7954,24 +6421,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "caradi/carade",
-    "headwords": [
-      "cãradhi/cãradhe",
-      "cãradi/cãrade"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cardari/cardare",
-    "headwords": [
-      "cãrdari/cãrdare",
-      "cãrdhari/cãrdhare"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "cargaci",
     "headwords": [
       "cãrgaci",
@@ -7996,24 +6445,6 @@
       "cãrãghaci"
     ],
     "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "casidos",
-    "headwords": [
-      "cãsidhos",
-      "cãsidos"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "casidyear",
-    "headwords": [
-      "cãsidhyear",
-      "cãsidyear"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -8143,42 +6574,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "catadicatsiri/catadicatsire",
-    "headwords": [
-      "cãtãdhicãtsiri/cãtãdhicãtsire",
-      "cãtãdicãtsiri/cãtãdicãtsire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catadicatsit",
-    "headwords": [
-      "cãtãdhicãtsit",
-      "cãtãdicãtsit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catadixiri/catadixire",
-    "headwords": [
-      "cãtãdhixiri/cãtãdhixire",
-      "cãtãdixiri/cãtãdixire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catadixit",
-    "headwords": [
-      "cãtãdhixit",
-      "cãtãdixit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "catargar",
     "headwords": [
       "cãtãrgar",
@@ -8234,33 +6629,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "dactinurlu",
-    "headwords": [
-      "dactinurlu",
-      "dhactinurlu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dafni/dafne",
-    "headwords": [
-      "dafni/dafne",
-      "dhafni/dhafne"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dafnaua",
-    "headwords": [
-      "dafnjauã",
-      "dhafnjauã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "daire",
     "headwords": [
       "daire",
@@ -8290,62 +6658,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "dala",
-    "headwords": [
-      "dalâ",
-      "dalã",
-      "dhalâ",
-      "dhalã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "damaskin",
-    "headwords": [
-      "damaschin",
-      "dhamaschin"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "damaskina",
-    "headwords": [
-      "damaschinã",
-      "dhamaschinã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "damashcana",
-    "headwords": [
-      "damashcanã",
-      "dhamashcanã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "damashkin",
-    "headwords": [
-      "damashchin",
-      "dhamashchin"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "damashkina",
-    "headwords": [
-      "damashchinã",
-      "dhamashchinã"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
   },
   {
     "normalized": "dambla",
@@ -8429,24 +6741,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "dascal",
-    "headwords": [
-      "dascal",
-      "dhascal"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dasii/dasie",
-    "headwords": [
-      "dasii/dasie",
-      "dhasii/dhasie"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
     "normalized": "dator",
     "headwords": [
       "dator",
@@ -8512,15 +6806,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "deaul",
-    "headwords": [
-      "deaul",
-      "dheaul"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "deavarliga",
     "headwords": [
       "deavarliga",
@@ -8540,78 +6825,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "decat",
-    "headwords": [
-      "decat",
-      "dhecat"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dekemvriu",
-    "headwords": [
-      "Dechemvriu",
-      "Dhechemvriu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "deftir",
-    "headwords": [
-      "deftir",
-      "dheftir"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "deftira",
-    "headwords": [
-      "deftira",
-      "dheftira"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "delfin",
-    "headwords": [
-      "delfin",
-      "dhelfin"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "demun",
-    "headwords": [
-      "demun",
-      "dhemun"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "demunu",
-    "headwords": [
-      "demunu",
-      "dhemunu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dema",
-    "headwords": [
-      "demã",
-      "dhemã"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "denga",
     "headwords": [
       "denga",
@@ -8619,15 +6832,6 @@
       "dengã"
     ],
     "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "desi",
-    "headwords": [
-      "desi",
-      "dhesi"
-    ],
-    "similarity": 0.8888888888888888,
     "entry_count": 4
   },
   {
@@ -8643,60 +6847,6 @@
     "entry_count": 5
   },
   {
-    "normalized": "diacrisi/diacrise",
-    "headwords": [
-      "dhiacrisi/dhiacrise",
-      "diacrisi/diacrise"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diacun",
-    "headwords": [
-      "dhiacun",
-      "diacun"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diacunii/diacunie",
-    "headwords": [
-      "dhiacunii/dhiacunie",
-      "diacunii/diacunie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diadoh",
-    "headwords": [
-      "dhiadhoh",
-      "diadoh"
-    ],
-    "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diafur",
-    "headwords": [
-      "dhiafur",
-      "diafur"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dialectu",
-    "headwords": [
-      "dhialectu",
-      "dialectu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
     "normalized": "dialog",
     "headwords": [
       "dhialog",
@@ -8706,71 +6856,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "diamandu",
-    "headwords": [
-      "dhiamandu",
-      "diamandu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diamanda",
-    "headwords": [
-      "dhiamandâ",
-      "dhiamandã",
-      "diamandã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diamantu",
-    "headwords": [
-      "dhiamantu",
-      "diamantu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diarii/diarie",
-    "headwords": [
-      "dhiarii/dhiarie",
-      "diarii/diarie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diaskedasi/diaskedase",
-    "headwords": [
-      "dhiaschedasi/dhiaschedase",
-      "diaschedasi/diaschedase"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diastima",
-    "headwords": [
-      "dhiastimâ",
-      "dhiastimã",
-      "diastimã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diatagma",
-    "headwords": [
-      "dhiatagmã",
-      "diatagmã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "diatiki/diatike",
@@ -8784,34 +6869,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "diata",
-    "headwords": [
-      "dhiatâ",
-      "dhiatã",
-      "diatã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dicaniki/dicanike",
-    "headwords": [
-      "dhicanichi/dhicaniche",
-      "dicanichi/dicaniche"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dicar",
-    "headwords": [
-      "dhicar",
-      "dicar"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "dicara",
     "headwords": [
       "dhicarã",
@@ -8820,24 +6877,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "dikeli/dikele",
-    "headwords": [
-      "dhicheli/dhichele",
-      "dicheli/dichele"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diki/dike",
-    "headwords": [
-      "dhichi/dhiche",
-      "dichi/diche"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
   },
   {
     "normalized": "dikigor",
@@ -8849,136 +6888,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "dicuhtura",
-    "headwords": [
-      "dhicuhturâ",
-      "dhicuhturã",
-      "dicuhturã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dicunar",
-    "headwords": [
-      "dhicunjar",
-      "dicunjar"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dicunearu",
-    "headwords": [
-      "dhicunjearu",
-      "dicunjearu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dicuni/dicune",
-    "headwords": [
-      "dhicunji/dhicunje",
-      "dicunji/dicunje"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "didahii",
-    "headwords": [
-      "dhidhahii",
-      "didahii"
-    ],
-    "similarity": 0.875,
-    "entry_count": 3
-  },
-  {
-    "normalized": "didaxescu",
-    "headwords": [
-      "dhidhãxescu",
-      "didãxescu"
-    ],
-    "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "didaxiri/didaxire",
-    "headwords": [
-      "dhidhãxiri/dhidhãxire",
-      "didãxiri/didãxire"
-    ],
-    "similarity": 0.8947368421052632,
-    "entry_count": 2
-  },
-  {
-    "normalized": "didaxit",
-    "headwords": [
-      "dhidhãxit",
-      "didãxit"
-    ],
-    "similarity": 0.875,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dieta",
-    "headwords": [
-      "dhietâ",
-      "dhietã",
-      "dietã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diftilidi/diftilide",
-    "headwords": [
-      "dhiftilidhi/dhiftilidhe",
-      "dhiftilidi/dhiftilide",
-      "diftilidhi/diftilidhe",
-      "diftilidi/diftilide"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "diftursescu",
-    "headwords": [
-      "dhiftursescu",
-      "diftursescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diftursiri/diftursire",
-    "headwords": [
-      "dhiftursiri/dhiftursire",
-      "diftursiri/diftursire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diftursit",
-    "headwords": [
-      "dhiftursit",
-      "diftursit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dihonii/dihonie",
-    "headwords": [
-      "dhihonii/dhihonie",
-      "dihonii/dihonie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
   },
   {
     "normalized": "dihtalitra",
@@ -8993,151 +6902,6 @@
     "entry_count": 5
   },
   {
-    "normalized": "dihunisescu",
-    "headwords": [
-      "dhihunisescu",
-      "dihunisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dihunisiri/dihunisire",
-    "headwords": [
-      "dhihunisiri/dhihunisire",
-      "dihunisiri/dihunisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dihunisit",
-    "headwords": [
-      "dhihunisit",
-      "dihunisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diitayii/diitayie",
-    "headwords": [
-      "dhiitãyii/dhiitãyie",
-      "diitãyii/diitãyie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diladi",
-    "headwords": [
-      "dhiladhi",
-      "diladi"
-    ],
-    "similarity": 0.8571428571428571,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dilfin",
-    "headwords": [
-      "dhilfin",
-      "dilfin"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimarhu",
-    "headwords": [
-      "dhimarhu",
-      "dimarhu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dimati/dimate",
-    "headwords": [
-      "dhimati/dhimate",
-      "dimati/dimate"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimit",
-    "headwords": [
-      "dhimit",
-      "dimit"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimuneatsa",
-    "headwords": [
-      "dhimuneatsâ",
-      "dhimuneatsã",
-      "dimuneatsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dimunili/dimunile",
-    "headwords": [
-      "dhimunilji/dhimunilje",
-      "dimunilji/dimunilje"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimunsescu",
-    "headwords": [
-      "dhimunsescu",
-      "dimunsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimunsiri/dimunsire",
-    "headwords": [
-      "dhimunsiri/dhimunsire",
-      "dimunsiri/dimunsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimunsit",
-    "headwords": [
-      "dhimunsit",
-      "dimunsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimuyerundii/dimuyerundie",
-    "headwords": [
-      "dhimuyerundii/dhimuyerundie",
-      "dimuyerundii/dimuyerundie"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dimuyerundu",
-    "headwords": [
-      "dhimuyerundu",
-      "dimuyerundu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
     "normalized": "dina",
     "headwords": [
       "dhina",
@@ -9148,34 +6912,6 @@
     ],
     "similarity": null,
     "entry_count": 5
-  },
-  {
-    "normalized": "dinami/diname",
-    "headwords": [
-      "dhinami/dhiname",
-      "dinami/diname"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dintena",
-    "headwords": [
-      "dhintenâ",
-      "dhintenã",
-      "dintenã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diot",
-    "headwords": [
-      "dhiot",
-      "diot"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
   },
   {
     "normalized": "dipla",
@@ -9190,69 +6926,6 @@
     "entry_count": 6
   },
   {
-    "normalized": "diplarcu",
-    "headwords": [
-      "dhiplarcu",
-      "diplarcu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diplari/diplare",
-    "headwords": [
-      "dhiplari/dhiplare",
-      "diplari/diplare"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplat",
-    "headwords": [
-      "dhiplat",
-      "diplat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplez",
-    "headwords": [
-      "dhipledz",
-      "dipledz"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplo",
-    "headwords": [
-      "dhiplo",
-      "diplo"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diplou",
-    "headwords": [
-      "dhiplou",
-      "diplou"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplumat",
-    "headwords": [
-      "dhiplumat",
-      "diplumat"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "diplumatii",
     "headwords": [
       "dhiplumatii",
@@ -9263,274 +6936,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "dipluma",
-    "headwords": [
-      "dhiplumâ",
-      "dhiplumã",
-      "diplumã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "diplusescu",
-    "headwords": [
-      "dhiplusescu",
-      "diplusescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplusiri/diplusire",
-    "headwords": [
-      "dhiplusiri/dhiplusire",
-      "diplusiri/diplusire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diplusit",
-    "headwords": [
-      "dhiplusit",
-      "diplusit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dirpani",
-    "headwords": [
-      "dhirpani",
-      "dirpani"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "discu",
-    "headwords": [
-      "dhiscu",
-      "discu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "discul",
-    "headwords": [
-      "dhiscul",
-      "discul"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "discula",
-    "headwords": [
-      "dhiscula",
-      "discula"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "disculii/disculie",
-    "headwords": [
-      "dhisculii/dhisculie",
-      "disculii/disculie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dispoti",
-    "headwords": [
-      "dhispoti",
-      "dispoti"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "disputami/disputame",
-    "headwords": [
-      "dhisputami/dhisputame",
-      "disputami/disputame"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
     "normalized": "disputaraga",
     "headwords": [
       "dhisputaraghã",
       "disputaragã"
     ],
     "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "disputeashti/disputeashte",
-    "headwords": [
-      "dhisputeashti/dhisputeashte",
-      "disputeashti/disputeashte"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "disputescu",
-    "headwords": [
-      "dhisputescu",
-      "disputescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "disputsali/disputsale",
-    "headwords": [
-      "dhisputsãlji/dhisputsãlje",
-      "disputsãlji/disputsãlje"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distih",
-    "headwords": [
-      "dhistih",
-      "distih"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihii/distihie",
-    "headwords": [
-      "dhistihii/dhistihie",
-      "distihii/distihie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihipsescu",
-    "headwords": [
-      "dhistihipsescu",
-      "distihipsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 3
-  },
-  {
-    "normalized": "distihipsiri/distihipsire",
-    "headwords": [
-      "dhistihipsiri/dhistihipsire",
-      "distihipsiri/distihipsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihipsit",
-    "headwords": [
-      "dhistihipsit",
-      "distihipsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihisescu",
-    "headwords": [
-      "dhistihisescu",
-      "distihisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihisiri/distihisire",
-    "headwords": [
-      "dhistihisiri/dhistihisire",
-      "distihisiri/distihisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "distihisit",
-    "headwords": [
-      "dhistihisit",
-      "distihisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diurii/diurie",
-    "headwords": [
-      "dhiurii/dhiurie",
-      "diurii/diurie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dixescu",
-    "headwords": [
-      "dhixescu",
-      "dixescu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dixiri/dixire",
-    "headwords": [
-      "dhixiri/dhixire",
-      "dixiri/dixire"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dixit",
-    "headwords": [
-      "dhixit",
-      "dixit"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dogma",
-    "headwords": [
-      "dhogmã",
-      "dogmã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dohi",
-    "headwords": [
-      "dhohi",
-      "dohi"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dohi/dohe",
-    "headwords": [
-      "dhohi/dhohe",
-      "dohi/dohe"
-    ],
-    "similarity": 0.9,
     "entry_count": 2
   },
   {
@@ -9543,315 +6954,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "doliu",
-    "headwords": [
-      "dholjiu",
-      "doljiu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "doxoloyii/doxoloyie",
-    "headwords": [
-      "dhoxoloyii/dhoxoloyie",
-      "doxoloyii/doxoloyie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "doxoloyisescu",
-    "headwords": [
-      "dhoxoloyisescu",
-      "doxoloyisescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 3
-  },
-  {
-    "normalized": "doxoloyisiri/doxoloyisire",
-    "headwords": [
-      "dhoxoloyisiri/dhoxoloyisire",
-      "doxoloyisiri/doxoloyisire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "doxoloyisit",
-    "headwords": [
-      "dhoxoloyisit",
-      "doxoloyisit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "doxa",
-    "headwords": [
-      "dhoxâ",
-      "dhoxã",
-      "doxâ",
-      "doxã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "doxasita",
-    "headwords": [
-      "dhoxâsitâ",
-      "dhoxãsitã",
-      "doxãsitã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "drami/drame",
-    "headwords": [
-      "dhrami/dhrame",
-      "drami/drame"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dukimii/dukimie",
-    "headwords": [
-      "dhuchimii/dhuchimie",
-      "duchimii/duchimie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dukimasescu",
-    "headwords": [
-      "dhuchimãsescu",
-      "duchimãsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dukimasiri/dukimasire",
-    "headwords": [
-      "dhuchimãsiri/dhuchimãsire",
-      "duchimãsiri/duchimãsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dukimasit",
-    "headwords": [
-      "dhuchimãsit",
-      "duchimãsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dul",
-    "headwords": [
-      "dhul",
-      "dul"
-    ],
-    "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dulat",
-    "headwords": [
-      "dhuljat",
-      "duljat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dursescu",
-    "headwords": [
-      "dhursescu",
-      "dursescu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dursiri/dursire",
-    "headwords": [
-      "dhursiri/dhursire",
-      "dursiri/dursire"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dursit",
-    "headwords": [
-      "dhursit",
-      "dursit"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxar",
-    "headwords": [
-      "dhuxar",
-      "duxar"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxescu",
-    "headwords": [
-      "dhuxescu",
-      "duxescu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxiri/duxire",
-    "headwords": [
-      "dhuxiri/dhuxire",
-      "duxiri/duxire"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxisescu",
-    "headwords": [
-      "dhuxisescu",
-      "duxisescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxisiri/duxisire",
-    "headwords": [
-      "dhuxisiri/dhuxisire",
-      "duxisiri/duxisire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxisit",
-    "headwords": [
-      "dhuxisit",
-      "duxisit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxit",
-    "headwords": [
-      "dhuxit",
-      "duxit"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxusescu",
-    "headwords": [
-      "dhuxusescu",
-      "duxusescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxusiri/duxusire",
-    "headwords": [
-      "dhuxusiri/dhuxusire",
-      "duxusiri/duxusire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxusit",
-    "headwords": [
-      "dhuxusit",
-      "duxusit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxasescu",
-    "headwords": [
-      "dhuxãsescu",
-      "duxãsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxasiri/duxasire",
-    "headwords": [
-      "dhuxãsiri/dhuxãsire",
-      "duxãsiri/duxãsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "duxasit",
-    "headwords": [
-      "dhuxãsit",
-      "duxãsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeac",
-    "headwords": [
-      "dhyeac",
-      "dyeac"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeafur",
-    "headwords": [
-      "dhyeafur",
-      "dyeafur"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeafuraua",
-    "headwords": [
-      "dhyeafurauã",
-      "dyeafurauã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeamandi/dyeamande",
-    "headwords": [
-      "dhyeamandi/dhyeamande",
-      "dyeamandi/dyeamande"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
     "normalized": "dyeargu",
     "headwords": [
       "dhyearghu",
@@ -9861,299 +6963,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "dyeara",
-    "headwords": [
-      "dhyearâ",
-      "dhyearã",
-      "dyearã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dyeata",
-    "headwords": [
-      "dhyeatâ",
-      "dhyeatã",
-      "dyeatâ",
-      "dyeatã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "dyeavasi/dyeavase",
-    "headwords": [
-      "dhyeavasi/dhyeavase",
-      "dyeavasi/dyeavase"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeavat",
-    "headwords": [
-      "dhyeavat",
-      "dyeavat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeaver",
-    "headwords": [
-      "dhyeaver",
-      "dyeaver"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeaveran",
-    "headwords": [
-      "dhyeaveran",
-      "dyeaveran"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeavul",
-    "headwords": [
-      "dhyeavul",
-      "dyeavul"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyeavulii/dyeavulie",
-    "headwords": [
-      "dhyeavulii/dhyeavulie",
-      "dyeavulii/dyeavulie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyiuvasescu",
-    "headwords": [
-      "dhyiuvâsescu",
-      "dhyiuvãsescu",
-      "dyiuvãsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dyiuvasiri/dyiuvasire",
-    "headwords": [
-      "dhyiuvãsiri/dyiuvãsire",
-      "dyiuvãsiri/dyiuvãsire"
-    ],
-    "similarity": 0.9767441860465116,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyiuvasit",
-    "headwords": [
-      "dhyiuvãsit",
-      "dyiuvãsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyiuvasitor",
-    "headwords": [
-      "dhyiuvãsitor",
-      "dyiuvãsitor"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyivasescu",
-    "headwords": [
-      "dhyivâsescu",
-      "dhyivãsescu",
-      "dyivãsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "dyivasiri/dyivasire",
-    "headwords": [
-      "dhyivãsiri/dhyivãsire",
-      "dyivãsiri/dyivãsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyivasit",
-    "headwords": [
-      "dhyivãsit",
-      "dyivãsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dyivasitor",
-    "headwords": [
-      "dhyivãsitor",
-      "dyivãsitor"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "damal",
-    "headwords": [
-      "dhãmal",
-      "dãmal"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalami/dascalame",
-    "headwords": [
-      "dhãscãlami/dhãscãlame",
-      "dãscãlami/dãscãlame"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalescu1",
-    "headwords": [
-      "dhãscãlescu1",
-      "dãscãlescu1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalescu2",
-    "headwords": [
-      "dhãscãlescu2",
-      "dãscãlescu2"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalic",
-    "headwords": [
-      "dhãscãlic",
-      "dãscãlic"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascaliki/dascalike",
-    "headwords": [
-      "dhãscãlichi/dhãscãliche",
-      "dãscãlichi/dãscãliche"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalii/dascalie",
-    "headwords": [
-      "dhãscãlii/dhãscãlie",
-      "dãscãlii/dãscãlie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalipsescu",
-    "headwords": [
-      "dhãscãlipsescu",
-      "dãscãlipsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalipsiri/dascalipsire",
-    "headwords": [
-      "dhãscãlipsiri/dhãscãlipsire",
-      "dãscãlipsiri/dãscãlipsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalipsit",
-    "headwords": [
-      "dhãscãlipsit",
-      "dãscãlipsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascaliri/dascalire",
-    "headwords": [
-      "dhãscãliri/dhãscãlire",
-      "dãscãliri/dãscãlire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalisescu",
-    "headwords": [
-      "dhãscãlisescu",
-      "dãscãlisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalisiri/dascalisire",
-    "headwords": [
-      "dhãscãlisiri/dhãscãlisire",
-      "dãscãlisiri/dãscãlisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalisit",
-    "headwords": [
-      "dhãscãlisit",
-      "dãscãlisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalit",
-    "headwords": [
-      "dhãscãlit",
-      "dãscãlit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dascalaki/dascalake",
-    "headwords": [
-      "dhãscãlãchi/dhãscãlãche",
-      "dãscãlãchi/dãscãlãche"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
   },
   {
     "normalized": "di-alaga",
@@ -10218,33 +7027,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "diskirdasescu",
-    "headwords": [
-      "dischirdhãsescu",
-      "dischirdãsescu"
-    ],
-    "similarity": 0.9655172413793104,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diskirdasiri/diskirdasire",
-    "headwords": [
-      "dischirdhãsiri/dischirdhãsire",
-      "dischirdãsiri/dischirdãsire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "diskirdasit",
-    "headwords": [
-      "dischirdhãsit",
-      "dischirdãsit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
   },
   {
     "normalized": "dishilari1/dishilare",
@@ -10951,52 +7733,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "elpida",
-    "headwords": [
-      "elpidhâ",
-      "elpidhã",
-      "elpidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "epidi",
-    "headwords": [
-      "epidhi",
-      "epidi"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "epidimii/epidimie",
-    "headwords": [
-      "epidhimii/epidhimie",
-      "epidimii/epidimie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "epidis",
-    "headwords": [
-      "epidhis",
-      "epidis"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "epitidiu",
-    "headwords": [
-      "epitidhiu",
-      "epitidiu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
     "normalized": "ergataric",
     "headwords": [
       "ergataric",
@@ -11012,24 +7748,6 @@
       "ergu"
     ],
     "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "exud",
-    "headwords": [
-      "exud",
-      "exudh"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "exuda",
-    "headwords": [
-      "exudhã",
-      "exudã"
-    ],
-    "similarity": 0.9090909090909091,
     "entry_count": 2
   },
   {
@@ -11110,15 +7828,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "fkeasidi/fkeaside",
-    "headwords": [
-      "fcheasidhi/fcheasidhe",
-      "fcheasidi/fcheaside"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
     "normalized": "figiura",
     "headwords": [
       "fighiurã",
@@ -11144,16 +7853,6 @@
     ],
     "similarity": 0.7692307692307693,
     "entry_count": 2
-  },
-  {
-    "normalized": "filada",
-    "headwords": [
-      "filadhâ",
-      "filadhã",
-      "filadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "filantrop",
@@ -11210,45 +7909,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "fimirida",
-    "headwords": [
-      "fimiridhâ",
-      "fimiridã"
-    ],
-    "similarity": 0.8235294117647058,
-    "entry_count": 2
-  },
-  {
-    "normalized": "fingid",
-    "headwords": [
-      "finghid",
-      "finghidh"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "firada",
-    "headwords": [
-      "firadhâ",
-      "firadhã",
-      "firadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "firida",
-    "headwords": [
-      "firidhâ",
-      "firidhã",
-      "firidâ",
-      "firidã"
-    ],
-    "similarity": null,
-    "entry_count": 5
-  },
-  {
     "normalized": "fisica",
     "headwords": [
       "fisica",
@@ -11302,16 +7962,6 @@
     ],
     "similarity": 0.9090909090909091,
     "entry_count": 2
-  },
-  {
-    "normalized": "fluda",
-    "headwords": [
-      "fludhâ",
-      "fludhã",
-      "fludã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "foali/foale",
@@ -11419,15 +8069,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "frundida",
-    "headwords": [
-      "frundidhã",
-      "frundidã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "frunza",
     "headwords": [
       "frundzã",
@@ -11436,15 +8077,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "frunimada",
-    "headwords": [
-      "frunimadhã",
-      "frunimadã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
   },
   {
     "normalized": "fuali/fuale",
@@ -13150,30 +9782,11 @@
     "entry_count": 2
   },
   {
-    "normalized": "grad",
-    "headwords": [
-      "grad",
-      "gradh"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "granitsa",
     "headwords": [
       "granitsâ",
       "granitsã",
       "grânitsâ"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gumarada",
-    "headwords": [
-      "gumaradhâ",
-      "gumaradhã",
-      "gumaradã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -13284,24 +9897,6 @@
       "gãrnutsãt2"
     ],
     "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "hadyearcu",
-    "headwords": [
-      "hadhyearcu",
-      "hadyearcu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
-    "normalized": "hadyi/hadye",
-    "headwords": [
-      "hadhyi/hadhye",
-      "hadyi/hadye"
-    ],
-    "similarity": 0.9166666666666666,
     "entry_count": 2
   },
   {
@@ -13425,15 +10020,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "hasidear",
-    "headwords": [
-      "hasidear",
-      "hasidhear"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "hau",
     "headwords": [
       "hau",
@@ -13470,34 +10056,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "hilidona",
-    "headwords": [
-      "hilidhonâ",
-      "hilidhonã",
-      "hilidonã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "hilidrunaua",
-    "headwords": [
-      "hilidhrunjauã",
-      "hilidrunjauã"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "hilidunaua",
-    "headwords": [
-      "hilidhunjauã",
-      "hilidunjauã"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
     "normalized": "hima",
     "headwords": [
       "hima",
@@ -13517,16 +10075,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "hivada",
-    "headwords": [
-      "hivadhâ",
-      "hivadhã",
-      "hivadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "hlara",
     "headwords": [
       "hljara",
@@ -13536,58 +10084,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "htapodi/htapode",
-    "headwords": [
-      "htapodhi/htapodhe",
-      "htapodi/htapode"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "haidipsescu",
-    "headwords": [
-      "hâidipsescu",
-      "hãidhipsescu",
-      "hãidipsescu"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "handaki",
     "headwords": [
       "hândaki",
       "hãndachi"
     ],
     "similarity": 0.6666666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "haidipsiri/haidipsire",
-    "headwords": [
-      "hãidhipsiri/hãidhipsire",
-      "hãidipsiri/hãidipsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "haidipsit",
-    "headwords": [
-      "hãidhipsit",
-      "hãidipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "hasadyear",
-    "headwords": [
-      "hãsãdhyear",
-      "hãsãdyear"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -13619,116 +10121,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "idioma",
-    "headwords": [
-      "idhiomâ",
-      "idhiomã",
-      "idiomã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "idisi/idise",
-    "headwords": [
-      "idhisi/idhise",
-      "idisi/idise"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idiu",
-    "headwords": [
-      "idhiu",
-      "idiu"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 3
-  },
-  {
-    "normalized": "idiuma",
-    "headwords": [
-      "idhiumâ",
-      "idhiumã",
-      "idiumã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "idol",
-    "headwords": [
-      "idhol",
-      "idol"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idololatru",
-    "headwords": [
-      "idhololatru",
-      "idololatru"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "idropic",
-    "headwords": [
-      "idhropic",
-      "idropic"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idropica",
-    "headwords": [
-      "idhropicã",
-      "idropicã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idul",
-    "headwords": [
-      "idhul",
-      "idul"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idulatrii/idulatrie",
-    "headwords": [
-      "idhulatrii/idhulatrie",
-      "idulatrii/idulatrie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "idulatru",
-    "headwords": [
-      "idhulatru",
-      "idulatru"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "idyiu",
-    "headwords": [
-      "idhyiu",
-      "idyiu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
   },
   {
     "normalized": "igrasii/igrasie",
@@ -13812,39 +10204,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "ilpida",
-    "headwords": [
-      "ilpidhã",
-      "ilpidã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "insa",
     "headwords": [
       "insa",
       "insã"
     ],
     "similarity": 0.75,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iod",
-    "headwords": [
-      "iod",
-      "iodh"
-    ],
-    "similarity": 0.8571428571428571,
-    "entry_count": 3
-  },
-  {
-    "normalized": "ioduforma",
-    "headwords": [
-      "iodhuformã",
-      "ioduformã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -13855,15 +10220,6 @@
     ],
     "similarity": 0.9230769230769231,
     "entry_count": 2
-  },
-  {
-    "normalized": "ipodiastoli",
-    "headwords": [
-      "ipodhiastoli",
-      "ipodiastoli"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
   },
   {
     "normalized": "ipotisi/ipotise",
@@ -14047,15 +10403,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ladi",
-    "headwords": [
-      "ladhi",
-      "ladi"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "lazina",
     "headwords": [
       "ladzinâ",
@@ -14115,15 +10462,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "lardu",
-    "headwords": [
-      "lardhu",
-      "lardu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
   },
   {
     "normalized": "latus",
@@ -14362,47 +10700,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "limudeta",
-    "headwords": [
-      "limudetã",
-      "limudhetâ",
-      "limudhetã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "limunada",
-    "headwords": [
-      "limunadhâ",
-      "limunadhã",
-      "limunadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "limadura",
-    "headwords": [
-      "limâdhurâ",
-      "limâdurâ",
-      "limãdhurã",
-      "limãdurã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "lipida",
-    "headwords": [
-      "lipidhâ",
-      "lipidhã",
-      "lipidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "lipurar",
     "headwords": [
       "lipurar",
@@ -14549,34 +10846,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "livadi",
-    "headwords": [
-      "livadhi",
-      "livadi"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "livadi/livade",
-    "headwords": [
-      "livadhi/livadhe",
-      "livadi/livade"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "livida",
-    "headwords": [
-      "lividhâ",
-      "lividhã",
-      "lividã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "lahura",
     "headwords": [
       "ljahurã",
@@ -14585,15 +10854,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "lolad",
-    "headwords": [
-      "ljolad",
-      "ljoladh"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
   },
   {
     "normalized": "lu-lu-lu!",
@@ -14623,15 +10883,6 @@
     ],
     "similarity": 0.875,
     "entry_count": 2
-  },
-  {
-    "normalized": "lordu",
-    "headwords": [
-      "lordhu",
-      "lordu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
   },
   {
     "normalized": "lotru",
@@ -14752,54 +11003,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "luludyisescu",
-    "headwords": [
-      "luludhyisescu",
-      "luludyisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 3
-  },
-  {
-    "normalized": "luludyisiri/luludyisire",
-    "headwords": [
-      "luludhyisiri/luludhyisire",
-      "luludyisiri/luludyisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luludyisit",
-    "headwords": [
-      "luludhyisit",
-      "luludyisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luluda",
-    "headwords": [
-      "luludhâ",
-      "luludhã",
-      "luludã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "lumbarda",
-    "headwords": [
-      "lumbardhâ",
-      "lumbardhã",
-      "lumbardâ",
-      "lumbardã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "lumakitsa",
     "headwords": [
       "lumãchitsã",
@@ -14840,25 +11043,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "lupudit",
-    "headwords": [
-      "lupudhit",
-      "lupudit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lurida",
-    "headwords": [
-      "luridhâ",
-      "luridhã",
-      "luridã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "lutseatra",
     "headwords": [
       "lutseathrã",
@@ -14875,37 +11059,6 @@
     ],
     "similarity": 0.5,
     "entry_count": 2
-  },
-  {
-    "normalized": "laluda",
-    "headwords": [
-      "lâludhâ",
-      "lâludâ",
-      "lãludhã",
-      "lãludã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "lambada",
-    "headwords": [
-      "lâmbadhâ",
-      "lãmbadhã",
-      "lãmbadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "langida",
-    "headwords": [
-      "lânghidhâ",
-      "lãnghidhã",
-      "lãnghidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "laptariu",
@@ -14935,25 +11088,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "latrapod",
-    "headwords": [
-      "lâtrâpodh",
-      "lãtrãpod",
-      "lãtrãpodh"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "lakerda",
-    "headwords": [
-      "lãcherdhã",
-      "lãcherdã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "lagami/lagame",
@@ -15035,24 +11169,6 @@
       "lãmnjii/lãmnjie"
     ],
     "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lardii/lardie",
-    "headwords": [
-      "lãrdhii/lãrdhie",
-      "lãrdii/lãrdie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lardios",
-    "headwords": [
-      "lãrdhios",
-      "lãrdios"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -15138,39 +11254,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "makidunish",
-    "headwords": [
-      "machidhunish",
-      "machidunish"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "makidunits",
-    "headwords": [
-      "machidhunits",
-      "machidunits"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
     "normalized": "macioc",
     "headwords": [
       "macioc",
       "mãcioc"
     ],
     "similarity": 0.8333333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mada",
-    "headwords": [
-      "madhã",
-      "madã"
-    ],
-    "similarity": 0.8888888888888888,
     "entry_count": 2
   },
   {
@@ -15489,60 +11578,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "mberdosescu",
-    "headwords": [
-      "mberdhosescu",
-      "mberdosescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mberdosiri/mberdosire",
-    "headwords": [
-      "mberdhosiri/mberdhosire",
-      "mberdosiri/mberdosire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mberdosit",
-    "headwords": [
-      "mberdhosit",
-      "mberdosit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbirduescu",
-    "headwords": [
-      "mbirdhuescu",
-      "mbirduescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mbirduiri/mbirduire",
-    "headwords": [
-      "mbirdhuiri/mbirdhuire",
-      "mbirduiri/mbirduire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbirduit",
-    "headwords": [
-      "mbirdhuit",
-      "mbirduit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "mbitar",
     "headwords": [
       "mbitar",
@@ -15570,75 +11605,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "mbod",
-    "headwords": [
-      "mbod",
-      "mbodh"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "mbrustela",
     "headwords": [
       "mbrustela",
       "mbrustelã"
     ],
     "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbuduescu",
-    "headwords": [
-      "mbudhuescu",
-      "mbuduescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mbuduiri/mbuduire",
-    "headwords": [
-      "mbudhuiri/mbudhuire",
-      "mbuduiri/mbuduire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbuduit",
-    "headwords": [
-      "mbudhuit",
-      "mbuduit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbudyisescu",
-    "headwords": [
-      "mbudhyisescu",
-      "mbudyisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbudyisiri/mbudyisire",
-    "headwords": [
-      "mbudhyisiri/mbudhyisire",
-      "mbudyisiri/mbudyisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mbudyisit",
-    "headwords": [
-      "mbudhyisit",
-      "mbudyisit"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -15714,15 +11686,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "midi",
-    "headwords": [
-      "midhi",
-      "midi"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 3
-  },
-  {
     "normalized": "migdal",
     "headwords": [
       "migdal",
@@ -15787,39 +11750,11 @@
     "entry_count": 3
   },
   {
-    "normalized": "miludii/miludie",
-    "headwords": [
-      "miludhii/miludhie",
-      "miludii/miludie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "miludios",
-    "headwords": [
-      "miludhios",
-      "miludios"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "minzitra",
     "headwords": [
       "mindzithrâ",
       "mindzithrã",
       "mindzitrã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "minginada",
-    "headwords": [
-      "minghinadhâ",
-      "minghinadhã",
-      "minghinadã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -15834,60 +11769,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "miriada",
-    "headwords": [
-      "miriadhâ",
-      "miriadhã",
-      "miriadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mirizmada",
-    "headwords": [
-      "mirizmadhâ",
-      "mirizmadhã",
-      "mirizmadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mirudat",
-    "headwords": [
-      "mirudat",
-      "mirudhat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mirudyeaua",
-    "headwords": [
-      "mirudhyeauâ",
-      "mirudhyeauã",
-      "mirudyeauã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "miryiulog",
     "headwords": [
       "miryiulog",
       "miryiulogh"
     ],
     "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "misida",
-    "headwords": [
-      "misidhã",
-      "misidã"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -15957,87 +11844,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "moda",
-    "headwords": [
-      "modhâ",
-      "modhã",
-      "modã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "mucava",
     "headwords": [
       "mucâva",
       "mucãvã"
     ],
     "similarity": 0.6666666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mudistra",
-    "headwords": [
-      "mudhistrâ",
-      "mudhistrã",
-      "mudistrã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "muhlada",
-    "headwords": [
-      "muhladhâ",
-      "muhladhã",
-      "muhladã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mulidar",
-    "headwords": [
-      "mulidar",
-      "mulidhar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mulidi/mulide",
-    "headwords": [
-      "mulidhi/mulidhe",
-      "mulidi/mulide"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mulidusescu",
-    "headwords": [
-      "mulidhusescu",
-      "mulidusescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mulidusiri/mulidusire",
-    "headwords": [
-      "mulidhusiri/mulidhusire",
-      "mulidusiri/mulidusire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mulidusit",
-    "headwords": [
-      "mulidhusit",
-      "mulidusit"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -16070,30 +11882,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "muneda",
-    "headwords": [
-      "munedhã",
-      "munedã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "murtaraua",
     "headwords": [
       "murtarauã",
       "murtârauâ"
     ],
     "similarity": 0.7777777777777778,
-    "entry_count": 2
-  },
-  {
-    "normalized": "muskida",
-    "headwords": [
-      "muschidhã",
-      "muschidã"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -16213,16 +12007,6 @@
       "mârulâ",
       "mãruljã",
       "mãrulã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "mascalida",
-    "headwords": [
-      "mâscâlidhâ",
-      "mãscãlidhã",
-      "mãscãlidã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -16353,15 +12137,6 @@
       "mãrgãritari2/mãrgãritare"
     ],
     "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "masida",
-    "headwords": [
-      "mãsidhã",
-      "mãsidã"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -16576,24 +12351,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "nbirduescu",
-    "headwords": [
-      "nbirdhuescu",
-      "nbirduescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nkerdu",
-    "headwords": [
-      "ncherdhu",
-      "ncherdu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "nkirdasescu",
     "headwords": [
       "nchirdhãsescu",
@@ -16604,84 +12361,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "nkirdasiri/nkirdasire",
-    "headwords": [
-      "nchirdhãsiri/nchirdhãsire",
-      "nchirdãsiri/nchirdãsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nkirdasit",
-    "headwords": [
-      "nchirdhãsit",
-      "nchirdãsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "nciunez",
     "headwords": [
       "nciunedz",
       "nciunjedz"
     ],
     "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ncurdusescu",
-    "headwords": [
-      "ncurdhusescu",
-      "ncurdusescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
-    "normalized": "ncurdusiri/ncurdusire",
-    "headwords": [
-      "ncurdhusiri/ncurdhusire",
-      "ncurdusiri/ncurdusire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ncurdusit",
-    "headwords": [
-      "ncurdhusit",
-      "ncurdusit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ndiplusescu",
-    "headwords": [
-      "ndhiplusescu",
-      "ndiplusescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ndiplusiri/ndiplusire",
-    "headwords": [
-      "ndhiplusiri/ndhiplusire",
-      "ndiplusiri/ndiplusire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ndiplusit",
-    "headwords": [
-      "ndhiplusit",
-      "ndiplusit"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -16793,24 +12478,6 @@
       "njes"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ngida1",
-    "headwords": [
-      "nghidhã1",
-      "nghidã1"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ngida2",
-    "headwords": [
-      "nghidhã2",
-      "nghidã2"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -16945,15 +12612,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "nihtirida",
-    "headwords": [
-      "nihtiridhã",
-      "nihtiridã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "nilush",
     "headwords": [
       "nilush",
@@ -17017,24 +12675,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "nipidipsiri/nipidipsire",
-    "headwords": [
-      "nipidhipsiri/nipidhipsire",
-      "nipidipsiri/nipidipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nipidipsit",
-    "headwords": [
-      "nipidhipsit",
-      "nipidipsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "niputsami/niputsame",
     "headwords": [
       "niputsami/niputsame",
@@ -17060,16 +12700,6 @@
     ],
     "similarity": 0.96,
     "entry_count": 2
-  },
-  {
-    "normalized": "niraida",
-    "headwords": [
-      "niraidhâ",
-      "niraidhã",
-      "niraidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "nirzeari/nirzeare",
@@ -17281,16 +12911,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "nisida",
-    "headwords": [
-      "njisidhâ",
-      "njisidhã",
-      "njisidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "nolgican",
     "headwords": [
       "njolgican",
@@ -17436,26 +13056,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "nuruhida",
-    "headwords": [
-      "nuruhidhâ",
-      "nuruhidhã",
-      "nuruhidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "nustimada",
-    "headwords": [
-      "nustimadhâ",
-      "nustimadhã",
-      "nustimadã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "nutii/nutie",
     "headwords": [
       "nuthii/nuthie",
@@ -17520,16 +13120,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "nangida",
-    "headwords": [
-      "nânghidhâ",
-      "nãnghidhã",
-      "nãnghidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "nateama",
     "headwords": [
       "nâtheamâ",
@@ -17546,15 +13136,6 @@
       "nãmalj"
     ],
     "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "napudearic",
-    "headwords": [
-      "nãpudearic",
-      "nãpudhearic"
-    ],
-    "similarity": 0.9523809523809523,
     "entry_count": 2
   },
   {
@@ -17600,15 +13181,6 @@
       "optusprâtsi"
     ],
     "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ordinii/ordinie",
-    "headwords": [
-      "ordhinii/ordhinie",
-      "ordinii/ordinie"
-    ],
-    "similarity": 0.9375,
     "entry_count": 2
   },
   {
@@ -17810,16 +13382,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "papardela",
-    "headwords": [
-      "papardelã",
-      "papardhelâ",
-      "papardhelã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "papara",
     "headwords": [
       "paparâ",
@@ -17858,25 +13420,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "paradangala",
-    "headwords": [
-      "paradangalã",
-      "paradhangalâ",
-      "paradhangalã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "paradis",
-    "headwords": [
-      "paradhis",
-      "paradis"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "paradisa",
     "headwords": [
       "Paradhisa",
@@ -17885,24 +13428,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "paradisu",
-    "headwords": [
-      "paradhisu",
-      "paradisu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paradusi/paraduse",
-    "headwords": [
-      "paradhusi/paradhuse",
-      "paradusi/paraduse"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
   },
   {
     "normalized": "paradigma",
@@ -17947,15 +13472,6 @@
       "pãrãvulii/pãrãvulie"
     ],
     "similarity": 0.7894736842105263,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pardon",
-    "headwords": [
-      "pardhon",
-      "pardon"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -18104,42 +13620,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pedevsescu",
-    "headwords": [
-      "pedevsescu",
-      "pedhevsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pedevsiri/pedevsire",
-    "headwords": [
-      "pedevsiri/pedevsire",
-      "pedhevsiri/pedhevsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pedevsit",
-    "headwords": [
-      "pedevsit",
-      "pedhevsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pedimo",
-    "headwords": [
-      "pedhimo",
-      "pedimo"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
     "normalized": "pelag",
     "headwords": [
       "pelag",
@@ -18197,60 +13677,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pidimo",
-    "headwords": [
-      "pidhimo",
-      "pidimo"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pidimou",
-    "headwords": [
-      "pidhimou",
-      "pidimou"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pidipsescu",
-    "headwords": [
-      "pidhipsescu",
-      "pidipsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 4
-  },
-  {
-    "normalized": "pidipsiri/pidipsire",
-    "headwords": [
-      "pidhipsiri/pidhipsire",
-      "pidipsiri/pidipsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pidipsit",
-    "headwords": [
-      "pidhipsit",
-      "pidipsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pidupinac",
-    "headwords": [
-      "pidhupinac",
-      "pidupinac"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "pizul",
     "headwords": [
       "pidzulj",
@@ -18287,16 +13713,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pilicuda",
-    "headwords": [
-      "pilicudhâ",
-      "pilicudhã",
-      "pilicudã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "pindanica",
     "headwords": [
       "pindanicâ",
@@ -18306,34 +13722,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "pinitada",
-    "headwords": [
-      "pinitadhâ",
-      "pinitadhã",
-      "pinitadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pirdica",
-    "headwords": [
-      "pirdhicâ",
-      "pirdicã"
-    ],
-    "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pirduclaua",
-    "headwords": [
-      "pirdhucljauã",
-      "pirducljauã"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
   },
   {
     "normalized": "pirgu",
@@ -18372,15 +13760,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pisudrom",
-    "headwords": [
-      "pisudhrom",
-      "pisudrom"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "pitalurga",
     "headwords": [
       "pitalurghã",
@@ -18397,26 +13776,6 @@
     ],
     "similarity": 0.9285714285714286,
     "entry_count": 2
-  },
-  {
-    "normalized": "piturida",
-    "headwords": [
-      "pituridhâ",
-      "pituridhã",
-      "pituridã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pitaluda",
-    "headwords": [
-      "pitâludhâ",
-      "pitãludhã",
-      "pitãludã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "pitalog",
@@ -18528,16 +13887,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "plisada",
-    "headwords": [
-      "plisadhâ",
-      "plisadhã",
-      "plisadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "plitari/plitare",
     "headwords": [
       "plitari/plitare",
@@ -18604,31 +13953,11 @@
     "entry_count": 2
   },
   {
-    "normalized": "podima",
-    "headwords": [
-      "podhimâ",
-      "podhimã",
-      "podimã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "pontsa",
     "headwords": [
       "ponjtsã",
       "pontsâ",
       "pontsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "popurda",
-    "headwords": [
-      "popurdhâ",
-      "popurdhã",
-      "popurdã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -18682,53 +14011,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pripodi/pripode",
-    "headwords": [
-      "pripodhi/pripodhe",
-      "pripodi/pripode"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pripoda",
-    "headwords": [
-      "pripodhâ",
-      "pripodhã",
-      "pripodã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "prisinada",
-    "headwords": [
-      "prisinadhâ",
-      "prisinadhã",
-      "prisinadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "prod",
-    "headwords": [
-      "prod",
-      "prodh"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prodrom",
-    "headwords": [
-      "prodhrom",
-      "prodrom"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
     "normalized": "progon",
     "headwords": [
       "proghon",
@@ -18747,30 +14029,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "prood",
-    "headwords": [
-      "prood",
-      "proodh"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
     "normalized": "propaganda",
     "headwords": [
       "propagandã",
       "propaghandã"
     ],
     "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "proscomidii/proscomidie",
-    "headwords": [
-      "proscomidhii/proscomidhie",
-      "proscomidii/proscomidie"
-    ],
-    "similarity": 0.9583333333333334,
     "entry_count": 2
   },
   {
@@ -18819,69 +14083,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "prudipsescu",
-    "headwords": [
-      "prudhipsescu",
-      "prudipsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 3
-  },
-  {
-    "normalized": "prudipsiri/prudipsire",
-    "headwords": [
-      "prudhipsiri/prudhipsire",
-      "prudipsiri/prudipsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prudipsit",
-    "headwords": [
-      "prudhipsit",
-      "prudipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prudot",
-    "headwords": [
-      "prudhot",
-      "prudot"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prudusescu",
-    "headwords": [
-      "prudhusescu",
-      "prudusescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "prudusiri/prudusire",
-    "headwords": [
-      "prudhusiri/prudhusire",
-      "prudusiri/prudusire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prudusit",
-    "headwords": [
-      "prudhusit",
-      "prudusit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "prugomi/prugome",
     "headwords": [
       "prughomi/prughome",
@@ -18889,16 +14090,6 @@
     ],
     "similarity": 0.9375,
     "entry_count": 2
-  },
-  {
-    "normalized": "prusupida",
-    "headwords": [
-      "prusupidhâ",
-      "prusupidhã",
-      "prusupidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "prutimisescu",
@@ -18965,25 +14156,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "psihuped",
-    "headwords": [
-      "psihuped",
-      "psihupedh"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "psiruda",
-    "headwords": [
-      "psirudhâ",
-      "psirudhã",
-      "psirudã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "psutii/psutie",
     "headwords": [
       "psuthii/psuthie",
@@ -18991,74 +14163,6 @@
     ],
     "similarity": 0.9285714285714286,
     "entry_count": 2
-  },
-  {
-    "normalized": "pudimata",
-    "headwords": [
-      "pudhimatâ",
-      "pudhimatã",
-      "pudimatã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "pudrush",
-    "headwords": [
-      "pudhrush",
-      "pudrush"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pudumata",
-    "headwords": [
-      "pudhumatâ",
-      "pudhumatã",
-      "pudumatã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pudunar",
-    "headwords": [
-      "pudhunar",
-      "pudunar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "puduritsa",
-    "headwords": [
-      "pudhuritsâ",
-      "pudhuritsã",
-      "puduritsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pudyeaua",
-    "headwords": [
-      "pudhyeauâ",
-      "pudhyeauã",
-      "pudyeauã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pudaritsa",
-    "headwords": [
-      "pudhâritsâ",
-      "pudhãritsã",
-      "pudãritsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "pugaci/pugace",
@@ -19107,52 +14211,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "purdascal",
-    "headwords": [
-      "purdascal",
-      "purdhascal"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "purdecica",
-    "headwords": [
-      "purdecicã",
-      "purdhecicâ",
-      "purdhecicã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "purdicali/purdicale",
-    "headwords": [
-      "purdhicalji/purdhicalje",
-      "purdicalji/purdicalje"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "purducali/purducale",
-    "headwords": [
-      "purdhucalji/purdhucalje",
-      "purducalji/purducalje"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "purduclaua",
-    "headwords": [
-      "purdhucljauã",
-      "purducljauã"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
     "normalized": "purnescu",
     "headwords": [
       "purnescu",
@@ -19180,24 +14238,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "purpodi/purpode",
-    "headwords": [
-      "purpodhi/purpodhe",
-      "purpodi/purpode"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "purpoda",
-    "headwords": [
-      "purpodhã",
-      "purpodã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "putrigan",
     "headwords": [
       "putriganj",
@@ -19205,25 +14245,6 @@
     ],
     "similarity": 0.8888888888888888,
     "entry_count": 2
-  },
-  {
-    "normalized": "puximadi/puximade",
-    "headwords": [
-      "puximadhi/puximadhe",
-      "puximadi/puximade"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "puximada",
-    "headwords": [
-      "puximadhâ",
-      "puximadhã",
-      "puximadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "pangaru",
@@ -19235,51 +14256,11 @@
     "entry_count": 2
   },
   {
-    "normalized": "papadula",
-    "headwords": [
-      "pâpâdhulâ",
-      "pãpãdhulã",
-      "pãpãdulã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "parduna",
-    "headwords": [
-      "pârdhunâ",
-      "pãrdhunã",
-      "pãrdunã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pardaritsa",
-    "headwords": [
-      "pârdâritsâ",
-      "pãrdhãritsã",
-      "pãrdãritsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "parnisescu",
     "headwords": [
       "pârnisescu",
       "pãrnisescu",
       "pãrnjisescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "paradusescu",
-    "headwords": [
-      "pârâdhusescu",
-      "pãrãdhusescu",
-      "pãrãdusescu"
     ],
     "similarity": null,
     "entry_count": 3
@@ -19477,48 +14458,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "parpodi/parpode",
-    "headwords": [
-      "pãrpodhi/pãrpodhe",
-      "pãrpodi/pãrpode"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "parpoda",
-    "headwords": [
-      "pãrpodhã",
-      "pãrpodã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "partiri/partire",
     "headwords": [
       "pãrthiri/pãrthire",
       "pãrtiri/pãrtire"
     ],
     "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paradusiri/paradusire",
-    "headwords": [
-      "pãrãdhusiri/pãrãdhusire",
-      "pãrãdusiri/pãrãdusire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paradusit",
-    "headwords": [
-      "pãrãdhusit",
-      "pãrãdusit"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -19585,33 +14530,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "paximadi/paximade",
-    "headwords": [
-      "pãximadhi/pãximadhe",
-      "pãximadi/pãximade"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "payida1",
-    "headwords": [
-      "pãyidhã1",
-      "pãyidã1"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "payida2",
-    "headwords": [
-      "pãyidhã2",
-      "pãyidã2"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "racica",
     "headwords": [
       "racicã",
@@ -19648,24 +14566,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ripinida",
-    "headwords": [
-      "ripinidhã",
-      "ripinidã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "roida",
-    "headwords": [
-      "roidhã",
-      "roidã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "rugani/rugane",
     "headwords": [
       "rugani/rugane",
@@ -19673,16 +14573,6 @@
     ],
     "similarity": 0.9285714285714286,
     "entry_count": 2
-  },
-  {
-    "normalized": "radatsina",
-    "headwords": [
-      "râdâtsinâ",
-      "rãdhãtsinã",
-      "rãdãtsinã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "ranescu",
@@ -19693,15 +14583,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "radariki/radarike",
-    "headwords": [
-      "rãdhãrichi/rãdhãriche",
-      "rãdãrichi/rãdãriche"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
   },
   {
     "normalized": "ragazi/ragaze",
@@ -19929,15 +14810,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "sbardu",
-    "headwords": [
-      "sbardhu",
-      "sbardu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
     "normalized": "scaltiz",
     "headwords": [
       "scaltiz",
@@ -20018,70 +14890,6 @@
     ],
     "similarity": 0.9411764705882353,
     "entry_count": 5
-  },
-  {
-    "normalized": "scoda",
-    "headwords": [
-      "scodhâ",
-      "scodhã",
-      "scodã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "scurdami/scurdame",
-    "headwords": [
-      "scurdami/scurdame",
-      "scurdhami/scurdhame"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "scutidi/scutide",
-    "headwords": [
-      "scutidhi/scutidhe",
-      "scutidi/scutide"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "scutidos",
-    "headwords": [
-      "scutidhos",
-      "scutidos"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "scutudisescu",
-    "headwords": [
-      "scutudhisescu",
-      "scutudisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 3
-  },
-  {
-    "normalized": "scutudisiri/scutudisire",
-    "headwords": [
-      "scutudhisiri/scutudhisire",
-      "scutudisiri/scutudisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "scutudisit",
-    "headwords": [
-      "scutudhisit",
-      "scutudisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
   },
   {
     "normalized": "scanzalitra",
@@ -20218,16 +15026,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "shcoda",
-    "headwords": [
-      "shcodhâ",
-      "shcodhã",
-      "shcodã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "shtrac",
     "headwords": [
       "shtrac",
@@ -20318,24 +15116,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "sihadyear",
-    "headwords": [
-      "sihãdhyear",
-      "sihãdyear"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "simadi/simade",
-    "headwords": [
-      "simadhi/simadhe",
-      "simadi/simade"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
     "normalized": "simatiti",
     "headwords": [
       "simathiti",
@@ -20365,25 +15145,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "sindoni/sindone",
-    "headwords": [
-      "sindhoni/sindhone",
-      "sindoni/sindone"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "sindona",
-    "headwords": [
-      "sindhonâ",
-      "sindhonã",
-      "sindonã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "sindukisescu",
     "headwords": [
       "sinduchisescu",
@@ -20393,31 +15154,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "sinfada",
-    "headwords": [
-      "sinfadhâ",
-      "sinfadhã",
-      "sinfadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "singritica",
     "headwords": [
       "singritica",
       "singriticâ"
     ],
     "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "sinidisi/sinidise",
-    "headwords": [
-      "sinidhisi/sinidhise",
-      "sinidisi/sinidise"
-    ],
-    "similarity": 0.9444444444444444,
     "entry_count": 2
   },
   {
@@ -20436,34 +15178,6 @@
       "sinitisi/sinitise"
     ],
     "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "sinoda",
-    "headwords": [
-      "sinodhâ",
-      "sinodhã",
-      "sinodã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "sinud",
-    "headwords": [
-      "sinud",
-      "sinudh"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "sinudii/sinudie",
-    "headwords": [
-      "sinudhii/sinudhie",
-      "sinudii/sinudie"
-    ],
-    "similarity": 0.9375,
     "entry_count": 2
   },
   {
@@ -20506,26 +15220,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "smarda",
-    "headwords": [
-      "smârdhă",
-      "smãrdhã",
-      "smãrdã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "soda",
-    "headwords": [
-      "sodhâ",
-      "sodhã",
-      "sodã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "spargan",
     "headwords": [
       "spargan",
@@ -20563,33 +15257,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "spida1",
-    "headwords": [
-      "spidhã1",
-      "spidã1"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "spida2",
-    "headwords": [
-      "spidhã2",
-      "spidã2"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "spida3",
-    "headwords": [
-      "spidhã3",
-      "spidã3"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "spital",
     "headwords": [
       "spital",
@@ -20623,43 +15290,6 @@
       "spitã3"
     ],
     "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "spudii/spudie",
-    "headwords": [
-      "spudhii/spudhie",
-      "spudii/spudie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "spudaxescu",
-    "headwords": [
-      "spudhâxescu",
-      "spudhãxescu",
-      "spudãxescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "spudaxiri/spudaxire",
-    "headwords": [
-      "spudhãxiri/spudhãxire",
-      "spudãxiri/spudãxire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "spudaxit",
-    "headwords": [
-      "spudhãxit",
-      "spudãxit"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -20745,26 +15375,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "stisida",
-    "headwords": [
-      "stisidhâ",
-      "stisidhã",
-      "stisidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "stolida",
-    "headwords": [
-      "stolidhâ",
-      "stolidhã",
-      "stolidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "strabalu",
     "headwords": [
       "strabalu",
@@ -20817,101 +15427,6 @@
       "strigãt"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stulida",
-    "headwords": [
-      "stulidhâ",
-      "stulidhã",
-      "stulidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "stafidusescu",
-    "headwords": [
-      "stâfidhusescu",
-      "stãfidhusescu",
-      "stãfidusescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "stafida",
-    "headwords": [
-      "stâfidâ",
-      "stãfidhã",
-      "stãfidã",
-      "stăfidhă"
-    ],
-    "similarity": null,
-    "entry_count": 5
-  },
-  {
-    "normalized": "stahida",
-    "headwords": [
-      "stâhidâ",
-      "stãhidhã",
-      "stãhidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "stafidescu",
-    "headwords": [
-      "stãfidescu",
-      "stãfidhescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stafidiri/stafidire",
-    "headwords": [
-      "stãfidhiri/stãfidhire",
-      "stãfidiri/stãfidire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stafidit",
-    "headwords": [
-      "stãfidhit",
-      "stãfidit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stafidusiri/stafidusire",
-    "headwords": [
-      "stãfidhusiri/stãfidhusire",
-      "stãfidusiri/stãfidusire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stafidusit",
-    "headwords": [
-      "stãfidhusit",
-      "stãfidusit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "suda",
-    "headwords": [
-      "sudhã",
-      "sudã"
-    ],
-    "similarity": 0.8888888888888888,
     "entry_count": 2
   },
   {
@@ -21127,15 +15642,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "tadi/tade",
-    "headwords": [
-      "tadhi/tadhe",
-      "tadi/tade"
-    ],
-    "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
     "normalized": "tagma",
     "headwords": [
       "taghmã",
@@ -21302,15 +15808,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "taxidar2",
-    "headwords": [
-      "taxidar2",
-      "taxidhar2"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "taxidi/taxide",
     "headwords": [
       "taxidhi/taxidhe",
@@ -21430,15 +15927,6 @@
     ],
     "similarity": 0.9,
     "entry_count": 2
-  },
-  {
-    "normalized": "tetradiu",
-    "headwords": [
-      "tetradhiu",
-      "tetradiu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
   },
   {
     "normalized": "tetragun",
@@ -22302,15 +16790,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "triada",
-    "headwords": [
-      "Triada",
-      "Triadha"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
     "normalized": "trigona",
     "headwords": [
       "trighonã",
@@ -22344,15 +16823,6 @@
       "trãgãnos2"
     ],
     "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "trapod",
-    "headwords": [
-      "trãpod",
-      "trãpodh"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -22513,16 +16983,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "tsimbida",
-    "headwords": [
-      "tsimbidhâ",
-      "tsimbidhã",
-      "tsimbidã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "tsinitura",
     "headwords": [
       "tsiniturã",
@@ -22662,16 +17122,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "taxidipsescu",
-    "headwords": [
-      "tâxidhipsescu",
-      "tãxidhipsescu",
-      "tãxidipsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "tagar",
     "headwords": [
       "tãgar",
@@ -22771,24 +17221,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "taxidipsiri/taxidipsire",
-    "headwords": [
-      "tãxidhipsiri/tãxidhipsire",
-      "tãxidipsiri/tãxidipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "taxidipsit",
-    "headwords": [
-      "tãxidhipsit",
-      "tãxidipsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "ua!",
     "headwords": [
       "ua!",
@@ -22804,15 +17236,6 @@
       "udzãratã"
     ],
     "similarity": 0.625,
-    "entry_count": 2
-  },
-  {
-    "normalized": "uhtapodi/uhtapode",
-    "headwords": [
-      "uhtapodhi/uhtapodhe",
-      "uhtapodi/uhtapode"
-    ],
-    "similarity": 0.9444444444444444,
     "entry_count": 2
   },
   {
@@ -22879,24 +17302,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "unidos",
-    "headwords": [
-      "unjidhos",
-      "unjidos"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "unida",
-    "headwords": [
-      "unjidhã",
-      "unjidã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "uotura",
     "headwords": [
       "uothurâ",
@@ -22932,25 +17337,6 @@
     ],
     "similarity": 0.8,
     "entry_count": 2
-  },
-  {
-    "normalized": "urdii/urdie",
-    "headwords": [
-      "urdhii/urdhie",
-      "urdii/urdie"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "urda",
-    "headwords": [
-      "urdhâ",
-      "urdhã",
-      "urdã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "urzat",
@@ -23005,15 +17391,6 @@
       "uvez2"
     ],
     "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "uvrida",
-    "headwords": [
-      "uvridhã",
-      "uvridã"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -23079,15 +17456,6 @@
     ],
     "similarity": 0.7142857142857143,
     "entry_count": 3
-  },
-  {
-    "normalized": "varda!",
-    "headwords": [
-      "varda!",
-      "vardha!"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
   },
   {
     "normalized": "varliga",
@@ -23160,26 +17528,6 @@
       "vasiloanji/vasiloanje",
       "vãsiljoanji/vãsiljoanje",
       "vãsiloanji/vãsiloanje"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "videla",
-    "headwords": [
-      "videlâ",
-      "videlã",
-      "vidhelã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "vida",
-    "headwords": [
-      "vidhâ",
-      "vidhã",
-      "vidã"
     ],
     "similarity": null,
     "entry_count": 3
@@ -23280,26 +17628,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "viryinada",
-    "headwords": [
-      "viryinadhâ",
-      "viryinadhã",
-      "viryinadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "vishinada",
-    "headwords": [
-      "vishinadhâ",
-      "vishinadhã",
-      "vishinadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "vivliuteca",
     "headwords": [
       "vivliutecã",
@@ -23347,16 +17675,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "vudela",
-    "headwords": [
-      "vudelã",
-      "vudhelâ",
-      "vudhelã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "vulgarescu",
     "headwords": [
       "vulghãrescu",
@@ -23373,15 +17691,6 @@
       "vumbirlãki"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurdal",
-    "headwords": [
-      "vurdal",
-      "vurdhal"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -23599,123 +17908,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "xifludyipsescu",
-    "headwords": [
-      "xifludhyipsescu",
-      "xifludyipsescu"
-    ],
-    "similarity": 0.9655172413793104,
-    "entry_count": 3
-  },
-  {
-    "normalized": "xifludyipsiri/xifludyipsire",
-    "headwords": [
-      "xifludhyipsiri/xifludhyipsire",
-      "xifludyipsiri/xifludyipsire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xifludyipsit",
-    "headwords": [
-      "xifludhyipsit",
-      "xifludyipsit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xifludyisescu",
-    "headwords": [
-      "xifludhyisescu",
-      "xifludyisescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xifludyisiri/xifludyisire",
-    "headwords": [
-      "xifludhyisiri/xifludhyisire",
-      "xifludyisiri/xifludyisire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xifludyisit",
-    "headwords": [
-      "xifludhyisit",
-      "xifludyisit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xudipsescu",
-    "headwords": [
-      "xudhipsescu",
-      "xudipsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 3
-  },
-  {
-    "normalized": "xudipsiri/xudipsire",
-    "headwords": [
-      "xudhipsiri/xudhipsire",
-      "xudipsiri/xudipsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xudipsit",
-    "headwords": [
-      "xudhipsit",
-      "xudipsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xudyipsescu",
-    "headwords": [
-      "xudhyipsescu",
-      "xudyipsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xudyipsiri/xudyipsire",
-    "headwords": [
-      "xudhyipsiri/xudhyipsire",
-      "xudyipsiri/xudyipsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xudyipsit",
-    "headwords": [
-      "xudhyipsit",
-      "xudyipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yeadam",
-    "headwords": [
-      "yeadam",
-      "yeadham"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "yeaglara",
     "headwords": [
       "yeaghlarã",
@@ -23925,15 +18117,6 @@
       "zarzarã"
     ],
     "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "zbardu",
-    "headwords": [
-      "zbardhu",
-      "zbardu"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 3
   },
   {
@@ -24214,16 +18397,6 @@
     ],
     "similarity": 0.8421052631578947,
     "entry_count": 2
-  },
-  {
-    "normalized": "zarcada",
-    "headwords": [
-      "zârcadhâ",
-      "zãrcadhã",
-      "zãrcadã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "zagar",
