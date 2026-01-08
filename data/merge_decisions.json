@@ -42,6 +42,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "aculuthii/aculuthie",
+      "variants": [
+        "aculuthii/aculuthie",
+        "aculutii/aculutie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "aculâ",
       "variants": [
         "aculâ",
@@ -1679,6 +1687,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "alathus",
+      "variants": [
+        "alathus",
+        "alatus"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "alavdâ",
       "variants": [
         "alavdâ",
@@ -1948,7 +1964,8 @@
       "canonical": "alâthipsescu",
       "variants": [
         "alâthipsescu",
-        "alãthipsescu"
+        "alãthipsescu",
+        "alãtipsescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -1965,6 +1982,22 @@
       "variants": [
         "alâxescu",
         "alãxescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "alãthipsiri/alãthipsire",
+      "variants": [
+        "alãthipsiri/alãthipsire",
+        "alãtipsiri/alãtipsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "alãthipsit",
+      "variants": [
+        "alãthipsit",
+        "alãtipsit"
       ],
       "reason": "diacritic_variant"
     },
@@ -2302,6 +2335,94 @@
       "variants": [
         "anasâ",
         "anasã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anatema",
+      "variants": [
+        "anatema",
+        "anathema"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anatemã",
+      "variants": [
+        "anatemã",
+        "anathemã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathim1",
+      "variants": [
+        "anathim1",
+        "anatim1"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathim2",
+      "variants": [
+        "anathim2",
+        "anatim2"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathima",
+      "variants": [
+        "anathima",
+        "anatima"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimari/anathimare",
+      "variants": [
+        "anathimari/anathimare",
+        "anatimari/anatimare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimat",
+      "variants": [
+        "anathimat",
+        "anatimat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimusescu",
+      "variants": [
+        "anathimusescu",
+        "anatimusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimusiri/anatimusire",
+      "variants": [
+        "anathimusiri/anatimusire",
+        "anatimusiri/anatimusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimusit",
+      "variants": [
+        "anathimusit",
+        "anatimusit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anathimã",
+      "variants": [
+        "anathimã",
+        "anatimã"
       ],
       "reason": "diacritic_variant"
     },
@@ -2726,6 +2847,30 @@
       "variants": [
         "anãpudhilji/anãpudhilje",
         "anãpudilji/anãpudilje"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anãthimari/anãthimare",
+      "variants": [
+        "anãthimari/anãthimare",
+        "anãtimari/anãtimare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anãthimat",
+      "variants": [
+        "anãthimat",
+        "anãtimat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "anãthimedz",
+      "variants": [
+        "anãthimedz",
+        "anãtimedz"
       ],
       "reason": "diacritic_variant"
     },
@@ -3306,6 +3451,14 @@
       "variants": [
         "Armãnilji/Armãnilje",
         "armãnilji/armãnilje"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "armãteauã",
+      "variants": [
+        "armãteauã",
+        "armãtheauã"
       ],
       "reason": "diacritic_variant"
     },
@@ -3908,6 +4061,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "arãmãteauã",
+      "variants": [
+        "arãmãteauã",
+        "arãmãtheauã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "ascâpirâturâ",
       "variants": [
         "ascâpirâturâ",
@@ -4156,10 +4317,27 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "atherâ",
+      "canonical": "atanat",
       "variants": [
+        "atanat",
+        "athanat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "aterã",
+      "variants": [
+        "aterã",
         "atherâ",
         "atherã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ateu",
+      "variants": [
+        "ateu",
+        "atheu"
       ],
       "reason": "diacritic_variant"
     },
@@ -4339,6 +4517,14 @@
       "variants": [
         "ayeadhimã",
         "ayeadimã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "Ayiu-Thriadha",
+      "variants": [
+        "Ayiu-Thriadha",
+        "Ayiu-Triada"
       ],
       "reason": "diacritic_variant"
     },
@@ -6125,10 +6311,59 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "cathedrâ",
+      "canonical": "catartic",
       "variants": [
+        "catartic",
+        "cathartic"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "catedrã",
+      "variants": [
+        "catedrã",
         "cathedrâ",
         "cathedrã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cathishun",
+      "variants": [
+        "cathishun",
+        "catishun"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cathiun",
+      "variants": [
+        "cathiun",
+        "catiun"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cathmeri/cathmere",
+      "variants": [
+        "cathmeri/cathmere",
+        "catmeri/catmere"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "catholichescu",
+      "variants": [
+        "catholichescu",
+        "catolichescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "catholichii/catholichie",
+      "variants": [
+        "catholichii/catholichie",
+        "catolichii/catolichie"
       ],
       "reason": "diacritic_variant"
     },
@@ -6137,6 +6372,14 @@
       "variants": [
         "cathâ",
         "cathã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "catorthosi",
+      "variants": [
+        "catorthosi",
+        "catortosi"
       ],
       "reason": "diacritic_variant"
     },
@@ -6345,6 +6588,14 @@
       "variants": [
         "chirãmidhã",
         "chirãmidã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "chitarã",
+      "variants": [
+        "chitarã",
+        "chitharã"
       ],
       "reason": "diacritic_variant"
     },
@@ -7154,7 +7405,16 @@
       "canonical": "cothrâ",
       "variants": [
         "cothrâ",
-        "cothrã"
+        "cothrã",
+        "cotrã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cothur",
+      "variants": [
+        "cothur",
+        "cotur"
       ],
       "reason": "diacritic_variant"
     },
@@ -7424,6 +7684,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "culimbithrã",
+      "variants": [
+        "culimbithrã",
+        "culimbitrã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "culindâ",
       "variants": [
         "culindâ",
@@ -7444,6 +7712,14 @@
       "variants": [
         "culoanâ",
         "culoanã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "culucthã",
+      "variants": [
+        "culucthã",
+        "culuctã"
       ],
       "reason": "diacritic_variant"
     },
@@ -7563,7 +7839,24 @@
       "canonical": "cumâthisescu",
       "variants": [
         "cumâthisescu",
-        "cumãthisescu"
+        "cumãthisescu",
+        "cumãtisescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cumãthisiri/cumãthisire",
+      "variants": [
+        "cumãthisiri/cumãthisire",
+        "cumãtisiri/cumãtisire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cumãthisit",
+      "variants": [
+        "cumãthisit",
+        "cumãtisit"
       ],
       "reason": "diacritic_variant"
     },
@@ -8089,7 +8382,8 @@
       "canonical": "câlathâ",
       "variants": [
         "câlathâ",
-        "cãlathã"
+        "cãlathã",
+        "cãlatã"
       ],
       "reason": "diacritic_variant"
     },
@@ -8194,7 +8488,8 @@
       "canonical": "câlâthicâ",
       "variants": [
         "câlâthicâ",
-        "cãlãthicã"
+        "cãlãthicã",
+        "cãlãticã"
       ],
       "reason": "diacritic_variant"
     },
@@ -8973,6 +9268,7 @@
       "canonical": "câthârâsescu",
       "variants": [
         "câthârâsescu",
+        "câtârâsescu",
         "cãthãrãsescu"
       ],
       "reason": "diacritic_variant"
@@ -9111,7 +9407,8 @@
       "canonical": "câturthusescu",
       "variants": [
         "câturthusescu",
-        "cãturthusescu"
+        "cãturthusescu",
+        "cãturtusescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -9291,6 +9588,14 @@
       "variants": [
         "cãlghãritsã2",
         "cãlgãritsã2"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãlighurthichi/cãlighurthiche",
+      "variants": [
+        "cãlighurthichi/cãlighurthiche",
+        "cãligurtichi/cãligurtiche"
       ],
       "reason": "diacritic_variant"
     },
@@ -9511,6 +9816,22 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "cãlãtar",
+      "variants": [
+        "cãlãtar",
+        "cãlãthar"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãlãthici/cãlãthice",
+      "variants": [
+        "cãlãthici/cãlãthice",
+        "cãlãtici/cãlãtice"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "cãperdhã",
       "variants": [
         "cãperdhã",
@@ -9607,6 +9928,38 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "cãthir",
+      "variants": [
+        "cãthir",
+        "cãtir"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãthãrisescu",
+      "variants": [
+        "cãthãrisescu",
+        "cãtãrisescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãthãrisiri/cãthãrisire",
+      "variants": [
+        "cãthãrisiri/cãthãrisire",
+        "cãtãrisiri/cãtãrisire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãthãrisit",
+      "variants": [
+        "cãthãrisit",
+        "cãtãrisit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "cãtighurii/cãtighurie",
       "variants": [
         "cãtighurii/cãtighurie",
@@ -9659,6 +10012,22 @@
       "variants": [
         "cãtighursit",
         "cãtigursit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãturthusiri/cãturthusire",
+      "variants": [
+        "cãturthusiri/cãturthusire",
+        "cãturtusiri/cãturtusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "cãturthusit",
+      "variants": [
+        "cãturthusit",
+        "cãturtusit"
       ],
       "reason": "diacritic_variant"
     },
@@ -10249,14 +10618,8 @@
       "canonical": "dhiathichi/dhiathiche",
       "variants": [
         "dhiathichi/dhiathiche",
-        "diathichi/diathiche"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "dhiatichi/dhiatiche",
-      "variants": [
         "dhiatichi/dhiatiche",
+        "diathichi/diathiche",
         "diatichi/diatiche"
       ],
       "reason": "diacritic_variant"
@@ -10441,14 +10804,8 @@
       "variants": [
         "dhihtâlithrâ",
         "dhihtãlithrã",
-        "dihtãlithrã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "dhihtãlitrã",
-      "variants": [
         "dhihtãlitrã",
+        "dihtãlithrã",
         "dihtãlitrã"
       ],
       "reason": "diacritic_variant"
@@ -11376,14 +11733,8 @@
       "canonical": "dhãhtilithrã",
       "variants": [
         "dhãhtilithrã",
-        "dãhtilithrã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "dhãhtilitrã",
-      "variants": [
         "dhãhtilitrã",
+        "dãhtilithrã",
         "dãhtilitrã"
       ],
       "reason": "diacritic_variant"
@@ -12573,6 +12924,62 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "ehthrevsescu",
+      "variants": [
+        "ehthrevsescu",
+        "ehtrevsescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ehthrevsiri/ehthrevsire",
+      "variants": [
+        "ehthrevsiri/ehthrevsire",
+        "ehtrevsiri/ehtrevsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ehthrevsit",
+      "variants": [
+        "ehthrevsit",
+        "ehtrevsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "elefterii/elefterie",
+      "variants": [
+        "elefterii/elefterie",
+        "eleftherii/eleftherie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "elefthirusescu",
+      "variants": [
+        "elefthirusescu",
+        "eleftirusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "elefthirusiri/elefthirusire",
+      "variants": [
+        "elefthirusiri/elefthirusire",
+        "eleftirusiri/eleftirusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "elefthirusit",
+      "variants": [
+        "elefthirusit",
+        "eleftirusit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "elpidhâ",
       "variants": [
         "elpidhâ",
@@ -13011,6 +13418,30 @@
         "filadhâ",
         "filadhã",
         "filadã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "filanthrop",
+      "variants": [
+        "filanthrop",
+        "filantrop"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "filanthrupii",
+      "variants": [
+        "filanthrupii",
+        "filantrupii"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "filanthrupilji/filanthrupilje",
+      "variants": [
+        "filanthrupilji/filanthrupilje",
+        "filantrupilji/filantrupilje"
       ],
       "reason": "diacritic_variant"
     },
@@ -13775,14 +14206,8 @@
       "canonical": "fuscâlithrâ",
       "variants": [
         "fuscâlithrâ",
-        "fuscãlithrã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "fuscâlitrâ",
-      "variants": [
         "fuscâlitrâ",
+        "fuscãlithrã",
         "fuscãlitrã"
       ],
       "reason": "diacritic_variant"
@@ -16147,6 +16572,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "ghãvathã",
+      "variants": [
+        "ghãvathã",
+        "gãvatã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "ghãvruriu",
       "variants": [
         "ghãvruriu",
@@ -18218,6 +18651,46 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "ilefthir",
+      "variants": [
+        "ilefthir",
+        "ileftir"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ilifthirii/ilifthirie",
+      "variants": [
+        "ilifthirii/ilifthirie",
+        "iliftirii/iliftirie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ilifthirusescu",
+      "variants": [
+        "ilifthirusescu",
+        "iliftirusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ilifthirusiri/ilifthirusire",
+      "variants": [
+        "ilifthirusiri/ilifthirusire",
+        "iliftirusiri/iliftirusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ilifthirusit",
+      "variants": [
+        "ilifthirusit",
+        "iliftirusit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "ilpidhã",
       "variants": [
         "ilpidhã",
@@ -18334,6 +18807,14 @@
       "variants": [
         "ipodhiastoli",
         "ipodiastoli"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "ipothisi/ipothise",
+      "variants": [
+        "ipothisi/ipothise",
+        "ipotisi/ipotise"
       ],
       "reason": "diacritic_variant"
     },
@@ -18603,6 +19084,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "kitarâ",
+      "variants": [
+        "kitarâ",
+        "kitharâ"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "lacrimâ",
       "variants": [
         "lacrimâ",
@@ -18731,6 +19220,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "lathus",
+      "variants": [
+        "lathus",
+        "latus"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "lavdâ",
       "variants": [
         "lavdâ",
@@ -18791,6 +19288,30 @@
       "variants": [
         "lefcâ",
         "lefcã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lefter",
+      "variants": [
+        "lefter",
+        "lefther"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lefterii/lefterie",
+      "variants": [
+        "lefterii/lefterie",
+        "leftherii/leftherie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lefthir",
+      "variants": [
+        "lefthir",
+        "leftir"
       ],
       "reason": "diacritic_variant"
     },
@@ -19315,6 +19836,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "loghothet",
+      "variants": [
+        "loghothet",
+        "logotet"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "lordhu",
       "variants": [
         "lordhu",
@@ -19323,10 +19852,19 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "lothru",
+      "variants": [
+        "lothru",
+        "lotru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "lothrâ",
       "variants": [
         "lothrâ",
-        "lothrã"
+        "lothrã",
+        "lotrã"
       ],
       "reason": "diacritic_variant"
     },
@@ -19611,6 +20149,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "lutseathrã",
+      "variants": [
+        "lutseathrã",
+        "lutseatrã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "luznâ",
       "variants": [
         "luznâ",
@@ -19874,7 +20420,8 @@
       "canonical": "lâthipsescu",
       "variants": [
         "lâthipsescu",
-        "lãthipsescu"
+        "lãthipsescu",
+        "lãtipsescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -19882,7 +20429,8 @@
       "canonical": "lâthâsescu",
       "variants": [
         "lâthâsescu",
-        "lãthãsescu"
+        "lãthãsescu",
+        "lãtãsescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -20144,6 +20692,38 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "lãthipsiri/lãthipsire",
+      "variants": [
+        "lãthipsiri/lãthipsire",
+        "lãtipsiri/lãtipsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lãthipsit",
+      "variants": [
+        "lãthipsit",
+        "lãtipsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lãthãsiri/lãthãsire",
+      "variants": [
+        "lãthãsiri/lãthãsire",
+        "lãtãsiri/lãtãsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "lãthãsit",
+      "variants": [
+        "lãthãsit",
+        "lãtãsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "machidhunish",
       "variants": [
         "machidhunish",
@@ -20280,6 +20860,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "malathru",
+      "variants": [
+        "malathru",
+        "malatru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "malinâ",
       "variants": [
         "malinâ",
@@ -20376,6 +20964,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "maranthu",
+      "variants": [
+        "maranthu",
+        "marantu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "mardzinã",
       "variants": [
         "mardzinã",
@@ -20449,6 +21045,22 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "mathimã",
+      "variants": [
+        "mathimã",
+        "matimã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "matithi",
+      "variants": [
+        "matithi",
+        "matiti"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "mberdhosescu",
       "variants": [
         "mberdhosescu",
@@ -20493,6 +21105,14 @@
       "variants": [
         "mbirdhuit",
         "mbirduit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "mbitar",
+      "variants": [
+        "mbitar",
+        "mbithar"
       ],
       "reason": "diacritic_variant"
     },
@@ -20837,7 +21457,8 @@
       "canonical": "mindzithrâ",
       "variants": [
         "mindzithrâ",
-        "mindzithrã"
+        "mindzithrã",
+        "mindzitrã"
       ],
       "reason": "diacritic_variant"
     },
@@ -21046,19 +21667,37 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "mithoadhâ",
+      "canonical": "mitcã1",
       "variants": [
-        "mithoadhâ",
-        "mithoadhã",
-        "mithoadã"
+        "mitcã1",
+        "mithcã1"
       ],
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "mitoadhã",
+      "canonical": "mitcã2",
       "variants": [
+        "mitcã2",
+        "mithcã2"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "mithoadhâ",
+      "variants": [
+        "mithoadhâ",
+        "mithoadhã",
+        "mithoadã",
         "mitoadhã",
         "mitoadã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "mithuluyii/mithuluyie",
+      "variants": [
+        "mithuluyii/mithuluyie",
+        "mituluyii/mituluyie"
       ],
       "reason": "diacritic_variant"
     },
@@ -22552,6 +23191,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "mãlathã",
+      "variants": [
+        "mãlathã",
+        "mãlatã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "mãlãgar",
       "variants": [
         "mãlãgar",
@@ -22676,6 +23323,62 @@
       "variants": [
         "nastânga",
         "nastãnga"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "natema",
+      "variants": [
+        "natema",
+        "nathema"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "natemã",
+      "variants": [
+        "natemã",
+        "nathemã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nathima",
+      "variants": [
+        "nathima",
+        "natima"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nathimari/nathimare",
+      "variants": [
+        "nathimari/nathimare",
+        "natimari/natimare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nathimat",
+      "variants": [
+        "nathimat",
+        "natimat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nathimedz",
+      "variants": [
+        "nathimedz",
+        "natimedz"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nathimã",
+      "variants": [
+        "nathimã",
+        "natimã"
       ],
       "reason": "diacritic_variant"
     },
@@ -23498,8 +24201,9 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "nitheamâ",
+      "canonical": "niteamã",
       "variants": [
+        "niteamã",
         "nitheamâ",
         "nitheamã"
       ],
@@ -23691,10 +24395,43 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "ntheamâ",
+      "canonical": "nteamã",
       "variants": [
+        "nteamã",
         "ntheamâ",
         "ntheamã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nthimelj",
+      "variants": [
+        "nthimelj",
+        "ntimelj"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nthimiljari/nthimiljare",
+      "variants": [
+        "nthimiljari/nthimiljare",
+        "ntimiljari/ntimiljare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nthimiljat",
+      "variants": [
+        "nthimiljat",
+        "ntimiljat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nthimiljedz",
+      "variants": [
+        "nthimiljedz",
+        "ntimiljedz"
       ],
       "reason": "diacritic_variant"
     },
@@ -23913,6 +24650,30 @@
       "variants": [
         "nustimeatsâ",
         "nustimeatsã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nuthii/nuthie",
+      "variants": [
+        "nuthii/nuthie",
+        "nutii/nutie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nuthios",
+      "variants": [
+        "nuthios",
+        "nutios"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nuthiosu",
+      "variants": [
+        "nuthiosu",
+        "nutiosu"
       ],
       "reason": "diacritic_variant"
     },
@@ -24297,6 +25058,7 @@
       "canonical": "nâtheamâ",
       "variants": [
         "nâtheamâ",
+        "nãteamã",
         "nãtheamã"
       ],
       "reason": "diacritic_variant"
@@ -24354,6 +25116,30 @@
       "variants": [
         "nãpudearic",
         "nãpudhearic"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nãthimari/nãthimare",
+      "variants": [
+        "nãthimari/nãthimare",
+        "nãtimari/nãtimare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nãthimat",
+      "variants": [
+        "nãthimat",
+        "nãtimat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "nãthimedz",
+      "variants": [
+        "nãthimedz",
+        "nãtimedz"
       ],
       "reason": "diacritic_variant"
     },
@@ -24513,13 +25299,7 @@
       "canonical": "orthodhoxu",
       "variants": [
         "orthodhoxu",
-        "orthodoxu"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "ortodhoxu",
-      "variants": [
+        "orthodoxu",
         "ortodhoxu",
         "ortodoxu"
       ],
@@ -24619,6 +25399,14 @@
         "panadhâ",
         "panadhã",
         "panadã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "Panayia-thriadha",
+      "variants": [
+        "Panayia-thriadha",
+        "Panayia-triada"
       ],
       "reason": "diacritic_variant"
     },
@@ -24868,7 +25656,16 @@
       "canonical": "pathimâ",
       "variants": [
         "pathimâ",
-        "pathimã"
+        "pathimã",
+        "patimã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pathus",
+      "variants": [
+        "pathus",
+        "patus"
       ],
       "reason": "diacritic_variant"
     },
@@ -25438,6 +26235,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "pirmit",
+      "variants": [
+        "pirmit",
+        "pirmith"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "pirpiritsâ",
       "variants": [
         "pirpiritsâ",
@@ -25643,6 +26448,14 @@
         "pitalurghã",
         "pitalurgã",
         "pitaluryâ"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pitari/pitare",
+      "variants": [
+        "pitari/pitare",
+        "pithari/pithare"
       ],
       "reason": "diacritic_variant"
     },
@@ -25947,10 +26760,26 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "plitari/plitare",
+      "variants": [
+        "plitari/plitare",
+        "plithari/plithare"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "plitencâ",
       "variants": [
         "plitencâ",
         "plitencã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "plithizmo",
+      "variants": [
+        "plithizmo",
+        "plitizmo"
       ],
       "reason": "diacritic_variant"
     },
@@ -26527,6 +27356,38 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "protesmii/protesmie",
+      "variants": [
+        "protesmii/protesmie",
+        "prothesmii/prothesmie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "prothim",
+      "variants": [
+        "prothim",
+        "protim"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "prothimii/prothimie",
+      "variants": [
+        "prothimii/prothimie",
+        "protimii/protimie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "prothmu",
+      "variants": [
+        "prothmu",
+        "protmu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "provâ",
       "variants": [
         "provâ",
@@ -26660,6 +27521,46 @@
         "prusupidhâ",
         "prusupidhã",
         "prusupidã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pruthimisescu",
+      "variants": [
+        "pruthimisescu",
+        "prutimisescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pruthimsescu",
+      "variants": [
+        "pruthimsescu",
+        "prutimsescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pruthimsiri/pruthimsire",
+      "variants": [
+        "pruthimsiri/pruthimsire",
+        "prutimsiri/prutimsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pruthimsit",
+      "variants": [
+        "pruthimsit",
+        "prutimsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pruthismii/pruthismie",
+      "variants": [
+        "pruthismii/pruthismie",
+        "prutismii/prutismie"
       ],
       "reason": "diacritic_variant"
     },
@@ -26808,10 +27709,19 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "psanthã",
+      "variants": [
+        "psanthã",
+        "psantã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "psathâ",
       "variants": [
         "psathâ",
-        "psathã"
+        "psathã",
+        "psatã"
       ],
       "reason": "diacritic_variant"
     },
@@ -26853,6 +27763,14 @@
       "variants": [
         "psumâ",
         "psumã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "psuthii/psuthie",
+      "variants": [
+        "psuthii/psuthie",
+        "psutii/psutie"
       ],
       "reason": "diacritic_variant"
     },
@@ -27875,6 +28793,7 @@
       "canonical": "pârâmith",
       "variants": [
         "pârâmith",
+        "pãrãmit",
         "pãrãmith"
       ],
       "reason": "diacritic_variant"
@@ -28232,6 +29151,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "pãlãthiri/pãlãthire",
+      "variants": [
+        "pãlãthiri/pãlãthire",
+        "pãlãtiri/pãlãtire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "pãparã",
       "variants": [
         "pãparã",
@@ -28313,6 +29240,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "pãrmit",
+      "variants": [
+        "pãrmit",
+        "pãrmith"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "pãrpodhi/pãrpodhe",
       "variants": [
         "pãrpodhi/pãrpodhe",
@@ -28325,6 +29260,14 @@
       "variants": [
         "pãrpodhã",
         "pãrpodã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pãrthiri/pãrthire",
+      "variants": [
+        "pãrthiri/pãrthire",
+        "pãrtiri/pãrtire"
       ],
       "reason": "diacritic_variant"
     },
@@ -28389,6 +29332,14 @@
       "variants": [
         "pãrãghursit",
         "pãrãgursit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "pãrãthiri/pãrãthire",
+      "variants": [
+        "pãrãthiri/pãrãthire",
+        "pãrãtiri/pãrãtire"
       ],
       "reason": "diacritic_variant"
     },
@@ -29206,7 +30157,8 @@
       "canonical": "scândzâlithrâ",
       "variants": [
         "scândzâlithrâ",
-        "scãndzãlithrã"
+        "scãndzãlithrã",
+        "scãndzãlitrã"
       ],
       "reason": "diacritic_variant"
     },
@@ -29214,7 +30166,8 @@
       "canonical": "scândâlithrâ",
       "variants": [
         "scândâlithrâ",
-        "scãndãlithrã"
+        "scãndãlithrã",
+        "scãndãlitrã"
       ],
       "reason": "diacritic_variant"
     },
@@ -29527,6 +30480,14 @@
       "variants": [
         "shcljenzâ",
         "shcljenzã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "shcljithru",
+      "variants": [
+        "shcljithru",
+        "shcljitru"
       ],
       "reason": "diacritic_variant"
     },
@@ -30068,6 +31029,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "simathiti",
+      "variants": [
+        "simathiti",
+        "simatiti"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "simbâtsescu",
       "variants": [
         "simbâtsescu",
@@ -30196,6 +31165,22 @@
       "variants": [
         "sinidhisi/sinidhise",
         "sinidisi/sinidise"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "sinithii/sinithie",
+      "variants": [
+        "sinithii/sinithie",
+        "sinitii/sinitie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "sinithisi/sinithise",
+      "variants": [
+        "sinithisi/sinithise",
+        "sinitisi/sinitise"
       ],
       "reason": "diacritic_variant"
     },
@@ -30475,6 +31460,22 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "spathi",
+      "variants": [
+        "spathi",
+        "spati"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "spathii/spathie",
+      "variants": [
+        "spathii/spathie",
+        "spatii/spatie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "spendzâ",
       "variants": [
         "spendzâ",
@@ -30535,6 +31536,30 @@
       "variants": [
         "spinshoarâ",
         "spinshoarã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "spithã1",
+      "variants": [
+        "spithã1",
+        "spitã1"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "spithã2",
+      "variants": [
+        "spithã2",
+        "spitã2"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "spithã3",
+      "variants": [
+        "spithã3",
+        "spitã3"
       ],
       "reason": "diacritic_variant"
     },
@@ -30660,6 +31685,14 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "spãtat",
+      "variants": [
+        "spãtat",
+        "spãthat"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "staflâ",
       "variants": [
         "staflâ",
@@ -30688,6 +31721,14 @@
       "variants": [
         "staterâ",
         "staterã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "stathmo",
+      "variants": [
+        "stathmo",
+        "statmo"
       ],
       "reason": "diacritic_variant"
     },
@@ -32157,6 +33198,15 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "tamã",
+      "variants": [
+        "tamã",
+        "thamâ",
+        "thamã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "tanirâ",
       "variants": [
         "tanirâ",
@@ -32237,6 +33287,32 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "tavmaturgo",
+      "variants": [
+        "tavmaturgo",
+        "thavmaturgho",
+        "thavmaturyo"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "tavmaturgou",
+      "variants": [
+        "tavmaturgou",
+        "thavmaturgou"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "tavmã",
+      "variants": [
+        "tavmã",
+        "thavmâ",
+        "thavmã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "tavâ",
       "variants": [
         "tavâ",
@@ -32269,6 +33345,30 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "teamã",
+      "variants": [
+        "teamã",
+        "theamã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "teatrin",
+      "variants": [
+        "teatrin",
+        "theatrin"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "teatru",
+      "variants": [
+        "teatru",
+        "theatru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "tecâ",
       "variants": [
         "tecâ",
@@ -32277,10 +33377,28 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "telimã",
+      "variants": [
+        "telimã",
+        "thelimâ",
+        "thelimã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "temblâ",
       "variants": [
         "temblâ",
         "temblã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "temã",
+      "variants": [
+        "temã",
+        "themâ",
+        "themã"
       ],
       "reason": "diacritic_variant"
     },
@@ -32309,10 +33427,50 @@
       "reason": "diacritic_variant"
     },
     {
+      "canonical": "teolog",
+      "variants": [
+        "teolog",
+        "theologh"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "teoloyii/teoloyie",
+      "variants": [
+        "teoloyii/teoloyie",
+        "theoloyii/theoloyie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "teorii/teorie",
+      "variants": [
+        "teorii/teorie",
+        "theorii/theorie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
       "canonical": "tepcâ",
       "variants": [
         "tepcâ",
         "tepcã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "termometru",
+      "variants": [
+        "termometru",
+        "thermometru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "tesi/tese",
+      "variants": [
+        "tesi/tese",
+        "thesi/these"
       ],
       "reason": "diacritic_variant"
     },
@@ -32349,42 +33507,26 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "thamâ",
+      "canonical": "thilichi/thiliche",
       "variants": [
-        "thamâ",
-        "thamã"
+        "thilichi/thiliche",
+        "tilichi/tiliche"
       ],
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "thavmaturgho",
+      "canonical": "thiljauã",
       "variants": [
-        "thavmaturgho",
-        "thavmaturyo"
+        "thiljauã",
+        "tiljauã"
       ],
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "thavmâ",
+      "canonical": "thilundi",
       "variants": [
-        "thavmâ",
-        "thavmã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "thelimâ",
-      "variants": [
-        "thelimâ",
-        "thelimã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
-      "canonical": "themâ",
-      "variants": [
-        "themâ",
-        "themã"
+        "thilundi",
+        "tilundi"
       ],
       "reason": "diacritic_variant"
     },
@@ -32392,7 +33534,48 @@
       "canonical": "thimeamâ",
       "variants": [
         "thimeamâ",
-        "thimeamã"
+        "thimeamã",
+        "timeamã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimelj",
+      "variants": [
+        "thimelj",
+        "timelj"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimiljos",
+      "variants": [
+        "thimiljos",
+        "timiljos"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimiljusescu",
+      "variants": [
+        "thimiljusescu",
+        "timiljusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimiljusiri/thimiljusire",
+      "variants": [
+        "thimiljusiri/thimiljusire",
+        "timiljusiri/timiljusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimiljusit",
+      "variants": [
+        "thimiljusit",
+        "timiljusit"
       ],
       "reason": "diacritic_variant"
     },
@@ -32400,7 +33583,288 @@
       "canonical": "thimiridâ",
       "variants": [
         "thimiridâ",
-        "thimiridã"
+        "thimiridã",
+        "timiridã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimisescu",
+      "variants": [
+        "thimisescu",
+        "timisescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimisiri/thimisire",
+      "variants": [
+        "thimisiri/thimisire",
+        "timisiri/timisire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimisit",
+      "variants": [
+        "thimisit",
+        "timisit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimizicã",
+      "variants": [
+        "thimizicã",
+        "timizicã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjamã",
+      "variants": [
+        "thimnjamã",
+        "timnjamã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjato",
+      "variants": [
+        "thimnjato",
+        "timnjato"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjator",
+      "variants": [
+        "thimnjator",
+        "timnjator"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjito",
+      "variants": [
+        "thimnjito",
+        "timnjito"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjitsescu",
+      "variants": [
+        "thimnjitsescu",
+        "timnjitsescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjitsiri/thimnjitsire",
+      "variants": [
+        "thimnjitsiri/thimnjitsire",
+        "timnjitsiri/timnjitsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimnjitsit",
+      "variants": [
+        "thimnjitsit",
+        "timnjitsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimo",
+      "variants": [
+        "thimo",
+        "timo"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimsescu",
+      "variants": [
+        "thimsescu",
+        "timsescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimsiri/thimsire",
+      "variants": [
+        "thimsiri/thimsire",
+        "timsiri/timsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimsit",
+      "variants": [
+        "thimsit",
+        "timsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimusescu",
+      "variants": [
+        "thimusescu",
+        "timusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimusiri/thimusire",
+      "variants": [
+        "thimusiri/thimusire",
+        "timusiri/timusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimusit",
+      "variants": [
+        "thimusit",
+        "timusit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thimãzicã",
+      "variants": [
+        "thimãzicã",
+        "timãzicã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thirichi",
+      "variants": [
+        "thirichi",
+        "tirichi"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "Thiristi",
+      "variants": [
+        "Thiristi",
+        "Tiristi"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thiriu",
+      "variants": [
+        "thiriu",
+        "tiriu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thirmani/thirmane",
+      "variants": [
+        "thirmani/thirmane",
+        "tirmani/tirmane"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thirmometru",
+      "variants": [
+        "thirmometru",
+        "tirmometru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thirmumetru",
+      "variants": [
+        "thirmumetru",
+        "tirmumetru"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thisavro",
+      "variants": [
+        "thisavro",
+        "tisavro"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thiulogh",
+      "variants": [
+        "thiulogh",
+        "tiulog"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thiuluyii/thiuluyie",
+      "variants": [
+        "thiuluyii/thiuluyie",
+        "tiuluyii/tiuluyie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thiurii/thiurie",
+      "variants": [
+        "thiurii/thiurie",
+        "tiurii/tiurie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thlichi/thliche",
+      "variants": [
+        "thlichi/thliche",
+        "tlichi/tliche"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thol",
+      "variants": [
+        "thol",
+        "tol"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thrapsu",
+      "variants": [
+        "thrapsu",
+        "trapsu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thrischii/thrischie",
+      "variants": [
+        "thrischii/thrischie",
+        "trischii/trischie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thriscu",
+      "variants": [
+        "thriscu",
+        "triscu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thron",
+      "variants": [
+        "thron",
+        "tron"
       ],
       "reason": "diacritic_variant"
     },
@@ -32408,7 +33872,9 @@
       "canonical": "thâlândzâ",
       "variants": [
         "thâlândzâ",
-        "thãlãndzã"
+        "thãlãndzã",
+        "tâlăndzâ",
+        "tãlãndzã"
       ],
       "reason": "diacritic_variant"
     },
@@ -32416,7 +33882,8 @@
       "canonical": "thâmâsescu",
       "variants": [
         "thâmâsescu",
-        "thãmãsescu"
+        "thãmãsescu",
+        "tãmãsescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -32424,7 +33891,8 @@
       "canonical": "thârâsescu",
       "variants": [
         "thârâsescu",
-        "thãrãsescu"
+        "thãrãsescu",
+        "tãrãsescu"
       ],
       "reason": "diacritic_variant"
     },
@@ -32432,7 +33900,96 @@
       "canonical": "thâvmusescu",
       "variants": [
         "thâvmusescu",
-        "thãvmusescu"
+        "thãvmusescu",
+        "tãvmusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãmãsiri/thãmãsire",
+      "variants": [
+        "thãmãsiri/thãmãsire",
+        "tãmãsiri/tãmãsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãmãsit",
+      "variants": [
+        "thãmãsit",
+        "tãmãsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãmãturyii/thãmãturyie",
+      "variants": [
+        "thãmãturyii/thãmãturyie",
+        "tãmãturyii/tãmãturyie"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrusescu",
+      "variants": [
+        "thãrusescu",
+        "tãrusescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrusiri/thãrusire",
+      "variants": [
+        "thãrusiri/thãrusire",
+        "tãrusiri/tãrusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrusit",
+      "variants": [
+        "thãrusit",
+        "tãrusit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrãpelj",
+      "variants": [
+        "thãrãpelj",
+        "tãrãpelj"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrãsiri/thãrãsire",
+      "variants": [
+        "thãrãsiri/thãrãsire",
+        "tãrãsiri/tãrãsire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãrãsit",
+      "variants": [
+        "thãrãsit",
+        "tãrãsit"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãvmusiri/thãvmusire",
+      "variants": [
+        "thãvmusiri/thãvmusire",
+        "tãvmusiri/tãvmusire"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "thãvmusit",
+      "variants": [
+        "thãvmusit",
+        "tãvmusit"
       ],
       "reason": "diacritic_variant"
     },
@@ -33881,14 +35438,6 @@
       "reason": "diacritic_variant"
     },
     {
-      "canonical": "tâlăndzâ",
-      "variants": [
-        "tâlăndzâ",
-        "tãlãndzã"
-      ],
-      "reason": "diacritic_variant"
-    },
-    {
       "canonical": "tâmbână",
       "variants": [
         "tâmbână",
@@ -34437,7 +35986,8 @@
       "canonical": "uothurâ",
       "variants": [
         "uothurâ",
-        "uothurã"
+        "uothurã",
+        "uoturã"
       ],
       "reason": "diacritic_variant"
     },
@@ -34583,6 +36133,14 @@
       "variants": [
         "ursâ",
         "ursã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "urtanictu",
+      "variants": [
+        "urtanictu",
+        "urthanictu"
       ],
       "reason": "diacritic_variant"
     },
@@ -34945,7 +36503,8 @@
       "canonical": "vilunithrâ",
       "variants": [
         "vilunithrâ",
-        "vilunithrã"
+        "vilunithrã",
+        "vilunitrã"
       ],
       "reason": "diacritic_variant"
     },
@@ -35199,6 +36758,22 @@
       "variants": [
         "vitsârescu",
         "vitsãrescu"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "vivliutecã",
+      "variants": [
+        "vivliutecã",
+        "vivliuthecã"
+      ],
+      "reason": "diacritic_variant"
+    },
+    {
+      "canonical": "vivliuthichi/vivliutiche",
+      "variants": [
+        "vivliuthichi/vivliutiche",
+        "vivliutichi/vivliutiche"
       ],
       "reason": "diacritic_variant"
     },

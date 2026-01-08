@@ -61,6 +61,7 @@ class MergeApplier:
         w = w.replace('ă', 'â')
         w = w.replace('dh', 'd')
         w = w.replace('gh', 'g')
+        w = w.replace('th', 't')
         w = w.replace('y', 'g')
         return w
 
