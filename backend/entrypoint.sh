@@ -15,12 +15,12 @@ ENTRY_COUNT=$(echo "$ENTRY_COUNT" | tr -d '[:space:]')
 if [ "$ENTRY_COUNT" = "0" ] || [ -z "$ENTRY_COUNT" ]; then
   echo "Database is empty, checking for data file..."
 
-  if [ -f "/data/dictionary.jsonl" ]; then
-    echo "Found dictionary.jsonl, importing data..."
-    /app/import /data/dictionary.jsonl
+  if [ -f "/data/aromanian_dictionary.jsonl" ]; then
+    echo "Found aromanian_dictionary.jsonl, importing data..."
+    /app/import /data/aromanian_dictionary.jsonl
     echo "Import complete!"
   else
-    echo "No data file found at /data/dictionary.jsonl, skipping import."
+    echo "No data file found at /data/aromanian_dictionary.jsonl, skipping import."
   fi
 else
   echo "Database already has $ENTRY_COUNT entries, skipping import."
