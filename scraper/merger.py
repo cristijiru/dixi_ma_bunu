@@ -44,10 +44,11 @@ class DictionaryMerger:
         print(f"Loaded {len(self.entries)} entries")
 
     def normalize_diacritics(self, word: str) -> str:
-        """Normalize only safe diacritical variants (â/ã)."""
+        """Normalize safe diacritical variants (â/ã/ă)."""
         w = word.lower()
         # These are equivalent in Aromanian orthography
-        w = w.replace('ã', 'â')  # Normalize to â
+        w = w.replace('ã', 'â')  # Normalize ã -> â
+        w = w.replace('ă', 'â')  # Normalize ă -> â
         return w
 
     def normalize_full(self, word: str) -> str:
