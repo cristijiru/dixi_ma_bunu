@@ -148,268 +148,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "afingi/afinge",
-    "headwords": [
-      "afinghi/afinghe",
-      "afingi/afinge"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agalea",
-    "headwords": [
-      "agalea",
-      "aghalea"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "agali/agale",
-    "headwords": [
-      "agali/agale",
-      "aghali/aghale"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agalits",
-    "headwords": [
-      "agalits",
-      "aghalits"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agalitsa",
-    "headwords": [
-      "agalitsa",
-      "aghalitsa"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agalma",
-    "headwords": [
-      "agalmâ",
-      "agalmã",
-      "aghalmã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "agalnic",
-    "headwords": [
-      "agalnic",
-      "aghalnic"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agamii/agamie",
-    "headwords": [
-      "agamii/agamie",
-      "aghamii/aghamie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapi/agape",
-    "headwords": [
-      "agapi/agape",
-      "aghapi/aghape"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aglistur",
-    "headwords": [
-      "aghlistur",
-      "aglistur"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aglisturari/aglisturare",
-    "headwords": [
-      "aghlisturari/aglisturare",
-      "aglisturari/aglisturare"
-    ],
-    "similarity": 0.9787234042553191,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aglisturat",
-    "headwords": [
-      "aghlisturat",
-      "aglisturat"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnangea",
-    "headwords": [
-      "aghnanghea",
-      "agnanghea"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnangiu",
-    "headwords": [
-      "aghnanghiu",
-      "agnanghiu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnos",
-    "headwords": [
-      "aghnos",
-      "agnos"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusari/agnusare",
-    "headwords": [
-      "aghnusari/aghnusare",
-      "agnusari/agnusare"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusat",
-    "headwords": [
-      "aghnusat",
-      "agnusat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusez",
-    "headwords": [
-      "aghnusedz",
-      "agnusedz"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusescu",
-    "headwords": [
-      "aghnusescu",
-      "agnusescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusiri/agnusire",
-    "headwords": [
-      "aghnusiri/aghnusire",
-      "agnusiri/agnusire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusit",
-    "headwords": [
-      "aghnusit",
-      "agnusit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnusos",
-    "headwords": [
-      "aghnusos",
-      "agnusos"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnandipsescu",
-    "headwords": [
-      "aghnãndipsescu",
-      "agnãndipsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnandipsiri/agnandipsire",
-    "headwords": [
-      "aghnãndipsiri/aghnãndipsire",
-      "agnãndipsiri/agnãndipsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnandipsit",
-    "headwords": [
-      "aghnãndipsit",
-      "agnãndipsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnangipsescu",
-    "headwords": [
-      "aghnãnghipsescu",
-      "agnãnghipsescu"
-    ],
-    "similarity": 0.9655172413793104,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnangipsiri/agnangipsire",
-    "headwords": [
-      "aghnãnghipsiri/aghnãnghipsire",
-      "agnãnghipsiri/agnãnghipsire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agnangipsit",
-    "headwords": [
-      "aghnãnghipsit",
-      "agnãnghipsit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agoana",
-    "headwords": [
-      "aghoanã",
-      "agoanã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "agona",
     "headwords": [
       "aghonja",
@@ -419,668 +157,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "agoyi/agoye",
-    "headwords": [
-      "aghoyi/aghoye",
-      "agoyi/agoye"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agramat",
-    "headwords": [
-      "aghramat",
-      "agramat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agranzalaua",
-    "headwords": [
-      "aghrandzaljauã",
-      "agrandzaljauã"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agranzala",
-    "headwords": [
-      "aghrandzalã",
-      "agrandzalã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrari/agrare",
-    "headwords": [
-      "aghrari/aghrare",
-      "agrari/agrare"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrat",
-    "headwords": [
-      "aghrat",
-      "agrat"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agreada",
-    "headwords": [
-      "aghreadhã",
-      "aghreadã",
-      "agreadhã",
-      "agreadã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "agrez",
-    "headwords": [
-      "aghredz",
-      "agredz"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrimi/agrime",
-    "headwords": [
-      "aghrimi/aghrime",
-      "agrimi/agrime"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agripnii/agripnie",
-    "headwords": [
-      "aghripnii/aghripnie",
-      "agripnii/agripnie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agripsescu",
-    "headwords": [
-      "aghripsescu",
-      "agripsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agripsiri/agripsire",
-    "headwords": [
-      "aghripsiri/aghripsire",
-      "agripsiri/agripsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agripsit",
-    "headwords": [
-      "aghripsit",
-      "agripsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrombal1",
-    "headwords": [
-      "aghrombal1",
-      "agrombal1"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrombal2",
-    "headwords": [
-      "aghrombal2",
-      "agrombal2"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agromin1",
-    "headwords": [
-      "aghromin1",
-      "agromin1"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agromin2",
-    "headwords": [
-      "aghromin2",
-      "agromin2"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agru1",
-    "headwords": [
-      "aghru1",
-      "agru1"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agru2",
-    "headwords": [
-      "aghru2",
-      "agru2"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrubiba",
-    "headwords": [
-      "aghrubibã",
-      "agrubibã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrucapra",
-    "headwords": [
-      "aghrucaprã",
-      "agrucaprã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrucucot",
-    "headwords": [
-      "aghrucucot",
-      "agrucucot"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrucumban",
-    "headwords": [
-      "aghrucumban",
-      "agrucumban"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrucastan",
-    "headwords": [
-      "aghrucãstãnj",
-      "agrucãstãnj"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrugortsu1",
-    "headwords": [
-      "aghrugortsu1",
-      "agrugortsu1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrugortsu2",
-    "headwords": [
-      "aghrugortsu2",
-      "agrugortsu2"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrulaua",
-    "headwords": [
-      "aghruljauã",
-      "agruljauã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrumer1",
-    "headwords": [
-      "aghrumer1",
-      "agrumer1"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrumer2",
-    "headwords": [
-      "aghrumer2",
-      "agrumer2"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrumutrescu",
-    "headwords": [
-      "aghrumutrescu",
-      "agrumutrescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrumutriri/agrumutrire",
-    "headwords": [
-      "aghrumutriri/aghrumutrire",
-      "agrumutriri/agrumutrire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrumutrit",
-    "headwords": [
-      "aghrumutrit",
-      "agrumutrit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agruom",
-    "headwords": [
-      "aghruom",
-      "agruom"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agruprun",
-    "headwords": [
-      "aghruprun",
-      "agruprun"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrupruna",
-    "headwords": [
-      "aghruprunã",
-      "agruprunã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrupurnu",
-    "headwords": [
-      "aghrupurnu",
-      "agrupurnu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrupurna",
-    "headwords": [
-      "aghrupurnã",
-      "agrupurnã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrutrandafil",
-    "headwords": [
-      "aghrutrandafil",
-      "agrutrandafil"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrutrandafilaua",
-    "headwords": [
-      "aghrutrandafiljauã",
-      "agrutrandafiljauã"
-    ],
-    "similarity": 0.9714285714285714,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrutrandafileu",
-    "headwords": [
-      "aghrutrandafiljeu",
-      "agrutrandafiljeu"
-    ],
-    "similarity": 0.9696969696969697,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrapnii/agrapnie",
-    "headwords": [
-      "aghrãpnii/aghrãpnie",
-      "agrãpnii/agrãpnie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrapsescu",
-    "headwords": [
-      "aghrãpsescu",
-      "agrãpsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrapsiri/agrapsire",
-    "headwords": [
-      "aghrãpsiri/aghrãpsire",
-      "agrãpsiri/agrãpsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agrapsit",
-    "headwords": [
-      "aghrãpsit",
-      "agrãpsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agraxescu",
-    "headwords": [
-      "aghrãxescu",
-      "agrãxescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agraxiri/agraxire",
-    "headwords": [
-      "aghrãxiri/aghrãxire",
-      "agrãxiri/agrãxire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agraxit",
-    "headwords": [
-      "aghrãxit",
-      "agrãxit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunescu",
-    "headwords": [
-      "aghunescu",
-      "agunescu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "aguniri/agunire",
-    "headwords": [
-      "aghuniri/aghunire",
-      "aguniri/agunire"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunit",
-    "headwords": [
-      "aghunit",
-      "agunit"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunita",
-    "headwords": [
-      "aghunitã",
-      "agunitã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunisescu",
-    "headwords": [
-      "aghunjisescu",
-      "agunjisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunisiri/agunisire",
-    "headwords": [
-      "aghunjisiri/aghunjisire",
-      "agunjisiri/agunjisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunisit",
-    "headwords": [
-      "aghunjisit",
-      "agunjisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunos",
-    "headwords": [
-      "aghunos",
-      "agunos"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunsescu",
-    "headwords": [
-      "aghunsescu",
-      "agunsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunsiri/agunsire",
-    "headwords": [
-      "aghunsiri/aghunsire",
-      "agunsiri/agunsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agunsit",
-    "headwords": [
-      "aghunsit",
-      "agunsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agurida",
-    "headwords": [
-      "aghuridã",
-      "aguridã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agurliu",
-    "headwords": [
-      "aghurliu",
-      "agurliu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "agustu",
-    "headwords": [
-      "Aghustu",
-      "Agustu",
-      "agustu"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "aguyeat",
-    "headwords": [
-      "aghuyeat",
-      "aguyeat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyii/aguyie",
-    "headwords": [
-      "aghuyii/aghuyie",
-      "aguyii/aguyie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyipsescu",
-    "headwords": [
-      "aghuyipsescu",
-      "aguyipsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyipsiri/aguyipsire",
-    "headwords": [
-      "aghuyipsiri/aghuyipsire",
-      "aguyipsiri/aguyipsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyipsit",
-    "headwords": [
-      "aghuyipsit",
-      "aguyipsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyisescu",
-    "headwords": [
-      "aghuyisescu",
-      "aguyisescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyisiri/aguyisire",
-    "headwords": [
-      "aghuyisiri/aghuyisire",
-      "aguyisiri/aguyisire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aguyisit",
-    "headwords": [
-      "aghuyisit",
-      "aguyisit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "aga",
-    "headwords": [
-      "aghã",
-      "agâ",
-      "agã",
-      "agă"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "agakipsescu",
-    "headwords": [
-      "aghãchipsescu",
-      "agãchipsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agakipsiri/agakipsire",
-    "headwords": [
-      "aghãchipsiri/aghãchipsire",
-      "agãchipsiri/agãchipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agakipsit",
-    "headwords": [
-      "aghãchipsit",
-      "agãchipsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
   },
   {
     "normalized": "agalisescu",
@@ -1116,88 +192,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "aganos",
-    "headwords": [
-      "aghãnos",
-      "agãnos"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapisescu",
-    "headwords": [
-      "aghãpisescu",
-      "agãpisescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapisiri/agapisire",
-    "headwords": [
-      "aghãpisiri/aghãpisire",
-      "agãpisiri/agãpisire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapisit",
-    "headwords": [
-      "aghãpisit",
-      "agãpisit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapitcoani/agapitcoane",
-    "headwords": [
-      "aghãpitcoanji/aghãpitcoanje",
-      "agãpitcoanji/agãpitcoanje"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapsescu",
-    "headwords": [
-      "aghãpsescu",
-      "agãpsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapsiri/agapsire",
-    "headwords": [
-      "aghãpsiri/aghãpsire",
-      "agãpsiri/agãpsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agapsit",
-    "headwords": [
-      "aghãpsit",
-      "agãpsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "agareaua",
-    "headwords": [
-      "aghãreauã",
-      "agâreauâ",
-      "agãreauã"
-    ],
-    "similarity": null,
-    "entry_count": 3
   },
   {
     "normalized": "aha",
@@ -1533,42 +527,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "amigdal",
-    "headwords": [
-      "amigdal",
-      "amighdal"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "amigdalat",
-    "headwords": [
-      "amigdalat",
-      "amighdalat"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "amigdala",
-    "headwords": [
-      "amigdalã",
-      "amighdalã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "amigdalaua",
-    "headwords": [
-      "amigdãljauã",
-      "amighdãljauã"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
     "normalized": "ampaturari/ampaturare",
     "headwords": [
       "ampãturari/ampãturare",
@@ -1678,15 +636,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "anagnosti",
-    "headwords": [
-      "anaghnosti",
-      "anagnosti"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
     "normalized": "anahimari/anahimare",
     "headwords": [
       "anahimari/anahimare",
@@ -1739,15 +688,6 @@
     ],
     "similarity": 0.8571428571428571,
     "entry_count": 3
-  },
-  {
-    "normalized": "analug",
-    "headwords": [
-      "analug",
-      "analugh"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
   },
   {
     "normalized": "anamirsescu",
@@ -1804,24 +744,6 @@
     ],
     "similarity": 0.8181818181818182,
     "entry_count": 2
-  },
-  {
-    "normalized": "anarga",
-    "headwords": [
-      "anarga",
-      "anargha"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "anargalui",
-    "headwords": [
-      "anargalui",
-      "anarghalui"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
   },
   {
     "normalized": "anaskila",
@@ -3511,15 +2433,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "argat",
-    "headwords": [
-      "argat",
-      "arghat"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "argavan",
     "headwords": [
       "argavan",
@@ -3527,124 +2440,6 @@
     ],
     "similarity": 0.8571428571428571,
     "entry_count": 3
-  },
-  {
-    "normalized": "argeandu",
-    "headwords": [
-      "argeandu",
-      "argheandu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argeanda",
-    "headwords": [
-      "argeandâ",
-      "argheandâ",
-      "argheandã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "argo",
-    "headwords": [
-      "argho",
-      "argo"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 3
-  },
-  {
-    "normalized": "argos",
-    "headwords": [
-      "arghos",
-      "argos"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argasescu",
-    "headwords": [
-      "arghãsescu",
-      "argãsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argasiri/argasire",
-    "headwords": [
-      "arghãsiri/arghãsire",
-      "argãsiri/argãsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argasit",
-    "headwords": [
-      "arghãsit",
-      "argãsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argastir",
-    "headwords": [
-      "arghãstir",
-      "argãstir"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argastiryear",
-    "headwords": [
-      "arghãstiryear",
-      "argãstiryear"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "argatsali/argatsale",
-    "headwords": [
-      "arghãtsãlji/arghãtsãlje",
-      "argãtsãlji/argãtsãlje"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arhistratigo",
-    "headwords": [
-      "arhistratigho",
-      "arhistratigo"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arhiulog",
-    "headwords": [
-      "arhiulog",
-      "arhiulogh"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arigan",
-    "headwords": [
-      "arigan",
-      "arighan"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
   },
   {
     "normalized": "arinisescu",
@@ -3690,24 +2485,6 @@
       "armãtheauã"
     ],
     "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arpag",
-    "headwords": [
-      "arpag",
-      "arpagh"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "arugani/arugane",
-    "headwords": [
-      "arugani/arugane",
-      "arughani/arughane"
-    ],
-    "similarity": 0.9375,
     "entry_count": 2
   },
   {
@@ -3790,51 +2567,6 @@
       "ashã"
     ],
     "similarity": 0.75,
-    "entry_count": 2
-  },
-  {
-    "normalized": "asiguriftu",
-    "headwords": [
-      "asighuriftu",
-      "asiguriftu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "asiguripsescu",
-    "headwords": [
-      "asighuripsescu",
-      "asiguripsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 3
-  },
-  {
-    "normalized": "asiguripsiri/asiguripsire",
-    "headwords": [
-      "asighuripsiri/asighuripsire",
-      "asiguripsiri/asiguripsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "asiguripsit",
-    "headwords": [
-      "asighuripsit",
-      "asiguripsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "asigurliki/asigurlike",
-    "headwords": [
-      "asighurlichi/asighurliche",
-      "asigurlichi/asigurliche"
-    ],
-    "similarity": 0.9583333333333334,
     "entry_count": 2
   },
   {
@@ -4014,15 +2746,6 @@
     "entry_count": 6
   },
   {
-    "normalized": "avgustu",
-    "headwords": [
-      "Avghustu",
-      "Avgustu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "avrapa",
     "headwords": [
       "avrapa",
@@ -4038,15 +2761,6 @@
       "avrãhnjisescu"
     ],
     "similarity": 0.88,
-    "entry_count": 2
-  },
-  {
-    "normalized": "axaguraua",
-    "headwords": [
-      "axaghurauã",
-      "axagurauã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -4239,52 +2953,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "brugaci/brugace",
-    "headwords": [
-      "brugaci/brugace",
-      "brughaci/brugace"
-    ],
-    "similarity": 0.967741935483871,
-    "entry_count": 2
-  },
-  {
-    "normalized": "brugacica",
-    "headwords": [
-      "brughãcicã",
-      "brugãcicã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bragacica",
-    "headwords": [
-      "brâgâcicâ",
-      "brãghãcicã",
-      "brãgãcicã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "bragaci/bragace",
-    "headwords": [
-      "brãgaci/brãgace",
-      "brãghaci/brãghace"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bubgala",
-    "headwords": [
-      "bubgalã",
-      "bubghalã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "bubukisescu",
     "headwords": [
       "bubuchisescu",
@@ -4292,60 +2960,6 @@
     ],
     "similarity": 0.8695652173913043,
     "entry_count": 3
-  },
-  {
-    "normalized": "bugaci/bugace",
-    "headwords": [
-      "bugaci/bugace",
-      "bughaci/bughace"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bugazi/bugaze",
-    "headwords": [
-      "bugazi/bugaze",
-      "bughazi/bughaze"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bugdan",
-    "headwords": [
-      "bugdan",
-      "bughdan"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "buggi",
-    "headwords": [
-      "buggi",
-      "bughgi"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "buguzii/buguzie",
-    "headwords": [
-      "bughuzii/bughuzie",
-      "buguzii/buguzie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "buga",
-    "headwords": [
-      "bughã",
-      "bugã"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
   },
   {
     "normalized": "buhasii/buhasie",
@@ -4384,24 +2998,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "burgaci/burgace",
-    "headwords": [
-      "burgaci/burgace",
-      "burghaci/burghace"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "burgacica",
-    "headwords": [
-      "burghãcicã",
-      "burgãcicã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "bustangi",
     "headwords": [
       "bustangi",
@@ -4411,39 +3007,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "buvgala",
-    "headwords": [
-      "buvgalã",
-      "buvghalã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "batahcilaki",
     "headwords": [
       "bâtâhcilâki",
       "bãtãhcilãchi"
     ],
     "similarity": 0.6086956521739131,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bargaci/bargace",
-    "headwords": [
-      "bãrgaci/bãrgace",
-      "bãrghaci/bãrghace"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "bargacica",
-    "headwords": [
-      "bãrghãcicã",
-      "bãrgãcicã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -4586,15 +3155,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "calagros",
-    "headwords": [
-      "calaghros",
-      "calagros"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "calar1",
     "headwords": [
       "calar1",
@@ -4677,24 +3237,6 @@
       "cãlici2"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caligraf",
-    "headwords": [
-      "calighraf",
-      "caligraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caligrafii/caligrafie",
-    "headwords": [
-      "calighrafii/calighrafie",
-      "caligrafii/caligrafie"
-    ],
-    "similarity": 0.9545454545454546,
     "entry_count": 2
   },
   {
@@ -4946,15 +3488,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "caragros",
-    "headwords": [
-      "caraghros",
-      "caragros"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "caraula",
     "headwords": [
       "caraulã",
@@ -4989,15 +3522,6 @@
       "cãrchin"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "carpulog",
-    "headwords": [
-      "carpulog",
-      "carpulogh"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -5075,15 +3599,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "catalog",
-    "headwords": [
-      "catalog",
-      "catalogh"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "catartic",
@@ -5273,15 +3788,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cealgagi",
-    "headwords": [
-      "cealgagi",
-      "cealghagi"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "cealma",
     "headwords": [
       "cealma",
@@ -5441,15 +3947,6 @@
       "kindurescu"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "kinigator",
-    "headwords": [
-      "chinighãtor",
-      "chinigãtor"
-    ],
-    "similarity": 0.9523809523809523,
     "entry_count": 2
   },
   {
@@ -5817,24 +4314,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "culaguz",
-    "headwords": [
-      "culaghuz",
-      "culaguz"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "culaguzlaki/culaguzlake",
-    "headwords": [
-      "culaghuzlãchi/culaghuzlãche",
-      "culaguzlãchi/culaguzlãche"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
     "normalized": "culimbitra",
     "headwords": [
       "culimbithrã",
@@ -5868,15 +4347,6 @@
       "culuctã"
     ],
     "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "culaguzliki/culaguzlike",
-    "headwords": [
-      "culãghuzlichi/culãghuzliche",
-      "culãguzlichi/culãguzliche"
-    ],
-    "similarity": 0.9615384615384616,
     "entry_count": 2
   },
   {
@@ -6087,40 +4557,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "cavgagi",
-    "headwords": [
-      "câvgâgi",
-      "cãvghãgi",
-      "cãvgãgi"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "cavrama",
     "headwords": [
       "câvramâ",
       "cãvrãmã"
     ],
     "similarity": 0.5714285714285714,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calgaritsa1",
-    "headwords": [
-      "cãlghãritsã1",
-      "cãlgãritsã1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calgaritsa2",
-    "headwords": [
-      "cãlghãritsã2",
-      "cãlgãritsã2"
-    ],
-    "similarity": 0.9565217391304348,
     "entry_count": 2
   },
   {
@@ -6157,222 +4599,6 @@
       "cãlush"
     ],
     "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugrescu1",
-    "headwords": [
-      "cãlughrescu1",
-      "cãlugrescu1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugrescu2",
-    "headwords": [
-      "cãlughrescu2",
-      "cãlugrescu2"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugriri/calugrire",
-    "headwords": [
-      "cãlughriri/cãlughrire",
-      "cãlugriri/cãlugrire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugrit",
-    "headwords": [
-      "cãlughrit",
-      "cãlugrit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugritsa1",
-    "headwords": [
-      "cãlughritsã1",
-      "cãlugritsã1"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugritsa2",
-    "headwords": [
-      "cãlughritsã2",
-      "cãlugritsã2"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugru",
-    "headwords": [
-      "cãlughru",
-      "cãlugru"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugur",
-    "headwords": [
-      "cãlughur",
-      "cãlugur"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugurescu",
-    "headwords": [
-      "cãlughurescu",
-      "cãlugurescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caluguriri/calugurire",
-    "headwords": [
-      "cãlughuriri/cãlughurire",
-      "cãluguriri/cãlugurire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugurit",
-    "headwords": [
-      "cãlughurit",
-      "cãlugurit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caluguritsa1",
-    "headwords": [
-      "cãlughuritsã1",
-      "cãluguritsã1"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caluguritsa2",
-    "headwords": [
-      "cãlughuritsã2",
-      "cãluguritsã2"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugar",
-    "headwords": [
-      "cãlughãr",
-      "cãlugãr"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarash",
-    "headwords": [
-      "cãlughãrash",
-      "cãlugãrash"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarescu1",
-    "headwords": [
-      "cãlughãrescu1",
-      "cãlugãrescu1"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarescu2",
-    "headwords": [
-      "cãlughãrescu2",
-      "cãlugãrescu2"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarii/calugarie",
-    "headwords": [
-      "cãlughãrii/cãlughãrie",
-      "cãlugãrii/cãlugãrie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugariri/calugarire",
-    "headwords": [
-      "cãlughãriri/cãlughãrire",
-      "cãlugãriri/cãlugãrire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarit",
-    "headwords": [
-      "cãlughãrit",
-      "cãlugãrit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugaritsa1",
-    "headwords": [
-      "cãlughãritsã1",
-      "cãlugãritsã1"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugaritsa2",
-    "headwords": [
-      "cãlughãritsã2",
-      "cãlugãritsã2"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calugarush",
-    "headwords": [
-      "cãlughãrush",
-      "cãlugãrush"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "calaguz",
-    "headwords": [
-      "cãlãghuz",
-      "cãlãguz"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -6421,33 +4647,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "cargaci",
-    "headwords": [
-      "cãrgaci",
-      "cãrghaci"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "carpilog",
-    "headwords": [
-      "cãrpilog",
-      "cãrpilogh"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "caragaci",
-    "headwords": [
-      "cãrãgaci",
-      "cãrãghaci"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "catir",
     "headwords": [
       "cãthir",
@@ -6484,78 +4683,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "catigurii/catigurie",
-    "headwords": [
-      "cãtighurii/cãtighurie",
-      "cãtigurii/cãtigurie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigurili/catigurile",
-    "headwords": [
-      "cãtighurilji/cãtighurilje",
-      "cãtigurilji/cãtigurilje"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigurisescu",
-    "headwords": [
-      "cãtighurisescu",
-      "cãtigurisescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigurisiri/catigurisire",
-    "headwords": [
-      "cãtighurisiri/cãtighurisire",
-      "cãtigurisiri/cãtigurisire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigurisit",
-    "headwords": [
-      "cãtighurisit",
-      "cãtigurisit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigursescu",
-    "headwords": [
-      "cãtighursescu",
-      "cãtigursescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 3
-  },
-  {
-    "normalized": "catigursiri/catigursire",
-    "headwords": [
-      "cãtighursiri/cãtighursire",
-      "cãtigursiri/cãtigursire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catigursit",
-    "headwords": [
-      "cãtighursit",
-      "cãtigursit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "caturtusiri/caturtusire",
     "headwords": [
       "cãturthusiri/cãturthusire",
@@ -6571,51 +4698,6 @@
       "cãturtusit"
     ],
     "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catargar",
-    "headwords": [
-      "cãtãrgar",
-      "cãtãrghar"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "catargarili/catargarile",
-    "headwords": [
-      "cãtãrghãrilji/cãtãrghãrilje",
-      "cãtãrgãrilji/cãtãrgãrilje"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cavga",
-    "headwords": [
-      "cãvghã",
-      "cãvgã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "cavgangi",
-    "headwords": [
-      "cãvghãngi",
-      "cãvgãngi"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "cavgatura",
-    "headwords": [
-      "cãvghãturã",
-      "cãvgãturã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -6847,17 +4929,6 @@
     "entry_count": 5
   },
   {
-    "normalized": "dialog",
-    "headwords": [
-      "dhialog",
-      "dhialogh",
-      "dialog",
-      "dialogh"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "diatiki/diatike",
     "headwords": [
       "dhiathichi/dhiathiche",
@@ -6874,17 +4945,6 @@
       "dhicarã",
       "dicara",
       "dicarã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "dikigor",
-    "headwords": [
-      "dhichighor",
-      "dhichigor",
-      "dichighor",
-      "dichigor"
     ],
     "similarity": null,
     "entry_count": 4
@@ -6936,15 +4996,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "disputaraga",
-    "headwords": [
-      "dhisputaraghã",
-      "disputaragã"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
     "normalized": "dol",
     "headwords": [
       "dhol",
@@ -6952,17 +5003,6 @@
     ],
     "similarity": 0.8888888888888888,
     "entry_count": 2
-  },
-  {
-    "normalized": "dyeargu",
-    "headwords": [
-      "dhyearghu",
-      "dhyeargu",
-      "dyearghu",
-      "dyeargu"
-    ],
-    "similarity": null,
-    "entry_count": 4
   },
   {
     "normalized": "di-alaga",
@@ -7174,24 +5214,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "dragat",
-    "headwords": [
-      "drãgat",
-      "drãghat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dragasii/dragasie",
-    "headwords": [
-      "drãghãsii/drãghãsie",
-      "drãgãsii/drãgãsie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "dubarac",
     "headwords": [
       "dubarac",
@@ -7207,42 +5229,6 @@
       "dukescu"
     ],
     "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dugan",
-    "headwords": [
-      "dugan",
-      "dughan"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dugani/dugane",
-    "headwords": [
-      "dugani/dugane",
-      "dughani/dughane"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dugana",
-    "headwords": [
-      "duganã",
-      "dughanã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dugramagi",
-    "headwords": [
-      "dughramagi",
-      "dugramagi"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -7578,24 +5564,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "dargat",
-    "headwords": [
-      "dãrgat",
-      "dãrghat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "dargasii/dargasie",
-    "headwords": [
-      "dãrghãsii/dãrghãsie",
-      "dãrgãsii/dãrgãsie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "daulari/daulare",
     "headwords": [
       "dãulari/dãulare",
@@ -7733,24 +5701,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ergataric",
-    "headwords": [
-      "ergataric",
-      "erghataric"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ergu",
-    "headwords": [
-      "erghu",
-      "ergu"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "faga",
     "headwords": [
       "fagâ",
@@ -7760,15 +5710,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "fandagma",
-    "headwords": [
-      "fandaghmã",
-      "fandagmã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "fanira",
@@ -7828,33 +5769,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "figiura",
-    "headwords": [
-      "fighiurã",
-      "figiurâ"
-    ],
-    "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "figurat",
-    "headwords": [
-      "fighurat",
-      "figurat"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "figura",
-    "headwords": [
-      "fighurã",
-      "figurâ"
-    ],
-    "similarity": 0.7692307692307693,
-    "entry_count": 2
-  },
-  {
     "normalized": "filantrop",
     "headwords": [
       "filanthrop",
@@ -7879,33 +5793,6 @@
       "filantrupilji/filantrupilje"
     ],
     "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "filolog",
-    "headwords": [
-      "filolog",
-      "filologh"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "filolug",
-    "headwords": [
-      "filolug",
-      "filolugh"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "filulog",
-    "headwords": [
-      "filulog",
-      "filulogh"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -7955,15 +5842,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "floga",
-    "headwords": [
-      "floghã",
-      "flogã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "foali/foale",
     "headwords": [
       "foali/foale",
@@ -7981,42 +5859,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "fotografiari/fotografiare",
-    "headwords": [
-      "fotoghrafiari/fotoghrafiare",
-      "fotografiari/fotografiare"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "fotografiat",
-    "headwords": [
-      "fotoghrafiat",
-      "fotografiat"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "fotografiez",
-    "headwords": [
-      "fotoghrafiedz",
-      "fotografiedz"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "fotografii/fotografie",
-    "headwords": [
-      "fotoghrafii/fotoghrafie",
-      "fotografii/fotografie"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
   },
   {
     "normalized": "francu",
@@ -8117,96 +5959,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "futugraf",
-    "headwords": [
-      "futughraf",
-      "futugraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 3
-  },
-  {
-    "normalized": "futugrafiari/futugrafiare",
-    "headwords": [
-      "futughrafiari/futughrafiare",
-      "futugrafiari/futugrafiare"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafiat",
-    "headwords": [
-      "futughrafiat",
-      "futugrafiat"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafiez",
-    "headwords": [
-      "futughrafiedz",
-      "futugrafiedz"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafili/futugrafile",
-    "headwords": [
-      "futughrafilji/futughrafilje",
-      "futugrafilji/futugrafilje"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafii/futugrafie",
-    "headwords": [
-      "futughrãfii/futughrãfie",
-      "futugrãfii/futugrãfie"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafsescu",
-    "headwords": [
-      "futughrãfsescu",
-      "futugrãfsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafsiri/futugrafsire",
-    "headwords": [
-      "futughrãfsiri/futughrãfsire",
-      "futugrãfsiri/futugrãfsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "futugrafsit",
-    "headwords": [
-      "futughrãfsit",
-      "futugrãfsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "fagura",
-    "headwords": [
-      "fãghurã",
-      "fãgurã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "gafa",
     "headwords": [
       "gafâ",
@@ -8270,51 +6022,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "galea",
-    "headwords": [
-      "galea",
-      "ghalea"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
-  },
-  {
-    "normalized": "galon",
-    "headwords": [
-      "galon",
-      "ghalon"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "galoni1/galone",
-    "headwords": [
-      "galoni1/galone",
-      "ghaloni1/ghalone"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "galoni2/galone",
-    "headwords": [
-      "galoni2/galone",
-      "ghaloni2/ghalone"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gambro",
-    "headwords": [
-      "gambro",
-      "ghambro"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "gamila",
     "headwords": [
       "gamilâ",
@@ -8325,86 +6032,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "gama",
-    "headwords": [
-      "gamâ",
-      "gamã",
-      "ghamã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gangi/gange",
-    "headwords": [
-      "gangi/gange",
-      "ghangi/ghange"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gangrena",
-    "headwords": [
-      "gangrenã",
-      "ghangrenã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganosh",
-    "headwords": [
-      "ganosh",
-      "ghanosh"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganuma",
-    "headwords": [
-      "ganumâ",
-      "ganumã",
-      "ghanumã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "garafa",
-    "headwords": [
-      "garafã",
-      "gharafã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "gara",
     "headwords": [
       "garã",
       "gãrã"
     ],
     "similarity": 0.75,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gastru",
-    "headwords": [
-      "gastru",
-      "ghastru"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gastra",
-    "headwords": [
-      "gastrã",
-      "ghastrã"
-    ],
-    "similarity": 0.9230769230769231,
     "entry_count": 2
   },
   {
@@ -8424,15 +6057,6 @@
     ],
     "similarity": 0.8571428571428571,
     "entry_count": 2
-  },
-  {
-    "normalized": "gavru",
-    "headwords": [
-      "gavru",
-      "ghavru"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
   },
   {
     "normalized": "gazepi",
@@ -8466,79 +6090,12 @@
     "entry_count": 5
   },
   {
-    "normalized": "genga",
-    "headwords": [
-      "gengâ",
-      "gengã",
-      "ghengâ",
-      "ghengã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "gia...",
-    "headwords": [
-      "ghia...",
-      "gia..."
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gimii/gimie",
-    "headwords": [
-      "ghimii/ghimie",
-      "gimii/gimie"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ginta",
-    "headwords": [
-      "ghintâ",
-      "ghintã",
-      "gintâ",
-      "gintã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
     "normalized": "gioa",
     "headwords": [
       "ghioa",
       "ghioă"
     ],
     "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gioea",
-    "headwords": [
-      "Gioea",
-      "ghioea"
-    ],
-    "similarity": 0.7272727272727273,
-    "entry_count": 2
-  },
-  {
-    "normalized": "giulgiu",
-    "headwords": [
-      "ghiulgiu",
-      "giulgiu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "giurgiuvan",
-    "headwords": [
-      "ghiurghiuvan",
-      "giurgiuvan"
-    ],
-    "similarity": 0.9090909090909091,
     "entry_count": 2
   },
   {
@@ -8560,53 +6117,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "giza",
-    "headwords": [
-      "ghizã",
-      "gizâ",
-      "gizã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "glastra",
-    "headwords": [
-      "ghlastrã",
-      "glastrã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gliba",
-    "headwords": [
-      "ghlibã",
-      "glibâ",
-      "glibã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "glicanzu",
-    "headwords": [
-      "ghlicandzu",
-      "glicandzu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glicantsu",
-    "headwords": [
-      "ghlicantsu",
-      "glicantsu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "glici",
     "headwords": [
       "ghlici",
@@ -8616,250 +6126,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "glico",
-    "headwords": [
-      "ghlico",
-      "glico"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindipsescu",
-    "headwords": [
-      "ghlindipsescu",
-      "glindipsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindipsiri/glindipsire",
-    "headwords": [
-      "ghlindipsiri/ghlindipsire",
-      "glindipsiri/glindipsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindipsit",
-    "headwords": [
-      "ghlindipsit",
-      "glindipsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindisescu",
-    "headwords": [
-      "ghlindisescu",
-      "glindisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindisiri/glindisire",
-    "headwords": [
-      "ghlindisiri/ghlindisire",
-      "glindisiri/glindisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glindisit",
-    "headwords": [
-      "ghlindisit",
-      "glindisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glinge",
-    "headwords": [
-      "ghlinge",
-      "glinge"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glistir",
-    "headwords": [
-      "ghlistir",
-      "glistir"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glup",
-    "headwords": [
-      "ghlup",
-      "glup"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glupuescu",
-    "headwords": [
-      "ghlupuescu",
-      "glupuescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glupuiri/glupuire",
-    "headwords": [
-      "ghlupuiri/ghlupuire",
-      "glupuiri/glupuire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glupuit",
-    "headwords": [
-      "ghlupuit",
-      "glupuit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glapuescu",
-    "headwords": [
-      "ghlãpuescu",
-      "glâpuescu",
-      "glãpuescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "glapuiri/glapuire",
-    "headwords": [
-      "ghlãpuiri/ghlãpuire",
-      "glãpuiri/glãpuire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "glapuit",
-    "headwords": [
-      "ghlãpuit",
-      "glãpuit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnati/gnate",
-    "headwords": [
-      "ghnati/ghnate",
-      "gnati/gnate"
-    ],
-    "similarity": 0.9166666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnisiu",
-    "headwords": [
-      "ghnisiu",
-      "gnisiu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnos",
-    "headwords": [
-      "ghnos",
-      "gnos"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnatos",
-    "headwords": [
-      "ghnãtos",
-      "gnãtos"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnatusescu",
-    "headwords": [
-      "ghnãtusescu",
-      "gnãtusescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnatusiri/gnatusire",
-    "headwords": [
-      "ghnãtusiri/ghnãtusire",
-      "gnãtusiri/gnãtusire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gnatusit",
-    "headwords": [
-      "ghnãtusit",
-      "gnãtusit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "goga",
-    "headwords": [
-      "ghoghã",
-      "gogã"
-    ],
-    "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gongizmo",
-    "headwords": [
-      "ghonghizmo",
-      "gonghizmo"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gona",
-    "headwords": [
-      "ghonja",
-      "gonja"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gorea",
-    "headwords": [
-      "ghorea",
-      "gorea"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
   },
   {
     "normalized": "gramatikii/gramatikie",
@@ -8873,80 +6139,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "gramatico",
-    "headwords": [
-      "ghramatico",
-      "gramatico"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grambel",
-    "headwords": [
-      "ghrambel",
-      "grambel"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grambeu",
-    "headwords": [
-      "ghrambeu",
-      "grambeu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grambo",
-    "headwords": [
-      "ghrambo",
-      "grambo"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gramen",
-    "headwords": [
-      "ghramen",
-      "gramen"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramusti/gramuste",
-    "headwords": [
-      "Ghramusti/Ghramuste",
-      "Gramusti/Gramuste"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grama",
-    "headwords": [
-      "ghramã",
-      "gramâ",
-      "gramã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "granzala",
-    "headwords": [
-      "ghrandzalã",
-      "grandzalâ",
-      "grandzalã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "granza",
     "headwords": [
       "ghrandzã",
@@ -8958,800 +6150,12 @@
     "entry_count": 4
   },
   {
-    "normalized": "gravano",
-    "headwords": [
-      "ghravano",
-      "gravano"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 3
-  },
-  {
-    "normalized": "grip2",
-    "headwords": [
-      "ghrip2",
-      "grip2"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grip3",
-    "headwords": [
-      "ghrip3",
-      "grip3"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "griv",
-    "headwords": [
-      "ghriv",
-      "griv"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grivuescu",
-    "headwords": [
-      "ghrivuescu",
-      "grivuescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
-    "normalized": "grivuiri/grivuire",
-    "headwords": [
-      "ghrivuiri/ghrivuire",
-      "grivuiri/grivuire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grivuit",
-    "headwords": [
-      "ghrivuit",
-      "grivuit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grivanush",
-    "headwords": [
-      "ghrivãnush",
-      "grivãnush"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gromin1",
-    "headwords": [
-      "ghromin1",
-      "gromin1"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gromin2",
-    "headwords": [
-      "ghromin2",
-      "gromin2"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramustean",
-    "headwords": [
-      "ghrãmustean",
-      "grãmustean"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramustinescu",
-    "headwords": [
-      "ghrãmustinescu",
-      "grâmustinescu",
-      "grãmustinescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gramatic",
-    "headwords": [
-      "ghrãmãtic",
-      "grãmãtic"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramatica",
-    "headwords": [
-      "ghrãmãticã",
-      "grãmãticã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramatipsescu",
-    "headwords": [
-      "ghrãmãtipsescu",
-      "grãmãtipsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramatipsiri/gramatipsire",
-    "headwords": [
-      "ghrãmãtipsiri/ghrãmãtipsire",
-      "grãmãtipsiri/grãmãtipsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gramatipsit",
-    "headwords": [
-      "ghrãmãtipsit",
-      "grãmãtipsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grapsescu",
-    "headwords": [
-      "ghrãpsescu",
-      "grãpsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grapsiri/grapsire",
-    "headwords": [
-      "ghrãpsiri/ghrãpsire",
-      "grãpsiri/grãpsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "grapsit",
-    "headwords": [
-      "ghrãpsit",
-      "grãpsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gratsansescu",
-    "headwords": [
-      "ghrãtsãnsescu",
-      "grãtsãnsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gratsansiri/gratsansire",
-    "headwords": [
-      "ghrãtsãnsiri/ghrãtsãnsire",
-      "grãtsãnsiri/grãtsãnsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gratsansit",
-    "headwords": [
-      "ghrãtsãnsit",
-      "grãtsãnsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gudii/gudie",
-    "headwords": [
-      "ghudhii/ghudhie",
-      "gudii/gudie"
-    ],
-    "similarity": 0.8461538461538461,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumar",
-    "headwords": [
-      "ghumar",
-      "gumar"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarangat",
-    "headwords": [
-      "ghumarangath",
-      "gumarangath"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarar",
-    "headwords": [
-      "ghumãrar",
-      "gumãrar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumareashti/gumareashte",
-    "headwords": [
-      "ghumãreashti/gumãreashte",
-      "gumãreashti/gumãreashte"
-    ],
-    "similarity": 0.9787234042553191,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarescu",
-    "headwords": [
-      "ghumãrescu",
-      "gumãrescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumaric",
-    "headwords": [
-      "ghumãric",
-      "gumãric"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarici",
-    "headwords": [
-      "ghumãrici",
-      "gumãrici"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarishcu",
-    "headwords": [
-      "ghumãrishcu",
-      "gumãrishcu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarlaki/gumarlake",
-    "headwords": [
-      "ghumãrlãchi/gumãrlãche",
-      "gumãrlãchi/gumãrlãche"
-    ],
-    "similarity": 0.9767441860465116,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarsescu",
-    "headwords": [
-      "ghumãrsescu",
-      "gumãrsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarsiri/gumarsire",
-    "headwords": [
-      "ghumãrsiri/gumãrsire",
-      "gumãrsiri/gumãrsire"
-    ],
-    "similarity": 0.9743589743589743,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarsit",
-    "headwords": [
-      "ghumãrsit",
-      "gumãrsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gumarats",
-    "headwords": [
-      "ghumãrãts",
-      "gumãrãts"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "guneaua",
-    "headwords": [
-      "ghuneauã",
-      "guneauã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gungisescu",
-    "headwords": [
-      "ghunghisescu",
-      "gunghisescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gungisiri/gungisire",
-    "headwords": [
-      "ghunghisiri/ghunghisire",
-      "gunghisiri/gunghisire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gungisit",
-    "headwords": [
-      "ghunghisit",
-      "gunghisit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "guno",
-    "headwords": [
-      "ghunjo",
-      "gunjo"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunos",
-    "headwords": [
-      "ghunos",
-      "gunos"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunusar",
-    "headwords": [
-      "ghunusar",
-      "gunusar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunusescu",
-    "headwords": [
-      "ghunusescu",
-      "gunusescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gunusiri/gunusire",
-    "headwords": [
-      "ghunusiri/ghunusire",
-      "gunusiri/gunusire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunusit",
-    "headwords": [
-      "ghunusit",
-      "gunusit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunusos",
-    "headwords": [
-      "ghunusos",
-      "gunusos"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunustar",
-    "headwords": [
-      "ghunustar",
-      "gunustar"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gunusarescu",
-    "headwords": [
-      "ghunusãrescu",
-      "gunusârescu",
-      "gunusãrescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gunusarimi/gunusarime",
-    "headwords": [
-      "ghunusãrimi/ghunusãrime",
-      "gunusãrimi/gunusãrime"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "guna",
-    "headwords": [
-      "ghunã",
-      "gunâ",
-      "gunã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "gurnitsa",
-    "headwords": [
-      "ghurnitsã",
-      "gurnitsã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustari/gustare",
-    "headwords": [
-      "ghustari/ghustare",
-      "gustari/gustare"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustat",
-    "headwords": [
-      "ghustat",
-      "gustat"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustos",
-    "headwords": [
-      "ghustos",
-      "gustos"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustu1",
-    "headwords": [
-      "ghustu1",
-      "gustu1"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustu2",
-    "headwords": [
-      "ghustu2",
-      "gustu2"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gustu3",
-    "headwords": [
-      "ghustu3",
-      "gustu3"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaci",
-    "headwords": [
-      "ghãci",
-      "gãci"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitan",
-    "headwords": [
-      "ghãitan",
-      "gãitan"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitani/gaitane",
-    "headwords": [
-      "ghãitani/ghãitane",
-      "gãitani/gãitane"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanari/gaitanare",
-    "headwords": [
-      "ghãitãnari/ghãitãnare",
-      "gãitãnari/gãitãnare"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanat1",
-    "headwords": [
-      "ghãitãnat1",
-      "gãitãnat1"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanat2",
-    "headwords": [
-      "ghãitãnat2",
-      "gãitãnat2"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanez",
-    "headwords": [
-      "ghãitãnedz",
-      "gãitãnedz"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanescu",
-    "headwords": [
-      "ghãitãnescu",
-      "gãitãnescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitangi",
-    "headwords": [
-      "ghãitãngi",
-      "gãitãngi"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitaniri/gaitanire",
-    "headwords": [
-      "ghãitãniri/ghãitãnire",
-      "gãitãniri/gãitãnire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gaitanit",
-    "headwords": [
-      "ghãitãnit",
-      "gãitãnit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "galica",
-    "headwords": [
-      "ghãlicã",
-      "gãlicã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "galangi",
-    "headwords": [
-      "ghãlãngi",
-      "gãlãngi"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "galatsida",
-    "headwords": [
-      "ghãlãtsidhã",
-      "ghãlãtsidã",
-      "gãlãtsidhã",
-      "gãlãtsidã"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "ganusar",
-    "headwords": [
-      "ghãnusar",
-      "gãnusar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganusescu",
-    "headwords": [
-      "ghãnusescu",
-      "gãnusescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganusiri/ganusire",
-    "headwords": [
-      "ghãnusiri/ghãnusire",
-      "gãnusiri/gãnusire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganusit",
-    "headwords": [
-      "ghãnusit",
-      "gãnusit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganustar",
-    "headwords": [
-      "ghãnustar",
-      "gãnustar"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganusarescu",
-    "headwords": [
-      "ghãnusãrescu",
-      "gãnusãrescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ganusarimi/ganusarime",
-    "headwords": [
-      "ghãnusãrimi/ghãnusãrime",
-      "gãnusãrimi/gãnusãrime"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gareaua",
-    "headwords": [
-      "ghãreauã",
-      "gãreauã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gargalari/gargalare",
-    "headwords": [
-      "ghãrghãlari/ghãrghãlare",
-      "gãrgãlari/gãrgãlare"
-    ],
-    "similarity": 0.9047619047619048,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gargalat",
-    "headwords": [
-      "ghãrghãlat",
-      "gãrgãlat"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gargalau",
-    "headwords": [
-      "ghãrghãlau",
-      "gãrgãlau"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gargalici",
-    "headwords": [
-      "ghãrghãlici",
-      "gãrgãlici"
-    ],
-    "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gargarici",
-    "headwords": [
-      "ghãrghãrici",
-      "gãrgãrici"
-    ],
-    "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
     "normalized": "gavata",
     "headwords": [
       "ghãvathã",
       "gãvatã"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "gavruriu",
-    "headwords": [
-      "ghãvruriu",
-      "gãvruriu"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -10066,15 +6470,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "hirurgu",
-    "headwords": [
-      "hirurghu",
-      "hirurgu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "hlara",
     "headwords": [
       "hljara",
@@ -10121,42 +6516,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "igrasii/igrasie",
-    "headwords": [
-      "ighrasii/ighrasie",
-      "igrasii/igrasie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "igrasios",
-    "headwords": [
-      "ighrasios",
-      "igrasios"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "igumin",
-    "headwords": [
-      "ighumin",
-      "igumin"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iguminii/iguminie",
-    "headwords": [
-      "ighuminii/ighuminie",
-      "iguminii/iguminie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
   },
   {
     "normalized": "ileftir",
@@ -10213,55 +6572,10 @@
     "entry_count": 2
   },
   {
-    "normalized": "ipirgu",
-    "headwords": [
-      "ipirghu",
-      "ipirgu"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "ipotisi/ipotise",
     "headwords": [
       "ipothisi/ipothise",
       "ipotisi/ipotise"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ipugrapsescu",
-    "headwords": [
-      "ipughrãpsescu",
-      "ipugrãpsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ipugrapsiri/ipugrapsire",
-    "headwords": [
-      "ipughrãpsiri/ipughrãpsire",
-      "ipugrãpsiri/ipugrãpsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ipugrapsit",
-    "headwords": [
-      "ipughrãpsit",
-      "ipugrãpsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "irgalii/irgalie",
-    "headwords": [
-      "irghãlii/irghãlie",
-      "irgãlii/irgãlie"
     ],
     "similarity": 0.9375,
     "entry_count": 2
@@ -10274,88 +6588,6 @@
     ],
     "similarity": 0.8571428571428571,
     "entry_count": 3
-  },
-  {
-    "normalized": "iurgan",
-    "headwords": [
-      "iurgan",
-      "iurghan"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iurgani1/iurgane",
-    "headwords": [
-      "iurgani1/iurgane",
-      "iurghani1/iurghane"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iurgani2/iurgane",
-    "headwords": [
-      "iurgani2/iurgane",
-      "iurghani2/iurghane"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iurgangi",
-    "headwords": [
-      "iurghãngi",
-      "iurgãngi"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "iutagani/iutagane",
-    "headwords": [
-      "iutãgani/iutãgane",
-      "iutãghani/iutãghane"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "jegna",
-    "headwords": [
-      "jeghnã",
-      "jegnã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "jigo",
-    "headwords": [
-      "jigho",
-      "jigo"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "jigarditsa",
-    "headwords": [
-      "jighãrdhitsã",
-      "jigârditsâ",
-      "jigãrditsã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "jugurditsa",
-    "headwords": [
-      "jughurdhitsã",
-      "jugurditsã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
   },
   {
     "normalized": "junescu",
@@ -10547,15 +6779,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "lemargu",
-    "headwords": [
-      "lemarghu",
-      "lemargu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "lepuri/lepure",
     "headwords": [
       "lepuri/lepure",
@@ -10580,96 +6803,6 @@
       "lji2"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligdos",
-    "headwords": [
-      "ligdos",
-      "lighdhos"
-    ],
-    "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligda",
-    "headwords": [
-      "ligdã",
-      "lighdhã"
-    ],
-    "similarity": 0.8333333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligoaci/ligoace",
-    "headwords": [
-      "lighoaci/lighoace",
-      "ligoaci/ligoace"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligon",
-    "headwords": [
-      "lighon",
-      "ligon"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligucear",
-    "headwords": [
-      "lighucear",
-      "ligucear"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligusescu",
-    "headwords": [
-      "lighusescu",
-      "ligusescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligusiri/ligusire",
-    "headwords": [
-      "lighusiri/lighusire",
-      "ligusiri/ligusire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligusit",
-    "headwords": [
-      "lighusit",
-      "ligusit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligutastru",
-    "headwords": [
-      "lighutastru",
-      "ligutastru"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ligareaua",
-    "headwords": [
-      "lighãreauã",
-      "ligãreauã"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -10837,15 +6970,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "liturgo",
-    "headwords": [
-      "liturgho",
-      "liturgo"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "lahura",
     "headwords": [
       "ljahurã",
@@ -10902,105 +7026,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "lugaryeazmo",
-    "headwords": [
-      "lugaryeazmo",
-      "lugharyeazmo"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugrii/lugrie",
-    "headwords": [
-      "lughrii/lughrie",
-      "lugrii/lugrie"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugumi/lugume",
-    "headwords": [
-      "lughumi/lughume",
-      "lugumi/lugume"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugurii/lugurie",
-    "headwords": [
-      "lughurii/lughurie",
-      "lugurii/lugurie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugursescu",
-    "headwords": [
-      "lughursescu",
-      "lugursescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugursiri/lugursire",
-    "headwords": [
-      "lughursiri/lughursire",
-      "lugursiri/lugursire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lugursit",
-    "headwords": [
-      "lughursit",
-      "lugursit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luguryeazmo",
-    "headwords": [
-      "lughuryeazmo",
-      "luguryeazmo"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luguryisescu",
-    "headwords": [
-      "lughuryisescu",
-      "luguryisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luguryisiri/luguryisire",
-    "headwords": [
-      "lughuryisiri/lughuryisire",
-      "luguryisiri/luguryisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "luguryisit",
-    "headwords": [
-      "lughuryisit",
-      "luguryisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
   },
   {
     "normalized": "lumakitsa",
@@ -11100,69 +7125,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "lagara",
-    "headwords": [
-      "lãgarã",
-      "lãgharã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagud",
-    "headwords": [
-      "lãghudh",
-      "lãgud"
-    ],
-    "similarity": 0.8333333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagumi/lagume",
-    "headwords": [
-      "lãghumi/lãghume",
-      "lãgumi/lãgume"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagaros",
-    "headwords": [
-      "lãghãros",
-      "lãgãros"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagarsescu",
-    "headwords": [
-      "lãghãrsescu",
-      "lãgãrsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagarsiri/lagarsire",
-    "headwords": [
-      "lãghãrsiri/lãghãrsire",
-      "lãgãrsiri/lãgãrsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "lagarsit",
-    "headwords": [
-      "lãghãrsit",
-      "lãgãrsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "lamnii/lamnie",
     "headwords": [
       "lãmnii/lãmnie",
@@ -11260,69 +7222,6 @@
       "mãcioc"
     ],
     "similarity": 0.8333333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magnet",
-    "headwords": [
-      "maghnet",
-      "magnet"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magneti/magnete",
-    "headwords": [
-      "maghneti/maghnete",
-      "magneti/magnete"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magnetizmo",
-    "headwords": [
-      "maghnetizmo",
-      "magnetizmo"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magneta",
-    "headwords": [
-      "maghnetã",
-      "magnetã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magnitizari/magnitizare",
-    "headwords": [
-      "maghnitidzari/maghnitidzare",
-      "magnitidzari/magnitidzare"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magnitizat",
-    "headwords": [
-      "maghnitidzat",
-      "magnitidzat"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magnitizez",
-    "headwords": [
-      "maghnitidzedz",
-      "magnitidzedz"
-    ],
-    "similarity": 0.96,
     "entry_count": 2
   },
   {
@@ -11677,69 +7576,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "meglemi/megleme",
-    "headwords": [
-      "meghlemi/meghleme",
-      "meglemi/megleme"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "migdal",
-    "headwords": [
-      "migdal",
-      "mighdal"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "migdalat",
-    "headwords": [
-      "migdalat",
-      "mighdalat"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "migdala",
-    "headwords": [
-      "migdalã",
-      "mighdalã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "migdani/migdane",
-    "headwords": [
-      "migdani/migdane",
-      "mighdani/mighdane"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "migdalaua",
-    "headwords": [
-      "migdãljauã",
-      "mighdãljauã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "miglemi/migleme",
-    "headwords": [
-      "mighlemi/mighleme",
-      "miglemi/migleme"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "militsa",
     "headwords": [
       "militsâ",
@@ -11758,24 +7594,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "mingiushu",
-    "headwords": [
-      "minghiushu",
-      "mingiushu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "miryiulog",
-    "headwords": [
-      "miryiulog",
-      "miryiulogh"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
   },
   {
     "normalized": "mitani, mitan",
@@ -12022,51 +7840,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "magirii/magirie",
-    "headwords": [
-      "Mãgirii/Mãgirie",
-      "mãghirii/mãghirie"
-    ],
-    "similarity": 0.8125,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magula",
-    "headwords": [
-      "mãghulã",
-      "mãgulã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magajar",
-    "headwords": [
-      "mãghãjar",
-      "mãgãjar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magazar",
-    "headwords": [
-      "mãghãzar",
-      "mãgãzar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "magazii/magazie",
-    "headwords": [
-      "mãghãzii/mãghãzie",
-      "mãgãzii/mãgãzie"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
     "normalized": "magaza",
     "headwords": [
       "mãghãzã",
@@ -12075,15 +7848,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "magazator",
-    "headwords": [
-      "mãghãzãtor",
-      "mãgãzãtor"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
   },
   {
     "normalized": "malata",
@@ -12095,48 +7859,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "malagar",
-    "headwords": [
-      "mãlãgar",
-      "mãlãghar"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "mangari/mangare",
     "headwords": [
       "mãngari/mãngare",
       "mãngãri/mãngãre"
     ],
     "similarity": 0.8666666666666667,
-    "entry_count": 2
-  },
-  {
-    "normalized": "mangiush",
-    "headwords": [
-      "mãnghiush",
-      "mãngiush"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "margaritari1/margaritare",
-    "headwords": [
-      "mãrghãritari1/mãrghãritare",
-      "mãrgãritari1/mãrgãritare"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "margaritari2/margaritare",
-    "headwords": [
-      "mãrghãritari2/mãrghãritare",
-      "mãrgãritari2/mãrgãritare"
-    ],
-    "similarity": 0.96,
     "entry_count": 2
   },
   {
@@ -12248,15 +7976,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "narga",
-    "headwords": [
-      "narga",
-      "nargha"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 3
   },
   {
     "normalized": "nari/nare",
@@ -12416,15 +8135,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "neasiguriftu",
-    "headwords": [
-      "neasighuriftu",
-      "neasiguriftu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
     "normalized": "neca",
     "headwords": [
       "neca",
@@ -12478,34 +8188,6 @@
       "njes"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ngrapsescu",
-    "headwords": [
-      "nghrãpsescu",
-      "ngrâpsescu",
-      "ngrãpsescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "ngrapsiri/ngrapsire",
-    "headwords": [
-      "nghrãpsiri/nghrãpsire",
-      "ngrãpsiri/ngrãpsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ngrapsit",
-    "headwords": [
-      "nghrãpsit",
-      "ngrãpsit"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -12684,39 +8366,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "niparigursiri/niparigursire",
-    "headwords": [
-      "nipãrighursiri/nipãrighursire",
-      "nipãrigursiri/nipãrigursire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "niparigursit",
-    "headwords": [
-      "nipãrighursit",
-      "nipãrigursit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
     "normalized": "nirzeari/nirzeare",
     "headwords": [
       "nirdzeari/nirdzeare",
       "njirdzeari/njirdzeare"
     ],
     "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nirugalaz",
-    "headwords": [
-      "nirugalaz",
-      "nirughalaz"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -12807,42 +8462,6 @@
       "njishuredz"
     ],
     "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nisigur",
-    "headwords": [
-      "nisighur",
-      "nisigur"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nisiguripsiri/nisiguripsire",
-    "headwords": [
-      "nisighuripsiri/nisighuripsire",
-      "nisiguripsiri/nisiguripsire"
-    ],
-    "similarity": 0.9642857142857143,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nisiguripsit",
-    "headwords": [
-      "nisighuripsit",
-      "nisiguripsit"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "nisigurliki/nisigurlike",
-    "headwords": [
-      "nisighurlichi/nisighurliche",
-      "nisigurlichi/nisigurliche"
-    ],
-    "similarity": 0.9615384615384616,
     "entry_count": 2
   },
   {
@@ -13029,33 +8648,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "ntalagan",
-    "headwords": [
-      "ntãlaghãn",
-      "ntãlagãn"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ntalaganari/ntalaganare",
-    "headwords": [
-      "ntãlãghãnari/ntãlãghãnare",
-      "ntãlãgãnari/ntãlãgãnare"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ntalaganat",
-    "headwords": [
-      "ntãlãghãnat",
-      "ntãlãgãnat"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "nutii/nutie",
     "headwords": [
       "nuthii/nuthie",
@@ -13184,15 +8776,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "organ",
-    "headwords": [
-      "organ",
-      "orghan"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "ortodoxu",
     "headwords": [
       "orthodhoxu",
@@ -13222,15 +8805,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "pagalea",
-    "headwords": [
-      "pagalea",
-      "paghalea"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "paimani",
@@ -13332,15 +8906,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "panugomi/panugome",
-    "headwords": [
-      "panughomi/panughome",
-      "panugomi/panugome"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "pana",
     "headwords": [
       "panâ",
@@ -13370,15 +8935,6 @@
       "papã2"
     ],
     "similarity": 0.8,
-    "entry_count": 2
-  },
-  {
-    "normalized": "papagal",
-    "headwords": [
-      "papagal",
-      "papaghal"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -13428,24 +8984,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "paradigma",
-    "headwords": [
-      "paradighmã",
-      "paradigmã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragraf",
-    "headwords": [
-      "paraghraf",
-      "paragraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "paralau",
@@ -13602,61 +9140,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "peagalea",
-    "headwords": [
-      "peagalea",
-      "peaghalea"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "peanarga",
-    "headwords": [
-      "peanarga",
-      "peanargha"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pelag",
-    "headwords": [
-      "pelag",
-      "pelagh"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pelargu",
-    "headwords": [
-      "pelarghu",
-      "pelargu"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pergura",
-    "headwords": [
-      "perghurã",
-      "pergurâ",
-      "pergurã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "periergu",
-    "headwords": [
-      "perierghu",
-      "periergu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "picna",
     "headwords": [
       "picna",
@@ -13666,15 +9149,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "pidagog",
-    "headwords": [
-      "pidagog",
-      "pidhaghogh"
-    ],
-    "similarity": 0.8235294117647058,
-    "entry_count": 2
   },
   {
     "normalized": "pizul",
@@ -13692,15 +9166,6 @@
       "pizuljiu"
     ],
     "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pigadi/pigade",
-    "headwords": [
-      "pigadi/pigade",
-      "pighadhi/pighadhe"
-    ],
-    "similarity": 0.8666666666666667,
     "entry_count": 2
   },
   {
@@ -13724,24 +9189,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "pirgu",
-    "headwords": [
-      "pirghu",
-      "pirgu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pirgurii/pirgurie",
-    "headwords": [
-      "pirghurii/pirghurie",
-      "pirgurii/pirgurie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "pirmit",
     "headwords": [
       "pirmit",
@@ -13760,30 +9207,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "pitalurga",
-    "headwords": [
-      "pitalurghã",
-      "pitalurgã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "pitari/pitare",
     "headwords": [
       "pitari/pitare",
       "pithari/pithare"
     ],
     "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pitalog",
-    "headwords": [
-      "pitãlog",
-      "pitãlogh"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -13830,60 +9259,6 @@
       "pljeacâ"
     ],
     "similarity": 0.7692307692307693,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pliguescu",
-    "headwords": [
-      "plighuescu",
-      "pliguescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 3
-  },
-  {
-    "normalized": "pliguiri/pliguire",
-    "headwords": [
-      "plighuiri/plighuire",
-      "pliguiri/pliguire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pliguit",
-    "headwords": [
-      "plighuit",
-      "pliguit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pligusescu",
-    "headwords": [
-      "plighusescu",
-      "pligusescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pligusiri/pligusire",
-    "headwords": [
-      "plighusiri/plighusire",
-      "pligusiri/pligusire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pligusit",
-    "headwords": [
-      "plighusit",
-      "pligusit"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -13993,51 +9368,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "preagalea",
-    "headwords": [
-      "preagalea",
-      "preaghalea"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "preanarga",
-    "headwords": [
-      "preanarga",
-      "preanargha"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "progon",
-    "headwords": [
-      "proghon",
-      "progon"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "programa",
-    "headwords": [
-      "proghramã",
-      "programã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "propaganda",
-    "headwords": [
-      "propagandã",
-      "propaghandã"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "protesmii/protesmie",
     "headwords": [
       "protesmii/protesmie",
@@ -14080,15 +9410,6 @@
       "prozgãl"
     ],
     "similarity": 0.8571428571428571,
-    "entry_count": 2
-  },
-  {
-    "normalized": "prugomi/prugome",
-    "headwords": [
-      "prughomi/prughome",
-      "prugomi/prugome"
-    ],
-    "similarity": 0.9375,
     "entry_count": 2
   },
   {
@@ -14162,24 +9483,6 @@
       "psutii/psutie"
     ],
     "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pugaci/pugace",
-    "headwords": [
-      "pugaci/pugace",
-      "pughaci/pughace"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pugunic",
-    "headwords": [
-      "pughunic",
-      "pugunic"
-    ],
-    "similarity": 0.9333333333333333,
     "entry_count": 2
   },
   {
@@ -14266,16 +9569,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "paragurisescu",
-    "headwords": [
-      "pârâgurisescu",
-      "pãrãghurisescu",
-      "pãrãgurisescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "paramit",
     "headwords": [
       "pârâmith",
@@ -14314,33 +9607,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "pagani/pagane",
-    "headwords": [
-      "pãgani/pãgane",
-      "pãghani/pãghane"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pagana",
-    "headwords": [
-      "pãganã",
-      "pãghanã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pagur",
-    "headwords": [
-      "pãghur",
-      "pãgur"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "palatiri/palatire",
     "headwords": [
       "pãlãthiri/pãlãthire",
@@ -14356,78 +9622,6 @@
       "pãngãr"
     ],
     "similarity": 0.8333333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pargurii/pargurie",
-    "headwords": [
-      "pãrghurii/pãrghurie",
-      "pãrgurii/pãrgurie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pargurisescu",
-    "headwords": [
-      "pãrghurisescu",
-      "pãrgurisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pargurisiri/pargurisire",
-    "headwords": [
-      "pãrghurisiri/pãrghurisire",
-      "pãrgurisiri/pãrgurisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "pargurisit",
-    "headwords": [
-      "pãrghurisit",
-      "pãrgurisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "parigurii/parigurie",
-    "headwords": [
-      "pãrighurii/pãrighurie",
-      "pãrigurii/pãrigurie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "parigursescu",
-    "headwords": [
-      "pãrighursescu",
-      "pãrigursescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "parigursiri/parigursire",
-    "headwords": [
-      "pãrighursiri/pãrighursire",
-      "pãrigursiri/pãrigursire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "parigursit",
-    "headwords": [
-      "pãrighursit",
-      "pãrigursit"
-    ],
-    "similarity": 0.9523809523809523,
     "entry_count": 2
   },
   {
@@ -14467,60 +9661,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "paragurii/paragurie",
-    "headwords": [
-      "pãrãghurii/pãrãghurie",
-      "pãrãgurii/pãrãgurie"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragurisiri/paragurisire",
-    "headwords": [
-      "pãrãghurisiri/pãrãghurisire",
-      "pãrãgurisiri/pãrãgurisire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragurisit",
-    "headwords": [
-      "pãrãghurisit",
-      "pãrãgurisit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragursescu",
-    "headwords": [
-      "pãrãghursescu",
-      "pãrãgursescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragursiri/paragursire",
-    "headwords": [
-      "pãrãghursiri/pãrãghursire",
-      "pãrãgursiri/pãrãgursire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "paragursit",
-    "headwords": [
-      "pãrãghursit",
-      "pãrãgursit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
     "normalized": "paratiri/paratire",
     "headwords": [
       "pãrãthiri/pãrãthire",
@@ -14548,30 +9688,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "rigan",
-    "headwords": [
-      "rigan",
-      "righan"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "riga",
     "headwords": [
       "righa",
       "rigã"
     ],
     "similarity": 0.6666666666666666,
-    "entry_count": 2
-  },
-  {
-    "normalized": "rugani/rugane",
-    "headwords": [
-      "rugani/rugane",
-      "rughani/rughane"
-    ],
-    "similarity": 0.9285714285714286,
     "entry_count": 2
   },
   {
@@ -14583,15 +9705,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "ragazi/ragaze",
-    "headwords": [
-      "rãgazi/rãgaze",
-      "rãghazi/rãghaze"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
   },
   {
     "normalized": "raniri/ranire",
@@ -14638,24 +9751,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "saglamcu",
-    "headwords": [
-      "saghlamcu",
-      "saglamcu"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "saglami",
-    "headwords": [
-      "saghlami",
-      "saglami"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "sahatci",
@@ -15062,60 +10157,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "sigur",
-    "headwords": [
-      "sighur",
-      "sigur"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "siguripsescu",
-    "headwords": [
-      "sighuripsescu",
-      "siguripsescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "siguripsiri/siguripsire",
-    "headwords": [
-      "sighuripsiri/sighuripsire",
-      "siguripsiri/siguripsire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "siguripsit",
-    "headwords": [
-      "sighuripsit",
-      "siguripsit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "sigurliki/sigurlike",
-    "headwords": [
-      "sighurlichi/sighurliche",
-      "sigurlichi/sigurliche"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "siga",
-    "headwords": [
-      "sighã",
-      "sigã"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
     "normalized": "simatiti",
     "headwords": [
       "simathiti",
@@ -15123,26 +10164,6 @@
     ],
     "similarity": 0.9411764705882353,
     "entry_count": 3
-  },
-  {
-    "normalized": "simigdali/simigdale",
-    "headwords": [
-      "simigdali/simigdale",
-      "simigdhali/simigdhale",
-      "simighdali/simighdale",
-      "simighdhali/simighdhale"
-    ],
-    "similarity": null,
-    "entry_count": 4
-  },
-  {
-    "normalized": "sindagma",
-    "headwords": [
-      "sindaghmã",
-      "sindagmã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "sindukisescu",
@@ -15330,51 +10351,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "stigmii1/stigmie",
-    "headwords": [
-      "stighmii1/stighmie",
-      "stigmii1/stigmie"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stigmii2/stigmie",
-    "headwords": [
-      "stighmii2/stighmie",
-      "stigmii2/stigmie"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stigmusescu",
-    "headwords": [
-      "stighmusescu",
-      "stigmusescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stigmusiri/stigmusire",
-    "headwords": [
-      "stighmusiri/stighmusire",
-      "stigmusiri/stigmusire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "stigmusit",
-    "headwords": [
-      "stighmusit",
-      "stigmusit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "strabalu",
     "headwords": [
       "strabalu",
@@ -15392,15 +10368,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "stratigo",
-    "headwords": [
-      "stratigho",
-      "stratigo"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
   },
   {
     "normalized": "straush",
@@ -15439,15 +10406,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "suglima",
-    "headwords": [
-      "sughlimã",
-      "suglimã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "suhaz",
@@ -15504,33 +10462,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "saglamsescu",
-    "headwords": [
-      "sãghlãmsescu",
-      "sãglãmsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "saglamsiri/saglamsire",
-    "headwords": [
-      "sãghlãmsiri/sãghlãmsire",
-      "sãglãmsiri/sãglãmsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "saglamsit",
-    "headwords": [
-      "sãghlãmsit",
-      "sãglãmsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
   },
   {
     "normalized": "sahatcilaki/sahatcilake",
@@ -15639,15 +10570,6 @@
       "tãcriri/tãcrire"
     ],
     "similarity": 0.8666666666666667,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tagma",
-    "headwords": [
-      "taghmã",
-      "tagmã"
-    ],
-    "similarity": 0.9090909090909091,
     "entry_count": 2
   },
   {
@@ -15926,15 +10848,6 @@
       "thesi/these"
     ],
     "similarity": 0.9,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tetragun",
-    "headwords": [
-      "tetraghun",
-      "tetragun"
-    ],
-    "similarity": 0.9411764705882353,
     "entry_count": 2
   },
   {
@@ -16485,42 +11398,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "tignisescu",
-    "headwords": [
-      "tighnisescu",
-      "tignisescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tignisiri/tignisire",
-    "headwords": [
-      "tighnisiri/tighnisire",
-      "tignisiri/tignisire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tignisit",
-    "headwords": [
-      "tighnisit",
-      "tignisit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tigru",
-    "headwords": [
-      "tighru",
-      "tigru"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
     "normalized": "tiganisescu",
     "headwords": [
       "tighãnisescu",
@@ -16554,42 +11431,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "tiganaua",
-    "headwords": [
-      "tighãnjauã",
-      "tigãnjauã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tigansescu",
-    "headwords": [
-      "tighãnsescu",
-      "tigãnsescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tigansiri/tigansire",
-    "headwords": [
-      "tighãnsiri/tighãnsire",
-      "tigãnsiri/tigãnsire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tigansit",
-    "headwords": [
-      "tighãnsit",
-      "tigãnsit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
     "normalized": "tilal",
     "headwords": [
       "tilal",
@@ -16599,129 +11440,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "tilegraf",
-    "headwords": [
-      "tileghraf",
-      "tilegraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligraf",
-    "headwords": [
-      "tilighraf",
-      "tiligraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafci",
-    "headwords": [
-      "tilighrafci",
-      "tiligrafci"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafciu",
-    "headwords": [
-      "tilighrafciu",
-      "tiligrafciu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafii/tiligrafie",
-    "headwords": [
-      "tilighrafii/tilighrafie",
-      "tiligrafii/tiligrafie"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrama",
-    "headwords": [
-      "tilighramã",
-      "tiligramã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafsescu",
-    "headwords": [
-      "tilighrãfsescu",
-      "tiligrãfsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafsiri/tiligrafsire",
-    "headwords": [
-      "tilighrãfsiri/tilighrãfsire",
-      "tiligrãfsiri/tiligrãfsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tiligrafsit",
-    "headwords": [
-      "tilighrãfsit",
-      "tiligrãfsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tindu-gomar",
-    "headwords": [
-      "tindu-ghomar",
-      "tindu-gomar"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
     "normalized": "tingali/tingale",
     "headwords": [
       "tingali/tingale",
       "tingãli/tingãle"
     ],
     "similarity": 0.8666666666666667,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tipugraf",
-    "headwords": [
-      "tipughraf",
-      "tipugraf"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tipugrafii/tipugrafie",
-    "headwords": [
-      "tipughrafii/tipughrafie",
-      "tipugrafii/tipugrafie"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tipugrafili/tipugrafile",
-    "headwords": [
-      "tipughrafilji/tipughrafilje",
-      "tipugrafilji/tipugrafilje"
-    ],
-    "similarity": 0.9615384615384616,
     "entry_count": 2
   },
   {
@@ -16790,42 +11514,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "trigona",
-    "headwords": [
-      "trighonã",
-      "trigonã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tragacica",
-    "headwords": [
-      "trãghãcicã",
-      "trãgãcicã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "traganos1",
-    "headwords": [
-      "trãghãnos1",
-      "trãgãnos1"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "traganos2",
-    "headwords": [
-      "trãghãnos2",
-      "trãgãnos2"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "tsapurnu",
     "headwords": [
       "tsapurnu",
@@ -16884,105 +11572,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "tsigareti/tsigarete",
-    "headwords": [
-      "tsigareti/tsigarete",
-      "tsighareti/tsigharete"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigari/tsigare",
-    "headwords": [
-      "tsigari/tsigare",
-      "tsighari/tsighare"
-    ],
-    "similarity": 0.9375,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigaroharta",
-    "headwords": [
-      "tsigarohartã",
-      "tsigharohartã"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigara",
-    "headwords": [
-      "tsigarã",
-      "tsigharã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigarida",
-    "headwords": [
-      "tsighãridã",
-      "tsigãridã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigaripsescu",
-    "headwords": [
-      "tsighãripsescu",
-      "tsigãripsescu"
-    ],
-    "similarity": 0.9629629629629629,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigaripsiri/tsigaripsire",
-    "headwords": [
-      "tsighãripsiri/tsighãripsire",
-      "tsigãripsiri/tsigãripsire"
-    ],
-    "similarity": 0.9615384615384616,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigaripsit",
-    "headwords": [
-      "tsighãripsit",
-      "tsigãripsit"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigarsescu",
-    "headwords": [
-      "tsighãrsescu",
-      "tsigãrsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigarsiri/tsigarsire",
-    "headwords": [
-      "tsighãrsiri/tsighãrsire",
-      "tsigãrsiri/tsigãrsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsigarsit",
-    "headwords": [
-      "tsighãrsit",
-      "tsigãrsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
     "normalized": "tsinitura",
     "headwords": [
       "tsiniturã",
@@ -17011,33 +11600,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "tsagarsescu",
-    "headwords": [
-      "tsãghãrsescu",
-      "tsãgãrsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsagarsiri/tsagarsire",
-    "headwords": [
-      "tsãghãrsiri/tsãghãrsire",
-      "tsãgãrsiri/tsãgãrsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tsagarsit",
-    "headwords": [
-      "tsãghãrsit",
-      "tsãgãrsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
   },
   {
     "normalized": "tuna",
@@ -17122,102 +11684,12 @@
     "entry_count": 3
   },
   {
-    "normalized": "tagar",
-    "headwords": [
-      "tãgar",
-      "tãghar"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tagari/tagare",
-    "headwords": [
-      "tãgari/tãgare",
-      "tãghari/tãghare"
-    ],
-    "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tagarcica",
-    "headwords": [
-      "tãghãrcicã",
-      "tãgãrcicã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tagargic",
-    "headwords": [
-      "tãghãrgic",
-      "tãgãrgic"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "tagargica",
-    "headwords": [
-      "tãghãrgicã",
-      "tãgãrgicã"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "talgan",
-    "headwords": [
-      "tãlgan",
-      "tãlghan"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "talagan",
-    "headwords": [
-      "tãlãgan",
-      "tãlãghan"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
-    "normalized": "talagani/talagane",
-    "headwords": [
-      "tãlãgani/tãlãgane",
-      "tãlãghani/tãlãghane"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
     "normalized": "tanali/tanale",
     "headwords": [
       "tãnali/tãnale",
       "tãnalji/tãnalje"
     ],
     "similarity": 0.9285714285714286,
-    "entry_count": 2
-  },
-  {
-    "normalized": "targacica1",
-    "headwords": [
-      "tãrghãcicã1",
-      "tãrgãcicã1"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "targacica2",
-    "headwords": [
-      "tãrghãcicã2",
-      "tãrgãcicã2"
-    ],
-    "similarity": 0.9523809523809523,
     "entry_count": 2
   },
   {
@@ -17365,15 +11837,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "uruluga",
-    "headwords": [
-      "urulughã",
-      "urulugã"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
   },
   {
     "normalized": "uvez1",
@@ -17533,16 +11996,6 @@
     "entry_count": 3
   },
   {
-    "normalized": "vigla",
-    "headwords": [
-      "vighlã",
-      "viglâ",
-      "viglã"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "vilenza",
     "headwords": [
       "vilendza",
@@ -17675,16 +12128,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "vulgarescu",
-    "headwords": [
-      "vulghãrescu",
-      "vulgârescu",
-      "vulgãrescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
     "normalized": "vumbirlaki",
     "headwords": [
       "vumbirlãchi",
@@ -17703,79 +12146,6 @@
     ],
     "similarity": null,
     "entry_count": 4
-  },
-  {
-    "normalized": "vurgur",
-    "headwords": [
-      "vurghur",
-      "vurgur"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurga",
-    "headwords": [
-      "vurghã",
-      "vurgã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurgarami/vurgarame",
-    "headwords": [
-      "vurghãrami/vurghãrame",
-      "vurgãrami/vurgãrame"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurgarari/vurgarare",
-    "headwords": [
-      "vurghãrari/vurghãrare",
-      "vurgãrari/vurgãrare"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurgarat",
-    "headwords": [
-      "vurghãrat",
-      "vurgãrat"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurgarez",
-    "headwords": [
-      "vurghãredz",
-      "vurgãredz"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vurgarescu",
-    "headwords": [
-      "vurghãrescu",
-      "vurgârescu",
-      "vurgãrescu"
-    ],
-    "similarity": null,
-    "entry_count": 3
-  },
-  {
-    "normalized": "vurgarii/vurgarie",
-    "headwords": [
-      "Vurghãrii/Vurghãrie",
-      "Vurgãrii/Vurgãrie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
   },
   {
     "normalized": "vanatu",
@@ -17836,96 +12206,6 @@
     "entry_count": 4
   },
   {
-    "normalized": "vargarami/vargarame",
-    "headwords": [
-      "vãrghãrami/vãrghãrame",
-      "vãrgãrami/vãrgãrame"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vargarari/vargarare",
-    "headwords": [
-      "vãrghãrari/vãrghãrare",
-      "vãrgãrari/vãrgãrare"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vargarat",
-    "headwords": [
-      "vãrghãrat",
-      "vãrgãrat"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vargarez",
-    "headwords": [
-      "vãrghãredz",
-      "vãrgãredz"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vargarescu",
-    "headwords": [
-      "vãrghãrescu",
-      "vãrgãrescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "vargarii/vargarie",
-    "headwords": [
-      "Vãrghãrii/Vãrghãrie",
-      "Vãrgãrii/Vãrgãrie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xaguraua",
-    "headwords": [
-      "xaghurauã",
-      "xagurauã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "xargu",
-    "headwords": [
-      "xarghu",
-      "xargu"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yeaglara",
-    "headwords": [
-      "yeaghlarã",
-      "yeaglarã"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yeagma",
-    "headwords": [
-      "yeaghmã",
-      "yeagmã"
-    ],
-    "similarity": 0.9230769230769231,
-    "entry_count": 2
-  },
-  {
     "normalized": "yincala",
     "headwords": [
       "yincalâ",
@@ -17954,42 +12234,6 @@
     "entry_count": 2
   },
   {
-    "normalized": "yitagani/yitagane",
-    "headwords": [
-      "yitãgani/yitãgane",
-      "yitãghani/yitãghane"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yiurgani/yiurgane",
-    "headwords": [
-      "yiurgani/yiurgane",
-      "yiurghani/yiurghane"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yiurgangi",
-    "headwords": [
-      "yiurghãngi",
-      "yiurgãngi"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "yiutagani/yiutagane",
-    "headwords": [
-      "yiutãgani/yiutãgane",
-      "yiutãghani/yiutãghane"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
     "normalized": "yizmaciun",
     "headwords": [
       "Yizmâciunj",
@@ -18007,15 +12251,6 @@
     ],
     "similarity": null,
     "entry_count": 3
-  },
-  {
-    "normalized": "zagon",
-    "headwords": [
-      "zaghon",
-      "zagon"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
   },
   {
     "normalized": "zaharen",
@@ -18156,219 +12391,12 @@
     "entry_count": 2
   },
   {
-    "normalized": "zigra",
-    "headwords": [
-      "zighrã",
-      "zigrã"
-    ],
-    "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "ziga",
-    "headwords": [
-      "zighã",
-      "zigã"
-    ],
-    "similarity": 0.8888888888888888,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zigasescu",
-    "headwords": [
-      "zighãsescu",
-      "zigãsescu"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zigasiri/zigasire",
-    "headwords": [
-      "zighãsiri/zighãsire",
-      "zigãsiri/zigãsire"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zigasit",
-    "headwords": [
-      "zighãsit",
-      "zigãsit"
-    ],
-    "similarity": 0.9333333333333333,
-    "entry_count": 2
-  },
-  {
     "normalized": "ziliu",
     "headwords": [
       "ziliu",
       "ziljiu"
     ],
     "similarity": 0.9090909090909091,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zivgari/zivgare",
-    "headwords": [
-      "zivgari/zivgare",
-      "zivghari/zivgare"
-    ],
-    "similarity": 0.967741935483871,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zivgarliki/zivgarlike",
-    "headwords": [
-      "zivghãrlichi/zivghãrliche",
-      "zivgãrlichi/zivgãrliche"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafescu",
-    "headwords": [
-      "zughrãfescu",
-      "zugrãfescu"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafii/zugrafie",
-    "headwords": [
-      "zughrãfii/zughrãfie",
-      "zugrãfii/zugrãfie"
-    ],
-    "similarity": 0.9444444444444444,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafiri/zugrafire",
-    "headwords": [
-      "zughrãfiri/zughrãfire",
-      "zugrãfiri/zugrãfire"
-    ],
-    "similarity": 0.95,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafisescu",
-    "headwords": [
-      "zughrãfisescu",
-      "zugrãfisescu"
-    ],
-    "similarity": 0.96,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafisiri/zugrafisire",
-    "headwords": [
-      "zughrãfisiri/zughrãfisire",
-      "zugrãfisiri/zugrãfisire"
-    ],
-    "similarity": 0.9583333333333334,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafisit",
-    "headwords": [
-      "zughrãfisit",
-      "zugrãfisit"
-    ],
-    "similarity": 0.9523809523809523,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafit",
-    "headwords": [
-      "zughrãfit",
-      "zugrãfit"
-    ],
-    "similarity": 0.9411764705882353,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafsescu",
-    "headwords": [
-      "zughrãfsescu",
-      "zugrãfsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafsiri/zugrafsire",
-    "headwords": [
-      "zughrãfsiri/zughrãfsire",
-      "zugrãfsiri/zugrãfsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrafsit",
-    "headwords": [
-      "zughrãfsit",
-      "zugrãfsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrapsescu",
-    "headwords": [
-      "zughrãpsescu",
-      "zugrãpsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrapsiri/zugrapsire",
-    "headwords": [
-      "zughrãpsiri/zughrãpsire",
-      "zugrãpsiri/zugrãpsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugrapsit",
-    "headwords": [
-      "zughrãpsit",
-      "zugrãpsit"
-    ],
-    "similarity": 0.9473684210526315,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugravsescu",
-    "headwords": [
-      "zughrãvsescu",
-      "zugrãvsescu"
-    ],
-    "similarity": 0.9565217391304348,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugravsiri/zugravsire",
-    "headwords": [
-      "zughrãvsiri/zughrãvsire",
-      "zugrãvsiri/zugrãvsire"
-    ],
-    "similarity": 0.9545454545454546,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zugravsit",
-    "headwords": [
-      "zughrãvsit",
-      "zugrãvsit"
-    ],
-    "similarity": 0.9473684210526315,
     "entry_count": 2
   },
   {
@@ -18396,15 +12424,6 @@
       "zvãrnjescu"
     ],
     "similarity": 0.8421052631578947,
-    "entry_count": 2
-  },
-  {
-    "normalized": "zagar",
-    "headwords": [
-      "zãgar",
-      "zãghar"
-    ],
-    "similarity": 0.9090909090909091,
     "entry_count": 2
   },
   {
