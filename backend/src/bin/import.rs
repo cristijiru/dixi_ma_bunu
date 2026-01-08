@@ -1,5 +1,5 @@
 use dixi_backend::db;
-use dixi_backend::models::ImportEntry;
+use dixi_backend::models::{GroupedEntry, ImportEntry};
 use std::env;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
@@ -56,25 +56,29 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             continue;
         }
 
-        let entry: ImportEntry = match serde_json::from_str(&line) {
-            Ok(e) => e,
-            Err(e) => {
-                log::warn!("Error parsing line {}: {}", line_num + 1, e);
-                errors += 1;
-                continue;
-            }
+        // Try grouped format first, then flat format
+        let entries: Vec<ImportEntry> = if let Ok(grouped) = serde_json::from_str::<GroupedEntry>(&line) {
+            grouped.entries
+        } else if let Ok(entry) = serde_json::from_str::<ImportEntry>(&line) {
+            vec![entry]
+        } else {
+            log::warn!("Error parsing line {}: unrecognized format", line_num + 1);
+            errors += 1;
+            continue;
         };
 
-        match db::queries::insert_entry(&pool, &entry).await {
-            Ok(_) => {
-                count += 1;
-                if count % 1000 == 0 {
-                    log::info!("Imported {} entries...", count);
+        for entry in entries {
+            match db::queries::insert_entry(&pool, &entry).await {
+                Ok(_) => {
+                    count += 1;
+                    if count % 1000 == 0 {
+                        log::info!("Imported {} entries...", count);
+                    }
                 }
-            }
-            Err(e) => {
-                log::warn!("Error inserting entry '{}': {}", entry.headword, e);
-                errors += 1;
+                Err(e) => {
+                    log::warn!("Error inserting entry '{}': {}", entry.headword, e);
+                    errors += 1;
+                }
             }
         }
     }

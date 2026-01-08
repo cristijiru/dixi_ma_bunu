@@ -23,7 +23,7 @@ pub struct DictionaryEntry {
     pub source_url: Option<String>,
 }
 
-/// Entry for JSON import from scraper
+/// Entry for JSON import from scraper (flat format)
 #[derive(Debug, Clone, Deserialize)]
 pub struct ImportEntry {
     pub headword: String,
@@ -44,6 +44,15 @@ pub struct ImportEntry {
     pub context: Option<String>,
     pub source: Option<String>,
     pub source_url: Option<String>,
+}
+
+/// Grouped entry format (merged entries with variants)
+#[derive(Debug, Clone, Deserialize)]
+pub struct GroupedEntry {
+    pub id: String,
+    pub canonical: String,
+    pub variants: Vec<String>,
+    pub entries: Vec<ImportEntry>,
 }
 
 /// Search result with relevance score
