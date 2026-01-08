@@ -37,6 +37,10 @@ Aromanian/Vlach dictionary web app with data scraped from dixionline.net.
 - Fuzzy matching via `pg_trgm` trigram similarity
 - Priority: exact > prefix > contains > fuzzy
 
+### Data Quirks
+
+**Parenthetical prefixes:** Some headwords start with `(a)` like `(a)fendi` meaning the `a` is optional. The backend strips these prefixes when determining the starting letter for browsing (uses `REGEXP_REPLACE(headword, '^\([^)]+\)', '')`).
+
 ### Aromanian Orthography Quirks
 The language has multiple spelling conventions. The scraper merger handles these:
 

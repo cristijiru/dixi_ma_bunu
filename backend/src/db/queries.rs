@@ -77,12 +77,14 @@ pub async fn get_random_entry(pool: &PgPool) -> Result<Option<DictionaryEntry>, 
 }
 
 /// Get all available starting letters
+/// Skips parenthetical prefixes like (a) to get the real first letter
 pub async fn get_letters(pool: &PgPool) -> Result<Vec<LetterCount>, sqlx::Error> {
     sqlx::query_as(
         r#"
-        SELECT UPPER(LEFT(headword, 1)) as letter, COUNT(*)::bigint as count
+        SELECT UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) as letter,
+               COUNT(*)::bigint as count
         FROM entries
-        GROUP BY UPPER(LEFT(headword, 1))
+        GROUP BY UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1))
         ORDER BY letter
         "#,
     )
@@ -91,6 +93,7 @@ pub async fn get_letters(pool: &PgPool) -> Result<Vec<LetterCount>, sqlx::Error>
 }
 
 /// Get entries by starting letter
+/// Skips parenthetical prefixes like (a) to match the real first letter
 pub async fn get_entries_by_letter(
     pool: &PgPool,
     letter: &str,
@@ -104,8 +107,8 @@ pub async fn get_entries_by_letter(
                etymology, examples, expressions, related_terms, context,
                source, source_url
         FROM entries
-        WHERE UPPER(LEFT(headword, 1)) = UPPER($1)
-        ORDER BY headword
+        WHERE UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) = UPPER($1)
+        ORDER BY REGEXP_REPLACE(headword, '^\([^)]+\)', ''), headword
         LIMIT $2 OFFSET $3
         "#,
     )
@@ -117,12 +120,13 @@ pub async fn get_entries_by_letter(
 }
 
 /// Count entries by letter
+/// Skips parenthetical prefixes like (a) to match the real first letter
 pub async fn count_entries_by_letter(pool: &PgPool, letter: &str) -> Result<i64, sqlx::Error> {
     sqlx::query_scalar(
         r#"
         SELECT COUNT(*)::bigint
         FROM entries
-        WHERE UPPER(LEFT(headword, 1)) = UPPER($1)
+        WHERE UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) = UPPER($1)
         "#,
     )
     .bind(letter)
