@@ -8,22 +8,13 @@ until pg_isready -h db -U dixi -d dixi > /dev/null 2>&1; do
 done
 echo "Database is ready!"
 
-# Check if data needs to be imported
-ENTRY_COUNT=$(psql "$DATABASE_URL" -t -c "SELECT COUNT(*) FROM entries;" 2>/dev/null || echo "0")
-ENTRY_COUNT=$(echo "$ENTRY_COUNT" | tr -d '[:space:]')
-
-if [ "$ENTRY_COUNT" = "0" ] || [ -z "$ENTRY_COUNT" ]; then
-  echo "Database is empty, checking for data file..."
-
-  if [ -f "/data/aromanian_dictionary.jsonl" ]; then
-    echo "Found aromanian_dictionary.jsonl, importing data..."
-    /app/import /data/aromanian_dictionary.jsonl
-    echo "Import complete!"
-  else
-    echo "No data file found at /data/aromanian_dictionary.jsonl, skipping import."
-  fi
+# Import data on every startup
+if [ -f "/data/aromanian_dictionary.jsonl" ]; then
+  echo "Found aromanian_dictionary.jsonl, importing data..."
+  /app/import /data/aromanian_dictionary.jsonl --clear
+  echo "Import complete!"
 else
-  echo "Database already has $ENTRY_COUNT entries, skipping import."
+  echo "No data file found at /data/aromanian_dictionary.jsonl, skipping import."
 fi
 
 echo "Starting server..."
