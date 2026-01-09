@@ -1,10 +1,11 @@
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import WordCard from '../components/WordCard'
 import { getWord } from '../api/client'
 
 export default function Word() {
   const { id } = useParams<{ id: string }>()
+  const navigate = useNavigate()
 
   const { data: entry, isLoading, error } = useQuery({
     queryKey: ['word', id],
@@ -43,15 +44,15 @@ export default function Word() {
 
   return (
     <div className="max-w-2xl mx-auto">
-      <Link
-        to="/"
+      <button
+        onClick={() => navigate(-1)}
         className="inline-flex items-center text-aromanian-600 dark:text-aromanian-400 hover:text-aromanian-800 dark:hover:text-aromanian-300 mb-6 transition"
       >
         <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
         </svg>
         Back
-      </Link>
+      </button>
       <WordCard entry={entry} />
     </div>
   )
