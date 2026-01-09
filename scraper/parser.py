@@ -58,6 +58,42 @@ def clean_text(text: str | None) -> str | None:
     return text if text else None
 
 
+def split_on_semicolon_outside_parens(text: str) -> list[str]:
+    """
+    Split text on semicolons, but only when outside parentheses.
+
+    This prevents splitting examples like:
+        "easti-un farmazon (un mason, maltean; icã fig: om arãu)"
+    into two separate examples.
+    """
+    parts = []
+    current = []
+    depth = 0
+
+    for char in text:
+        if char == '(':
+            depth += 1
+            current.append(char)
+        elif char == ')':
+            depth -= 1
+            current.append(char)
+        elif char == ';' and depth == 0:
+            # Split here - outside parentheses
+            part = ''.join(current).strip()
+            if part:
+                parts.append(part)
+            current = []
+        else:
+            current.append(char)
+
+    # Don't forget the last part
+    part = ''.join(current).strip()
+    if part:
+        parts.append(part)
+
+    return parts
+
+
 def parse_search_results(html: str, query_word: str) -> list[DictionaryEntry]:
     """
     Parse search results page and extract all dictionary entries.
@@ -219,7 +255,7 @@ def parse_article(article: Tag, source_query: str) -> DictionaryEntry | None:
                 example_text = clean_text(example_text)
                 if example_text:
                     # Split on semicolons for multiple examples
-                    examples = [e.strip() for e in example_text.split(';') if e.strip()]
+                    examples = split_on_semicolon_outside_parens(example_text)
                     entry.examples = examples[:10]  # Limit to 10 examples
 
         # Extract source from the "more" link
