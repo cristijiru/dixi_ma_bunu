@@ -13,8 +13,8 @@ import httpx
 from parser import parse_search_results
 from urllib.parse import quote
 
-MISSING_WORDS = ['hãrvãljisit', 'ĭefhii/ĭefhie']
-OUTPUT_FILE = Path('../data/dictionary.jsonl')
+MISSING_WORDS = ['marlu']
+OUTPUT_FILE = Path('../data/raw2/dictionary.jsonl')
 
 
 async def scrape_word(client: httpx.AsyncClient, word: str):
