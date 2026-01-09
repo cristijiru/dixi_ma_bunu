@@ -81,10 +81,10 @@ pub async fn get_random_entry(pool: &PgPool) -> Result<Option<DictionaryEntry>, 
 pub async fn get_letters(pool: &PgPool) -> Result<Vec<LetterCount>, sqlx::Error> {
     sqlx::query_as(
         r#"
-        SELECT UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) as letter,
+        SELECT UPPER(LEFT(unaccent(TRIM(REGEXP_REPLACE(headword, '^\([^)]+\)', ''))), 1)) as letter,
                COUNT(*)::bigint as count
         FROM entries
-        GROUP BY UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1))
+        GROUP BY UPPER(LEFT(unaccent(TRIM(REGEXP_REPLACE(headword, '^\([^)]+\)', ''))), 1))
         ORDER BY letter
         "#,
     )
@@ -107,8 +107,8 @@ pub async fn get_entries_by_letter(
                etymology, examples, expressions, related_terms, context,
                source, source_url
         FROM entries
-        WHERE UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) = UPPER($1)
-        ORDER BY REGEXP_REPLACE(headword, '^\([^)]+\)', ''), headword
+        WHERE UPPER(LEFT(unaccent(TRIM(REGEXP_REPLACE(headword, '^\([^)]+\)', ''))), 1)) = UPPER($1)
+        ORDER BY unaccent(TRIM(REGEXP_REPLACE(headword, '^\([^)]+\)', ''))), headword
         LIMIT $2 OFFSET $3
         "#,
     )
@@ -126,7 +126,7 @@ pub async fn count_entries_by_letter(pool: &PgPool, letter: &str) -> Result<i64,
         r#"
         SELECT COUNT(*)::bigint
         FROM entries
-        WHERE UPPER(LEFT(REGEXP_REPLACE(headword, '^\([^)]+\)', ''), 1)) = UPPER($1)
+        WHERE UPPER(LEFT(unaccent(TRIM(REGEXP_REPLACE(headword, '^\([^)]+\)', ''))), 1)) = UPPER($1)
         "#,
     )
     .bind(letter)
