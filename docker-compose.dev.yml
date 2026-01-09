@@ -25,7 +25,7 @@ services:
       DATABASE_URL: postgres://dixi:dixi@db:5432/dixi
       HOST: 0.0.0.0
       PORT: 8080
-      RUST_LOG: debug
+      RUST_LOG: debug,sqlx::query=warn
     ports:
       - "8080:8080"
     volumes:
